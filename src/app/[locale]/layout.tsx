@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { isValidLocale, locales, type Locale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/dictionaries";
+import { OrganizationJsonLd, WebSiteJsonLd, FAQJsonLd } from "./structured-data";
 import "../globals.css";
 
 type Props = {
@@ -59,7 +60,12 @@ export default async function LocaleLayout({ children, params }: Props) {
 
   return (
     <html lang={locale === "zh-HK" ? "zh-Hant-HK" : "en"}>
-      <body className="antialiased">{children}</body>
+      <body className="antialiased">
+        <OrganizationJsonLd locale={locale} />
+        <WebSiteJsonLd locale={locale} />
+        <FAQJsonLd locale={locale} />
+        {children}
+      </body>
     </html>
   );
 }
