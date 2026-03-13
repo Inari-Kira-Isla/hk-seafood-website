@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "title": "Premium Sea Urchin & Salmon | Hong Kong & Macau",
+    "description": "Hong Kong and Macau's leading supplier of premium sea urchin (uni) and salmon. Fresh from Japan, Canada, and worldwide sources. Wholesale and retail.",
+    "keywords": "sea urchin, uni, salmon, Hong Kong, Macau, seafood, Japanese uni, premium seafood, wholesale seafood, fresh salmon"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "seaUrchin": "Sea Urchin",
+    "salmon": "Salmon",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Premium Sea Urchin & Salmon",
+    "subtitle": "Hong Kong & Macau's Trusted Seafood Partner",
+    "description": "We source the finest sea urchin and salmon from Japan, Canada, and premium origins worldwide. Serving Hong Kong and Macau's top restaurants, hotels, and retailers.",
+    "cta": "Learn More"
+  },
+  "features": {
+    "qualityTitle": "Premium Quality",
+    "qualityDesc": "Hand-selected sea urchin and sashimi-grade salmon sourced from the world's best fisheries.",
+    "supplyTitle": "Reliable Supply",
+    "supplyDesc": "Consistent year-round supply chain serving Hong Kong and Macau markets.",
+    "expertTitle": "Industry Experts",
+    "expertDesc": "Deep knowledge of the sea urchin and salmon industry across grading, sourcing, and market trends."
+  },
+  "footer": {
+    "tagline": "Your trusted partner for premium sea urchin and salmon in Hong Kong & Macau.",
+    "contact": "Contact Us",
+    "followUs": "Follow Us",
+    "copyright": "All rights reserved."
+  }
+}

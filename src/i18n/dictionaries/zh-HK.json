@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "title": "優質海膽及三文魚 | 香港及澳門",
+    "description": "香港及澳門領先的優質海膽及三文魚供應商。新鮮來自日本、加拿大及全球優質產地。批發及零售。",
+    "keywords": "海膽, 三文魚, 香港, 澳門, 海鮮, 日本海膽, 優質海鮮, 批發海鮮, 新鮮三文魚, uni, sea urchin, salmon"
+  },
+  "nav": {
+    "home": "首頁",
+    "about": "關於我們",
+    "seaUrchin": "海膽",
+    "salmon": "三文魚",
+    "blog": "資訊",
+    "contact": "聯絡我們"
+  },
+  "hero": {
+    "title": "優質海膽及三文魚",
+    "subtitle": "香港及澳門值得信賴的海鮮合作夥伴",
+    "description": "我們從日本、加拿大及全球優質產地嚴選最優質的海膽及三文魚，為香港及澳門頂級餐廳、酒店及零售商提供服務。",
+    "cta": "了解更多"
+  },
+  "features": {
+    "qualityTitle": "頂級品質",
+    "qualityDesc": "嚴選手挑海膽及刺身級三文魚，來自全球最優質漁場。",
+    "supplyTitle": "穩定供應",
+    "supplyDesc": "全年穩定供應鏈，服務香港及澳門市場。",
+    "expertTitle": "行業專家",
+    "expertDesc": "對海膽及三文魚行業有深入了解，涵蓋分級、採購及市場趨勢。"
+  },
+  "footer": {
+    "tagline": "您在香港及澳門的優質海膽及三文魚信賴合作夥伴。",
+    "contact": "聯絡我們",
+    "followUs": "關注我們",
+    "copyright": "版權所有。"
+  }
+}
