@@ -188,6 +188,37 @@ export default async function SeaUrchinPage({ params }: Props) {
             <p className="text-gray-700 text-lg leading-relaxed">{c.marketText}</p>
           </div>
         </section>
+
+        {/* Sub-page navigation */}
+        <section className="py-16 px-4">
+          <div className="max-w-5xl mx-auto">
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">
+              {locale === "en" ? "Deep Dive Guides" : "深入指南"}
+            </h2>
+            <div className="grid md:grid-cols-3 gap-4">
+              {[
+                { href: `/${locale}/sea-urchin/varieties`, label: locale === "en" ? "Varieties Guide" : "品種指南", desc: locale === "en" ? "Bafun, Murasaki, Canadian, Maine" : "馬糞、紫、加拿大、緬因" },
+                { href: `/${locale}/sea-urchin/grading`, label: locale === "en" ? "Grading Standards" : "分級標準", desc: locale === "en" ? "AA, A, B grade criteria" : "AA、A、B 等級標準" },
+                { href: `/${locale}/sea-urchin/storage`, label: locale === "en" ? "Storage & Handling" : "保存與處理", desc: locale === "en" ? "Professional cold-chain guide" : "專業冷鏈指南" },
+                { href: `/${locale}/sea-urchin/season`, label: locale === "en" ? "Season Calendar" : "季節日曆", desc: locale === "en" ? "Monthly availability by variety" : "各品種月度供應日曆" },
+                { href: `/${locale}/sea-urchin/sourcing`, label: locale === "en" ? "Sourcing Origins" : "產地指南", desc: locale === "en" ? "Hokkaido, Canada, Maine" : "北海道、加拿大、緬因" },
+                { href: `/${locale}/sea-urchin/wholesale`, label: locale === "en" ? "Wholesale Supply" : "批發供應", desc: locale === "en" ? "For HK & Macau restaurants" : "香港及澳門餐廳" },
+              ].map((link) => (
+                <a
+                  key={link.href}
+                  href={link.href}
+                  className="block bg-white border border-gray-200 rounded-xl p-5 hover:border-amber-400 hover:shadow-md transition-all"
+                >
+                  <h3 className="font-bold text-gray-900 mb-1">{link.label}</h3>
+                  <p className="text-gray-500 text-sm">{link.desc}</p>
+                  <span className="text-amber-600 text-sm font-medium mt-2 inline-block">
+                    {locale === "en" ? "Read more →" : "了解更多 →"}
+                  </span>
+                </a>
+              ))}
+            </div>
+          </div>
+        </section>
       </main>
       <Footer locale={locale as Locale} dict={dict} />
     </div>

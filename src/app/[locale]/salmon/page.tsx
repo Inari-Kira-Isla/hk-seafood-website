@@ -186,6 +186,34 @@ export default async function SalmonPage({ params }: Props) {
             <p className="text-gray-700 text-lg leading-relaxed">{c.marketText}</p>
           </div>
         </section>
+
+        {/* Sub-page navigation */}
+        <section className="py-16 px-4">
+          <div className="max-w-5xl mx-auto">
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">
+              {locale === "en" ? "Detailed Guides" : "詳細指南"}
+            </h2>
+            <div className="grid md:grid-cols-3 gap-4">
+              {[
+                { href: `/${locale}/salmon/varieties`, label: locale === "en" ? "Salmon Varieties" : "三文魚品種", desc: locale === "en" ? "Atlantic, King, Sockeye comparison" : "大西洋、帝王、紅三文魚比較" },
+                { href: `/${locale}/salmon/grading`, label: locale === "en" ? "Sashimi-Grade Standards" : "刺身級標準", desc: locale === "en" ? "What sashimi-grade means in HK/Macau" : "香港及澳門的刺身級含義" },
+                { href: `/${locale}/salmon/storage`, label: locale === "en" ? "Storage & Shelf Life" : "保存與保質期", desc: locale === "en" ? "Cold chain handling for restaurants" : "餐廳冷鏈處理" },
+              ].map((link) => (
+                <a
+                  key={link.href}
+                  href={link.href}
+                  className="block bg-white border border-gray-200 rounded-xl p-5 hover:border-blue-400 hover:shadow-md transition-all"
+                >
+                  <h3 className="font-bold text-gray-900 mb-1">{link.label}</h3>
+                  <p className="text-gray-500 text-sm">{link.desc}</p>
+                  <span className="text-blue-600 text-sm font-medium mt-2 inline-block">
+                    {locale === "en" ? "Read more →" : "了解更多 →"}
+                  </span>
+                </a>
+              ))}
+            </div>
+          </div>
+        </section>
       </main>
       <Footer locale={locale as Locale} dict={dict} />
     </div>

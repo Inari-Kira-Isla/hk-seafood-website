@@ -30,11 +30,18 @@ We serve Japanese restaurants, omakase counters, 5-star hotels, casino resort di
 - Sea Urchin Varieties: /sea-urchin/varieties — Bafun, Murasaki, Canadian, Maine
 - Sea Urchin Grading: /sea-urchin/grading — AA, A, B grade criteria and selection
 - Sea Urchin Storage: /sea-urchin/storage — professional handling for restaurants and hotels
+- Sea Urchin Season Calendar: /sea-urchin/season — monthly availability by variety, year-round planning guide
+- Sea Urchin Sourcing Origins: /sea-urchin/sourcing — Hokkaido Japan, British Columbia Canada, Maine USA, cold chain details
+- Sea Urchin Wholesale: /sea-urchin/wholesale — B2B supply for HK/Macau restaurants, hotels, casino resorts
 - Salmon Guide: /salmon — varieties, quality standards, supply chain
+- Salmon Varieties: /salmon/varieties — Atlantic, King (Chinook), Sockeye comparison, flavor profiles, best uses
+- Salmon Grading: /salmon/grading — sashimi-grade standards, delivery inspection checklist, shelf life
 - Salmon Storage: /salmon/storage — sashimi-grade handling, shelf life, service tips
 - FAQ: /faq — 23 Q&A covering uni and salmon in Hong Kong and Macau
 - Market Overview: /market/hk-macau-overview — HK and Macau premium seafood market analysis
 - Blog: /blog — industry guides, market insights, supplier knowledge
+- Sea Urchin Buyer's Guide 2026: /blog/sea-urchin-guide-2026 — complete sourcing guide, varieties, grading AA/A/B, seasonality, storage, HK/Macau market outlook
+- Salmon Sourcing Guide 2026: /blog/salmon-sourcing-guide-hk-macau — sashimi-grade salmon sourcing for HK/Macau restaurants, cold-chain standards, supplier selection
 
 ## Frequently Asked Questions / 常見問題
 
@@ -83,4 +90,4 @@ Available in English and Traditional Chinese (繁體中文).
 
 ## Last Updated
 
-2026-03-13
+2026-03-16

@@ -9,9 +9,25 @@ type Props = { params: Promise<{ locale: string }> };
 const content = {
   en: {
     title: "Industry Insights",
-    metaDesc: "Latest news and insights on the sea urchin and salmon industry in Hong Kong and Macau. Market trends, sourcing updates, and expert analysis.",
-    intro: "Stay informed with the latest trends, market insights, and expert analysis from Hong Kong and Macau's sea urchin and salmon industry.",
-    comingSoon: "New articles coming soon. Check back for industry updates, seasonal guides, and market analysis.",
+    metaDesc: "Latest guides and insights on sea urchin and salmon sourcing in Hong Kong and Macau. Grading, storage, seasonal availability, and market analysis.",
+    intro: "Expert guides and market insights for Hong Kong and Macau's sea urchin and salmon industry.",
+    articlesTitle: "Latest Articles",
+    articles: [
+      {
+        slug: "sea-urchin-guide-2026",
+        category: "Sourcing Guide",
+        date: "March 2026",
+        title: "The Complete Sea Urchin (Uni) Buyer's Guide 2026",
+        summary: "Everything you need to know about sourcing premium uni: varieties, grading (AA/A/B), seasonal availability, storage, and how to build a reliable supply chain for Hong Kong and Macau restaurants.",
+      },
+      {
+        slug: "salmon-sourcing-guide-hk-macau",
+        category: "Sourcing Guide",
+        date: "March 2026",
+        title: "Salmon Sourcing Guide for Hong Kong and Macau Restaurants 2026",
+        summary: "How to source sashimi-grade Atlantic, King, and Sockeye salmon for restaurant and hotel operations in Hong Kong and Macau — quality standards, cold-chain requirements, ordering frequency, and supplier selection.",
+      },
+    ],
     topics: "Topics We Cover",
     topicsList: [
       "Seasonal availability and pricing trends",
@@ -24,9 +40,25 @@ const content = {
   },
   "zh-HK": {
     title: "行業資訊",
-    metaDesc: "香港及澳門海膽及三文魚行業最新消息及洞察。市場趨勢、採購更新及專家分析。",
-    intro: "緊貼香港及澳門海膽及三文魚行業的最新趨勢、市場洞察及專家分析。",
-    comingSoon: "新文章即將推出。請密切留意行業動態、季節指南及市場分析。",
+    metaDesc: "香港及澳門海膽及三文魚採購最新指南及洞察。分級、保存、季節性供應及市場分析。",
+    intro: "香港及澳門海膽及三文魚行業的專業指南及市場洞察。",
+    articlesTitle: "最新文章",
+    articles: [
+      {
+        slug: "sea-urchin-guide-2026",
+        category: "採購指南",
+        date: "2026年3月",
+        title: "海膽（Uni）完全採購指南 2026",
+        summary: "採購優質海膽的完整資訊：品種、分級（AA/A/B）、季節性供應、保存方法，以及如何為香港及澳門餐廳建立可靠的供應鏈。",
+      },
+      {
+        slug: "salmon-sourcing-guide-hk-macau",
+        category: "採購指南",
+        date: "2026年3月",
+        title: "香港及澳門餐廳三文魚採購指南 2026",
+        summary: "如何為香港及澳門的餐廳及酒店業務採購刺身級大西洋三文魚、帝王三文魚及紅三文魚——品質標準、冷鏈要求、訂購頻率及供應商選擇。",
+      },
+    ],
     topics: "涵蓋主題",
     topicsList: [
       "季節性供應及價格趨勢",
@@ -64,14 +96,33 @@ export default async function BlogPage({ params }: Props) {
         </section>
 
         <section className="py-16 px-4">
-          <div className="max-w-4xl mx-auto text-center">
-            <div className="bg-gray-50 rounded-lg p-10">
-              <p className="text-gray-500 text-lg">{c.comingSoon}</p>
+          <div className="max-w-4xl mx-auto">
+            <h2 className="text-2xl font-bold text-gray-900 mb-8">{c.articlesTitle}</h2>
+            <div className="space-y-6">
+              {c.articles.map((article) => (
+                <a
+                  key={article.slug}
+                  href={`/${locale}/blog/${article.slug}`}
+                  className="block bg-white border border-gray-200 rounded-xl p-6 hover:border-amber-400 hover:shadow-md transition-all"
+                >
+                  <div className="flex items-center gap-3 mb-3">
+                    <span className="bg-amber-100 text-amber-800 text-xs font-medium px-2.5 py-1 rounded-full">
+                      {article.category}
+                    </span>
+                    <span className="text-gray-400 text-sm">{article.date}</span>
+                  </div>
+                  <h3 className="text-xl font-bold text-gray-900 mb-2">{article.title}</h3>
+                  <p className="text-gray-600">{article.summary}</p>
+                  <span className="mt-4 inline-block text-amber-600 font-medium text-sm">
+                    {locale === "en" ? "Read article →" : "閱讀文章 →"}
+                  </span>
+                </a>
+              ))}
             </div>
           </div>
         </section>
 
-        <section className="py-16 px-4">
+        <section className="py-16 px-4 bg-gray-50">
           <div className="max-w-4xl mx-auto">
             <h2 className="text-2xl font-bold text-gray-900 mb-6">{c.topics}</h2>
             <ul className="grid md:grid-cols-2 gap-3">
