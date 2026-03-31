@@ -1,0 +1,12 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[[redirects]]
+  from = "/*"
+  to = "/"
+  status = 200
+
+[context.production]
+  command = "npm run build"
+  publish = ".next"
