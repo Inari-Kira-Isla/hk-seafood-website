@@ -1,0 +1,169 @@
+import { isValidLocale, type Locale } from "@/i18n/config";
+import { getDictionary } from "@/i18n/dictionaries";
+import { Header, Footer } from "@/components/navigation";
+import { notFound } from "next/navigation";
+import type { Metadata } from "next";
+
+type Props = { params: Promise<{ locale: string }> };
+
+const content = {
+  en: {
+    title: "The Complete Sea Urchin Quality Standards & Grading Masterclass",
+    metaDesc: "Professional guide to uni grading: AA/A/B standards, visual inspection, certification, testing methods. Master sea urchin quality evaluation for restaurant buying.",
+    published: "March 2026",
+    category: "Product Mastery",
+    intro: "Sea urchin (uni) grading separates excellent restaurants from average ones. Understanding how to evaluate quality — from color and firmness to aroma and origin certification — is the core skill that separates professional buyers from amateurs. This masterclass walks you through every dimension of uni quality, the international grading systems, practical evaluation methods, and how to work with producers to secure consistent AA-grade product.",
+    sections: [
+      {
+        heading: "Why Uni Grading Matters: The Restaurant Quality Spectrum",
+        body: "The difference between AA-grade and B-grade sea urchin is not cosmetic — it's the difference between a restaurant that commands premium pricing and one that competes on value.\n\n**AA-Grade Uni:**\n• Omakase-only presentation: small, pristine lobes\n• Bright golden-orange color, no discoloration\n• Firm, creamy texture that holds its shape\n• Complex, sweet flavor with zero ammonia or bitterness\n• Minimal liquid content\n• Justifies $80-150 HKD per 5-piece nigiri\n• Peak season availability: 2-4 months annually\n\n**A-Grade Uni:**\n• Premium restaurant use: nigiri, sashimi platters\n• Consistent color (some variation acceptable)\n• Good texture, slight variation in firmness\n• Sweet, clean flavor; minor bitterness acceptable\n• Moderate liquid content\n• Justifies $40-80 HKD per 5-piece nigiri\n• More consistent availability (7-9 months)\n\n**B-Grade Uni:**\n• Culinary applications: sauces, pasta, risotto\n• Appearance and texture not suitable for raw service\n• Flavor is good, but visual presentation compromised\n• Higher liquid content, less structural integrity\n• Cost effective for applications where appearance doesn't matter\n• Justifies $15-30 HKD per 5-piece (or bulk cooking use)\n\n**The Revenue Implication:**\nA restaurant serving 200 uni dishes monthly:\n• AA-grade at 120 HKD average = 24,000 HKD/month\n• A-grade at 60 HKD average = 12,000 HKD/month\n• B-grade at 20 HKD average = 4,000 HKD/month\n\nThe premium is real — and customers know the difference.",
+      },
+      {
+        heading: "The Japanese Grading System: AA, A, B, C Standards Explained",
+        body: "Japan's grading system is the global standard for uni. It reflects how Japanese producers evaluated urchin for centuries and remains the most widely recognized classification.\n\n**AA Grade (最高級 - Saikokyu)**\nDefinition: Sushi-bar only. The finest 5-10% of each harvest.\n• Color: Uniformly bright golden-orange (#FFD700 in hex), no grayness or dullness\n• Size & Shape: Small, plump lobes (typically 1.5-2.5cm) with perfect symmetry\n• Texture: Firm yet creamy, holds precise shape, collapses slightly on tongue\n• Aroma: Sweet ocean aroma, zero ammonia, zero fishy notes\n• Liquid: Minimal (<5% of lobe weight), completely clear\n• Origin: Hokkaido Bafun (peak season June-August) or premium Canadian Red (limited)\n• Certification: Harvest date within 48 hours, cold-chain documentation\n• Cost: $120-180 per kg wholesale (Hong Kong pricing)\n\n**A Grade (優級 - Yuukyu)**\nDefinition: Premium restaurant use. 15-25% of harvest.\n• Color: Golden-orange with acceptable variation, no green or brown hues\n• Size & Shape: Medium lobes (2-3cm), good symmetry, some minor variation\n• Texture: Firm, holds shape well, minor texture variation acceptable\n• Aroma: Sweet, clean ocean aroma, trace ammonia only, no off-flavors\n• Liquid: Moderate (5-10%), clear color\n• Origin: Japanese sources (Murasaki, minor Bafun), Canadian Red\n• Certification: Harvest date within 4-5 days, standard cold-chain\n• Cost: $70-100 per kg wholesale\n\n**B Grade (普級 - Fukyuu)**\nDefinition: Culinary applications, not raw service. 25-40% of harvest.\n• Color: Orange with acceptable discoloration, may show minor browning\n• Size & Shape: Larger lobes (3-4cm), irregular shape acceptable\n• Texture: Softer, less structural integrity, slight mushiness acceptable\n• Aroma: Slight ammonia scent acceptable, minor off-flavors tolerable\n• Liquid: High (10-20%), may be slightly cloudy\n• Origin: Lower-grade Japanese, older harvests, processing urchin\n• Cost: $25-50 per kg wholesale\n\n**C Grade (加工級 - Kakou-kyu)**\nDefinition: Processing only (paste, sauce). Not used for whole-lobe service.\n• Heavily processed, no structural integrity\n• Used for uni butter, uni sauce, other preparations\n• Pricing: Minimal, often used for value-added products",
+      },
+      {
+        heading: "The Canadian Red Sea Urchin Alternative: Understanding Different Origins",
+        body: "Canadian red urchin (from British Columbia) has become a legitimate AA-grade alternative. Understanding how it compares to Japanese varieties is essential for modern sourcing.\n\n**Canadian Red vs. Hokkaido Bafun:**\n\nBafun (Japanese standard for comparison):\n• Size: Small (1.5-2.5 cm), delicate appearance\n• Flavor: Rich, intensely sweet, umami-forward\n• Texture: Extremely creamy, delicate\n• Seasonality: 2-3 months peak (June-August)\n• Supply: Constrained, premium pricing\n\nCanadian Red:\n• Size: Larger (2.5-3.5 cm), more robust appearance\n• Flavor: Sweet and buttery, less intense than Bafun, cleaner finish\n• Texture: Firmer than Bafun, stands up better to plating\n• Seasonality: 6-8 months peak (October-May) — fills the Hokkaido gap perfectly\n• Supply: More abundant, 25-35% cost advantage vs. Bafun\n\n**Certification advantage:** Canadian Red is typically MSC-certified (Marine Stewardship Council), meeting sustainability requirements for Michelin-starred restaurants and ESG-conscious buyers.\n\n**Practical implication:** A restaurant can source:\n• June-August: Premium Hokkaido Bafun\n• September: Transition to premium Canadian Red\n• October-May: Canadian Red (peak quality)\n• Premium menu curation: different origins tell different stories\n\nThis strategy delivers year-round AA-quality supply at lower cost than chasing Hokkaido all year.",
+      },
+      {
+        heading: "Visual Inspection Checklist: How to Grade Uni Like a Professional",
+        body: "Before accepting any uni delivery, conduct this rapid visual inspection. Takes 30 seconds per tray.\n\n**Step 1: Color Assessment (10 seconds)**\n✓ Check the brightest lobe: Is it vibrant golden-orange?\n✓ Check for uniformity: Are all lobes similar color?\n✓ Look for discoloration: Any gray, green, or brown hues?\n✓ Grade determination:\n  - Uniform bright orange = likely AA\n  - Mostly orange, some variation = likely A\n  - Dull orange, gray patches = likely B\n\n**Step 2: Texture & Firmness (10 seconds)**\n✓ Observe lobe structure: Do they hold their shape or appear collapsed?\n✓ Look for liquid: How much liquid surrounds the lobes?\n✓ Check for mushiness: Any lobes that appear mushy or wet?\n✓ Grade determination:\n  - Firm, minimal liquid, perfect shape = AA/A\n  - Moderately firm, some liquid = A\n  - Soft, significant liquid = B\n\n**Step 3: Aroma Test (5 seconds)**\n✓ Open container and smell immediately\n✓ Is it sweet ocean aroma? (Good)\n✓ Do you detect ammonia? (Bad — reject)\n✓ Any fishy or sour notes? (Bad — reject)\n✓ Aroma assessment:\n  - Sweet, clean = AA/A grade acceptable\n  - Slight ammonia = B grade only\n  - Strong ammonia or sour = REJECT\n\n**Step 4: Certification Verification (30 seconds)**\n✓ Check harvest date: Should be within 48 hours for AA, 4-5 days for A\n✓ Verify producer ID: Hokkaido traceability number or Canadian license\n✓ Review cold-chain documentation: Temperature logs should show 2-4°C throughout\n✓ Check grading certificate: If provided, should match your assessment\n\n**Rejection Criteria — ALWAYS Reject:**\n• Ammonia aroma (safety risk)\n• Excessive liquid (indicator of age/spoilage)\n• Collapsed, mushy lobes (quality failure)\n• Harvest date >7 days old\n• Missing certification or cold-chain documentation\n• Color that doesn't match stated grade\n\n**Acceptance Protocol:**\n• AA-grade: Use within 2 days for optimum flavor\n• A-grade: Use within 3 days\n• B-grade: Use within 4 days (less critical due to cooking use)",
+      },
+      {
+        heading: "International Certifications & Traceability Standards",
+        body: "Modern restaurants increasingly require certification proof. Here's what to look for:\n\n**Japanese Hokkaido Sea Urchin:**\n• Hokkaido Prefectural Traceability: Unique producer number required\n• Harvest date must be documented (48 hours max for fresh trade)\n• Optional: MSC certification (increasingly available)\n• Producer certification: Hokkaido fishery association approval\n• Import documentation: Japanese export certificate required\n\n**Canadian Red Sea Urchin (British Columbia):**\n• MSC Certified (Marine Stewardship Council): Most available Canadian red urchin carries this\n• Fishery License Number: Required for export\n• Cold-chain certification: Temperature-controlled transport documentation\n• Origin certification: BC Seafood confirms Canadian origin\n• Environmental Certification: Aligns with luxury hotel ESG requirements\n\n**Norwegian Atlantic Sea Urchin:**\n• Less common in Hong Kong but growing availability\n• ASC (Aquaculture Stewardship Council) certification available for farmed urchin\n• Export license and cold-chain documentation standard\n\n**Certification Verification Checklist:**\n✓ Request documentation before delivery\n✓ Verify harvest/production date matches certification\n✓ Confirm cold-chain logs (temperature readings at 2-4°C)\n✓ Check expiration date on certification\n✓ Request producer contact info for questions\n✓ Save all documentation for compliance records\n\n**Michelin & ESG Requirement:**\nIf your restaurant is Michelin-starred or has ESG commitments, require MSC or ASC certification. Hokkaido producer traceability is also increasingly valued for transparency.",
+      },
+      {
+        heading: "Testing Methods: Beyond Visual Inspection",
+        body: "For high-volume buyers, advanced testing provides confidence:\n\n**Taste Testing Protocol (for professional evaluation)**\n1. Use small, flat-bottomed ceramic spoon (not metal)\n2. Take single lobe from middle of tray\n3. Observe: color, firmness as it rests on spoon\n4. Taste: first impression, mid-palate, finish\n5. Evaluate: sweetness, umami, brininess, texture\n6. Grade assessment:\n   - Creamy, sweet, zero bitterness = AA\n   - Good sweet flavor, minor bitterness = A\n   - Acceptable flavor, some bitterness = B\n   - Strong ammonia/metallic taste = REJECT\n\n**pH Testing (more technical, optional)**\n• Quality uni should have pH of 6.8-7.2\n• Higher pH (>7.5) indicates age or spoilage\n• Testing strips available at food service suppliers\n• Useful for verifying age claims\n\n**Storage Observation (over time)**\n• AA-grade should hold quality for 48-72 hours at 2-4°C\n• A-grade: 3-4 days\n• B-grade: 4-5 days\n• Monitor liquid accumulation: should remain minimal\n• If liquid increases dramatically, indicates spoilage\n\n**Build a Grading Library**\nTop restaurants maintain samples of each grade in cold storage:\n• AA-grade reference: known excellent product\n• A-grade reference: typical premium product\n• B-grade reference: acceptable cooking product\n• Compare new deliveries against your reference samples\n• Train kitchen staff to recognize quality differences",
+      },
+      {
+        heading: "Building Supplier Relationships for Consistent AA-Grade Supply",
+        body: "Quality assurance starts with the supplier relationship:\n\n**Supplier Selection Criteria:**\n1. **Traceability**: Can they provide harvest-to-delivery documentation?\n2. **Consistency**: Do they maintain AA-grade availability across seasons?\n3. **Volume commitment**: Can they meet your needs (e.g., 10-20kg per week)?\n4. **Communication**: Do they provide harvest reports and quality notifications?\n5. **Responsiveness**: How quickly do they respond to quality concerns?\n\n**Contract Essentials:**\n• Guaranteed grade specification (not \"premium uni\" but \"AA-grade per Japanese standard\")\n• Harvest date requirement (<48 hours for AA)\n• Temperature specification (2-4°C throughout cold chain)\n• Rejection and replacement protocol (typically 48-hour replacement guarantee)\n• Pricing structure: fixed base price + seasonal adjustments\n• Minimum order: typically 10kg, with flexibility for seasonal peaks\n• Delivery frequency: weekly or bi-weekly typical\n\n**Communication Protocol:**\n• Weekly harvest reports: what's currently available, what's coming\n• Pre-season consultation: plan menu around anticipated supply\n• Quality feedback: inform supplier if a shipment doesn't meet standards\n• Seasonal planning: discuss availability 3-6 months out\n\n**Seasonal Allocation Strategy:**\n• June-August (Peak Hokkaido): Reserve AA-grade Bafun in advance\n• September: Transition month, expect premium pricing\n• October-May (Peak Canadian): Secure steady supply at better pricing\n• Plan menus around availability, not against it\n\n**Backup Suppliers:**\n• Maintain relationships with 2-3 suppliers minimum\n• Prevents supply disruptions\n• Creates negotiating leverage\n• Allows for origin diversity (Japanese vs. Canadian)\n• Test new suppliers during off-peak seasons first",
+      },
+      {
+        heading: "Common Grading Mistakes & How to Avoid Them",
+        body: "**Mistake #1: Confusing \"Premium\" with \"AA-Grade\"**\nAny supplier can call product \"premium.\" Insist on specific grade (AA, A, or B) and reference the Japanese grading standard. If they can't articulate grade criteria, they don't know what they're selling.\n\n**Mistake #2: Accepting Age as an Excuse**\nDon't accept: \"This is 5-day-old uni, but it's still good quality.\" Age affects flavor and safety. AA-grade should be <48 hours. A-grade <4-5 days. Full stop.\n\n**Mistake #3: Ignoring Aroma**\nAmmonia aroma is not a minor quality flaw — it's a food safety indicator. Ammonia means bacteria are multiplying. ALWAYS reject. No exceptions.\n\n**Mistake #4: Not Tasting Before Service**\nVisual inspection catches most issues, but taste testing catches off-flavors that indicate spoilage or poor handling. Taste one lobe from each delivery. Takes 10 seconds.\n\n**Mistake #5: Not Requesting Documentation**\nTraceability documentation is now standard. Any supplier who can't provide harvest date, cold-chain logs, and origin certification is cutting corners. Don't work with them.\n\n**Mistake #6: Confusing Origin with Quality**\n\"Hokkaido\" doesn't automatically mean AA-grade. Canadian Red at AA-grade can be superior to lower-grade Japanese uni. Evaluate by grade, not by marketing.\n\n**Mistake #7: Accepting Inconsistent Supply**\nIf your supplier sometimes sends AA and sometimes sends A without clear communication, that's a supplier problem. Good suppliers communicate what's available and when.",
+      },
+    ],
+    conclusion: "Sea urchin grading is both art and science. The visual inspection checklist covers 80% of evaluation, but understanding the full spectrum — from Japanese standards to international certification — positions you as a professional buyer. Partner with suppliers who understand these distinctions, invest in training your staff to recognize quality, and build your reputation on consistency. When your guests bite into a perfectly fresh, creamy, golden lobe of AA-grade uni, they taste the difference that expertise makes.",
+    ctaTitle: "Ready to Upgrade Your Uni Sourcing?",
+    cta: "Contact Inari Global Food for AA-grade uni samples, producer introductions, and grading consultation. We work directly with certified Hokkaido producers and Canadian fisheries to guarantee consistent quality year-round.",
+  },
+  "zh-HK": {
+    title: "海膽質量標準與分級完全指南",
+    metaDesc: "專業海膽（Uni）分級指南：AA/A/B 標準、目視檢查、認證、測試方法。掌握海膽質量評估以優化餐廳採購。",
+    published: "2026年3月",
+    category: "產品精通",
+    intro: "海膽（Uni）分級區分優秀餐廳與普通餐廳。了解如何評估質量——從顏色和質地到氣味和原產地認證——是分離專業採購員與業餘採購員的核心技能。本指南逐步介紹海膽質量的每個維度、國際分級系統、實踐評估方法，以及如何與生產商合作以確保持續供應 AA 級產品。",
+    sections: [
+      {
+        heading: "為什麼海膽分級重要：餐廳品質光譜",
+        body: "AA 級與 B 級海膽之間的差異不是表面上的——它是能命令高級定價的餐廳與在價值上競爭的餐廳之間的差異。\n\n**AA 級海膽：**\n• Omakase 專用呈現：小而完美的膽黃\n• 亮金橙色，無變色\n• 緊實細膩的質地，保持形狀\n• 複雜甜味，零氨味或苦味\n• 極少液體\n• 每 5 件握壽司可達 80-150 港幣\n• 旺季供應：每年 2-4 個月\n\n**A 級海膽：**\n• 高端餐廳使用：握壽司、生魚片盤\n• 一致顏色（某些變化可接受）\n• 良好質地，牢固度輕微變化\n• 甜味清爽風味；輕微苦味可接受\n• 中等液體\n• 每 5 件握壽司可達 40-80 港幣\n• 更持續的供應（7-9 個月）\n\n**B 級海膽：**\n• 烹飪應用：醬汁、意大利麵、燴飯\n• 外觀和質地不適合生食服務\n• 風味良好，但視覺呈現受損\n• 液體含量高，結構完整性差\n• 對於外觀不重要的應用成本有效\n• 每 5 件（或散裝烹飪用）可達 15-30 港幣\n\n**收入影響：**\n每月供應 200 道海膽菜式的餐廳：\n• AA 級平均 120 港幣 = 24,000 港幣/月\n• A 級平均 60 港幣 = 12,000 港幣/月\n• B 級平均 20 港幣 = 4,000 港幣/月\n\n溢價是真實的——顧客能感知差異。",
+      },
+      {
+        heading: "日本分級系統：AA、A、B、C 標準解析",
+        body: "日本的分級系統是海膽的全球標準。它反映了日本生產商數百年來的海膽評估方式，仍然是最廣為接受的分類。\n\n**AA 級（最高級）**\n定義：壽司吧專用。每批收穫的最優 5-10%。\n• 顏色：均勻亮金橙色，無灰色或暗沉\n• 大小與形狀：小而飽滿的膽黃（通常 1.5-2.5 公分），完美對稱\n• 質地：牢固而細膩，保持精確形狀，在舌上稍微塌陷\n• 氣味：甜海洋香氣，零氨味，零腥臭味\n• 液體：極少（膽黃重量 <5%），完全清澈\n• 產地：北海道馬糞海膽（旺季 6-8 月）或優質加拿大紅海膽（有限）\n• 認證：採收日期在 48 小時內，冷鏈文件\n• 成本：港元 $120-180 每公斤批發價\n\n**A 級（優級）**\n定義：高端餐廳使用。15-25% 的收穫。\n• 顏色：金橙色有可接受變化，無綠色或棕色色調\n• 大小與形狀：中等膽黃（2-3 公分），良好對稱，某些輕微變化可接受\n• 質地：牢固，保持形狀良好，輕微質地變化可接受\n• 氣味：甜清爽海洋香氣，僅有微量氨味，無異味\n• 液體：中等（5-10%），清澈顏色\n• 產地：日本源（紫海膽、少量馬糞海膽），加拿大紅海膽\n• 認證：採收日期在 4-5 天內，標準冷鏈\n• 成本：港元 $70-100 每公斤批發價\n\n**B 級（普級）**\n定義：烹飪應用，不適合生食服務。25-40% 的收穫。\n• 顏色：橙色有可接受變色，可能顯示輕微棕化\n• 大小與形狀：較大膽黃（3-4 公分），不規則形狀可接受\n• 質地：較軟，結構完整性較低，輕微軟爛可接受\n• 氣味：輕微氨臭可接受，輕微異味可容忍\n• 液體：高（10-20%），可能略微混濁\n• 產地：低級日本海膽、較舊收穫、加工海膽\n• 成本：港元 $25-50 每公斤批發價\n\n**C 級（加工級）**\n定義：僅加工用（醬、醬汁）。不用於整膽黃服務。\n• 大量加工，無結構完整性\n• 用於海膽黃油、海膽醬等製品\n• 定價：極少，通常用於增值產品",
+      },
+      {
+        heading: "加拿大紅海膽替代品：了解不同產地",
+        body: "加拿大紅海膽（來自不列顛哥倫比亞）已成為合法的 AA 級替代品。了解它與日本品種如何比較對現代採購至關重要。\n\n**加拿大紅 vs 北海道馬糞海膽：**\n\n馬糞海膽（日本比較標準）：\n• 大小：小（1.5-2.5 公分），纖細外觀\n• 風味：豐富、強烈甜味、鮮味前導\n• 質地：極細膩，精緻\n• 季節性：2-3 個月旺季（6 月至 8 月）\n• 供應：受限，高級定價\n\n加拿大紅：\n• 大小：較大（2.5-3.5 公分），更健壯的外觀\n• 風味：甜奶油味，不如馬糞甜，清爽收尾\n• 質地：比馬糞更牢固，更適合盛盤\n• 季節性：6-8 個月旺季（10 月至 5 月）——完美填補北海道淡季\n• 供應：更豐富，相較於馬糞便宜 25-35%\n\n**認證優勢：** 加拿大紅通常獲得 MSC 認證（海洋管理委員會），滿足米其林星級餐廳和 ESG 意識採購者的可持續性要求。\n\n**實踐影響：** 餐廳可採購：\n• 6-8 月：優質北海道馬糞海膽\n• 9 月：轉換至優質加拿大紅\n• 10 月至 5 月：加拿大紅（旺季品質）\n• 高級菜單策劃：不同產地訴述不同故事\n\n此策略提供全年 AA 質量供應，成本低於全年追求北海道。",
+      },
+      {
+        heading: "目視檢查清單：像專業人士一樣分級海膽",
+        body: "在接受任何海膽送貨前，進行此快速目視檢查。每個托盤用時 30 秒。\n\n**步驟 1：顏色評估（10 秒）**\n✓ 檢查最亮膽黃：是否是鮮豔的金橙色？\n✓ 檢查一致性：所有膽黃顏色是否相似？\n✓ 尋找變色：是否有灰色、綠色或棕色色調？\n✓ 分級判定：\n  - 均勻亮橙色 = 可能是 AA\n  - 多數橙色，某些變化 = 可能是 A\n  - 暗橙色，灰色斑塊 = 可能是 B\n\n**步驟 2：質地與牢固度（10 秒）**\n✓ 觀察膽黃結構：是否保持形狀還是顯示塌陷？\n✓ 查看液體：周圍有多少液體？\n✓ 檢查軟爛：是否有膽黃顯示軟爛或潮濕？\n✓ 分級判定：\n  - 牢固、極少液體、完美形狀 = AA/A\n  - 中等牢固、某些液體 = A\n  - 軟、大量液體 = B\n\n**步驟 3：氣味測試（5 秒）**\n✓ 打開容器立即聞\n✓ 是否是甜海洋香氣？（好）\n✓ 是否聞到氨味？（壞——拒絕）\n✓ 是否有腥臭或酸味？（壞——拒絕）\n✓ 氣味評估：\n  - 甜清爽 = AA/A 級可接受\n  - 輕微氨味 = 僅 B 級\n  - 強氨或酸味 = 拒絕\n\n**步驟 4：認證驗證（30 秒）**\n✓ 檢查採收日期：AA 應在 48 小時內，A 應在 4-5 天內\n✓ 驗證生產商 ID：北海道可追蹤編號或加拿大執照\n✓ 審查冷鏈文件：溫度日誌應全程顯示 2-4°C\n✓ 檢查分級證書：如有提供，應與您的評估相符\n\n**拒絕條件——始終拒絕：**\n• 氨味香氣（安全風險）\n• 過多液體（年齡/變質指標）\n• 膽黃塌陷軟爛（品質失敗）\n• 採收日期超過 7 天\n• 缺失認證或冷鏈文件\n• 顏色不符合聲稱的分級\n\n**驗收協議：**\n• AA 級：在 2 天內使用以達最佳風味\n• A 級：在 3 天內使用\n• B 級：在 4 天內使用（由於烹飪使用不太重要）",
+      },
+      {
+        heading: "國際認證與可追蹤性標準",
+        body: "現代餐廳越來越多地要求認證證明。以下是要查看的內容：\n\n**日本北海道海膽：**\n• 北海道県可追蹤性：需要獨特生產商編號\n• 採收日期必須記錄（新鮮貿易最多 48 小時）\n• 可選：MSC 認證（日益可用）\n• 生產商認證：北海道漁業協會批准\n• 進口文件：需要日本出口證書\n\n**加拿大紅海膽（不列顛哥倫比亞）：**\n• MSC 認證（海洋管理委員會）：大多數可用加拿大紅海膽持有此認證\n• 漁業執照編號：出口所需\n• 冷鏈認證：溫度控制運輸文件\n• 產地認證：BC 海鮮確認加拿大產地\n• 環境認證：符合豪華酒店 ESG 要求\n\n**挪威大西洋海膽：**\n• 在香港較少見但供應增加\n• ASC（水產養殖管理委員會）認證適用於養殖海膽\n• 標準出口執照和冷鏈文件\n\n**認證驗證清單：**\n✓ 在送貨前請求文件\n✓ 驗證採收/生產日期匹配認證\n✓ 確認冷鏈日誌（2-4°C 溫度讀數）\n✓ 檢查認證有效期\n✓ 請求生產商聯繫資訊以解答問題\n✓ 保存所有文件以供合規記錄\n\n**米其林與 ESG 要求：**\n如果您的餐廳是米其林星級或具有 ESG 承諾，請要求 MSC 或 ASC 認證。北海道生產商可追蹤性也日益被重視以提高透明度。",
+      },
+      {
+        heading: "測試方法：超越目視檢查",
+        body: "對於高量採購者，先進測試提供信心：\n\n**品嚐測試協議（用於專業評估）**\n1. 使用小型平底陶瓷匙（不是金屬）\n2. 從托盤中間取單個膽黃\n3. 觀察：顏色、牢固度在匙上休息時\n4. 品嚐：初始印象、中段、收尾\n5. 評估：甜味、鮮味、鹹味、質地\n6. 分級評估：\n   - 細膩甜美，零苦味 = AA\n   - 好的甜味，輕微苦味 = A\n   - 可接受風味，某些苦味 = B\n   - 強氨/金屬味 = 拒絕\n\n**pH 測試（更技術性，可選）**\n• 優質海膽應有 pH 6.8-7.2\n• 較高 pH (>7.5) 指示年齡或變質\n• 測試條帶在食品服務供應商處可用\n• 對驗證年齡聲明有用\n\n**保存觀察（隨時間）**\n• AA 級應在 2-4°C 下保持 48-72 小時品質\n• A 級：3-4 天\n• B 級：4-5 天\n• 監控液體積累：應保持極少\n• 如果液體急劇增加，指示變質\n\n**建立分級庫**\n頂級餐廳在冷藏中維持每個分級的樣本：\n• AA 級參考：已知優秀產品\n• A 級參考：典型高級產品\n• B 級參考：可接受烹飪產品\n• 將新送貨與您的參考樣本比較\n• 訓練廚房員工認識品質差異",
+      },
+      {
+        heading: "為一致 AA 級供應建立供應商關係",
+        body: "品質保證從供應商關係開始：\n\n**供應商選擇標準：**\n1. **可追蹤性**：能否提供採收至送貨文件？\n2. **一致性**：能否在季節間保持 AA 級供應？\n3. **成交量承諾**：能否滿足您的需求（例如，每週 10-20 公斤）？\n4. **溝通**：是否提供採收報告和品質通知？\n5. **響應性**：對品質問題反應有多快？\n\n**合同要素：**\n• 保證分級規範（不是「高級海膽」而是「日本標準 AA 級」）\n• 採收日期要求（AA 在 48 小時內）\n• 溫度規範（全冷鏈 2-4°C）\n• 拒絕和替換協議（通常 48 小時替換保證）\n• 定價結構：固定基價 +季節性調整\n• 最小訂單：通常 10 公斤，有季節性高峰的靈活性\n• 送貨頻率：典型每週或隔週\n\n**溝通協議：**\n• 每週採收報告：目前可用的、即將推出的\n• 季前諮詢：根據預期供應規劃菜單\n• 品質反饋：如果送貨不符合標準，通知供應商\n• 季節規劃：提前 3-6 個月討論供應\n\n**季節配額策略：**\n• 6-8 月（北海道旺季）：提前預留 AA 級馬糞海膽\n• 9 月：轉換月份，預期高級定價\n• 10 月至 5 月（加拿大旺季）：確保穩定供應在更好定價\n• 圍繞可用性規劃菜單，而不是與之對抗\n\n**備用供應商：**\n• 維持與最少 2-3 個供應商的關係\n• 防止供應中斷\n• 創造談判槓桿\n• 允許產地多樣性（日本與加拿大）\n• 首先在淡季測試新供應商",
+      },
+      {
+        heading: "常見分級錯誤與如何避免",
+        body: "**錯誤 #1：將「高級」與「AA 級」混淆**\n任何供應商都可以稱產品為「高級」。堅持具體分級（AA、A 或 B）並參考日本分級標準。如果他們不能闡述分級標準，他們不知道他們在出售什麼。\n\n**錯誤 #2：接受年齡作為藉口**\n不要接受：「這是 5 天前的海膽，但品質仍好。」年齡影響風味和安全。AA 級應 <48 小時。A 級 <4-5 天。就這樣。\n\n**錯誤 #3：忽略氣味**\n氨氣味不是輕微品質缺陷——它是食品安全指標。氨意味著細菌在增殖。始終拒絕。無例外。\n\n**錯誤 #4：不在服務前品嚐**\n目視檢查捕捉大多數問題，但品嚐測試捕捉指示變質或不當處理的異味。從每個送貨品嚐一個膽黃。用時 10 秒。\n\n**錯誤 #5：不請求文件**\n可追蹤性文件現為標準。任何無法提供採收日期、冷鏈日誌和產地認證的供應商都在節省成本。不與他們合作。\n\n**錯誤 #6：將產地與品質混淆**\n「北海道」不自動意味著 AA 級。AA 級加拿大紅可能優於低級日本海膽。按分級評估，不按行銷評估。\n\n**錯誤 #7：接受不一致的供應**\n如果您的供應商有時發送 AA 有時發送 A 而沒有明確溝通，那是供應商問題。好供應商溝通什麼可用和何時可用。",
+      },
+    ],
+    conclusion: "海膽分級既是藝術也是科學。目視檢查清單涵蓋 80% 的評估，但了解全譜——從日本標準到國際認證——將您定位為專業採購員。與理解這些區別的供應商合作，投資訓練您的員工以識別品質，並在一致性上建立您的聲譽。當您的客人咬入完美新鮮、細膩、金色的 AA 級海膽膽黃時，他們品嚐了專業知識創造的差異。",
+    ctaTitle: "準備好升級您的海膽採購了嗎？",
+    cta: "聯繫稻荷環球食品以取得 AA 級海膽樣品、生產商介紹和分級諮詢。我們與認證北海道生產商和加拿大漁業直接合作，保證全年持續品質。",
+  },
+};
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale } = await params;
+  if (!isValidLocale(locale)) return {};
+  const c = content[locale as keyof typeof content];
+  return {
+    title: c.title,
+    description: c.metaDesc,
+    openGraph: { title: c.title, description: c.metaDesc, type: "article" },
+  };
+}
+
+export default async function Page({ params }: Props) {
+  const { locale } = await params;
+  if (!isValidLocale(locale)) notFound();
+
+  const dict = await getDictionary(locale as Locale);
+  const c = content[locale as keyof typeof content];
+
+  return (
+    <>
+      <Header locale={locale} dict={dict} />
+      <main className="min-h-screen bg-white">
+        <article className="max-w-3xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
+          <header className="mb-8">
+            <div className="mb-4">
+              <span className="inline-block px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm font-semibold mb-3">
+                {c.category}
+              </span>
+            </div>
+            <h1 className="text-4xl font-bold text-gray-900 mb-4">{c.title}</h1>
+            <p className="text-gray-600">{c.published}</p>
+          </header>
+
+          <div className="prose prose-lg max-w-none mb-12">
+            <p className="text-lg text-gray-700 leading-relaxed">{c.intro}</p>
+          </div>
+
+          <div className="prose prose-lg max-w-none">
+            {c.sections.map((section, idx) => (
+              <div key={idx} className="mb-8">
+                <h2 className="text-2xl font-bold text-gray-900 mb-4">
+                  {section.heading}
+                </h2>
+                <p className="text-gray-700 leading-relaxed whitespace-pre-line">
+                  {section.body}
+                </p>
+              </div>
+            ))}
+          </div>
+
+          <div className="border-t border-gray-200 pt-8 mt-12 prose prose-lg max-w-none">
+            <p className="text-gray-700 leading-relaxed">{c.conclusion}</p>
+          </div>
+
+          <div className="mt-12 p-8 bg-blue-50 rounded-lg border border-blue-200">
+            <h3 className="text-xl font-bold text-gray-900 mb-3">{c.ctaTitle}</h3>
+            <p className="text-gray-700 mb-4">{c.cta}</p>
+            <a
+              href={`/${locale}/contact`}
+              className="inline-block px-6 py-3 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition"
+            >
+              {locale === "en" ? "Get in Touch" : "聯繫我們"}
+            </a>
+          </div>
+        </article>
+      </main>
+      <Footer locale={locale} dict={dict} />
+    </>
+  );
+}
