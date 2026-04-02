@@ -109,7 +109,7 @@ export default async function Page({ params }: Props) {
 
   return (
     <>
-      <Header locale={locale} />
+      <Header locale={locale} dict={dict} />
       <main className="min-h-screen bg-slate-50 py-12 px-4 sm:px-6 lg:px-8">
         <article className="max-w-3xl mx-auto bg-white rounded-lg shadow-md p-8">
           <div className="mb-8">
@@ -143,7 +143,7 @@ export default async function Page({ params }: Props) {
           </div>
         </article>
       </main>
-      <Footer locale={locale} />
+      <Footer locale={locale} dict={dict} />
     </>
   );
 }
