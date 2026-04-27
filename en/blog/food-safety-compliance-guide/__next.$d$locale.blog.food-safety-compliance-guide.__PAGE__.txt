@@ -1,0 +1,332 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/7c92e96509cd355e.js"],""]
+19:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+3:T63f,Hong Kong operates under the Food Safety Ordinance (FSO), enforced by the Food and Environmental Hygiene Department (FEHD). Key requirements for seafood:
+
+**Import & Registration Requirements**
+- All seafood must be imported through licensed importers
+- Importers must submit certificates of origin and health certificates
+- Products are subject to random testing at the border
+- High-risk items (raw seafood for sashimi/oysters) get additional scrutiny
+- Any batch failing testing is quarantined and destroyed
+
+**Supplier Documentation**
+You must maintain:
+- Importer's license and certificate
+- Certificate of origin (from farm/harvest location)
+- Health certificate (issued by exporting country's authority)
+- Test results proving freedom from bacterial/viral contamination
+- Traceability documentation (farm identification, harvest date)
+
+Missing documentation = FEHD can refuse entry or conduct store inspections
+
+**Temperature Control**
+- Seafood must maintain 0-4°C (32-39°F) during transport
+- Storage at point of sale: 0-4°C maximum
+- Violations result in warnings, fines, or license suspension
+
+**Handling & Preparation**
+- Raw seafood (sashimi, oysters) must come from approved suppliers on approved lists
+- No cross-contamination with other foods
+- Separate cutting boards, utensils for raw seafood
+- Staff training on food safety mandatory
+
+**Record-Keeping**
+HKFEHD requires:
+- Supplier records (with contact information)
+- Batch/lot numbers
+- Receipt dates and quantities
+- Temperature logs
+- Staff training records
+- Cleaning and sanitation logs
+
+Retention period: 2 years minimum0:{"buildId":"iZsbPZpblQsjeTW_6h2I9","rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$L2",null,{"href":"/en","className":"text-xl font-bold text-gray-900","children":"Uni & Salmon"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$L2",null,{"href":"/en","className":"text-sm text-gray-700 hover:text-gray-900","children":"Home"}],["$","$L2",null,{"href":"/en/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"About Us"}],["$","$L2",null,{"href":"/en/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"Sea Urchin"}],["$","$L2",null,{"href":"/en/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"Salmon"}],["$","$L2",null,{"href":"/en/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"Blog"}],["$","$L2",null,{"href":"/en/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"Contact"}],["$","$L2",null,{"href":"/zh-HK","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"中文"}]]}]]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-4 py-16","children":["$","article",null,{"className":"prose prose-lg dark:prose-invert max-w-none","children":[["$","div",null,{"className":"mb-8","children":[["$","p",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mb-2","children":["April 2026"," • ","Compliance"]}],["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Food Safety & Compliance Guide: Hong Kong and Macau Seafood Regulations"}],["$","p",null,{"className":"text-xl text-gray-700 dark:text-gray-300","children":"For F&B operators in Hong Kong and Macau, food safety compliance isn't optional—it's fundamental to keeping your license, protecting your customers, and maintaining your reputation. This guide covers the specific regulations governing seafood imports, handling, and service in both jurisdictions, plus practical strategies for staying compliant."}]]}],[["$","div","0",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4","children":"Hong Kong Food Safety Framework"}],["$","p",null,{"className":"whitespace-pre-wrap text-gray-800 dark:text-gray-200","children":"$3"}]]}],"$L4","$L5","$L6","$L7","$L8","$L9","$La","$Lb"],"$Lc","$Ld"]}]}],"$Le"],["$Lf"],"$L10"]}],"loading":null,"isPartial":false}
+11:T5b7,Macau operates under the Decree-Law No. 92/91/M (Macau Food Hygiene Law), enforced by the Macau Food Safety Coordination Unit. Key differences from Hong Kong:
+
+**Import Approval**
+- All imported seafood requires pre-approval from Macau authorities
+- Application process takes 3-5 business days
+- Approval is product and supplier specific (can't change suppliers without reapplying)
+- Macau maintains its own approved supplier list
+
+**Supplier Certification Requirements**
+For suppliers in Macau (whether for Macau restaurants or imports):
+- Health Code certification from Macau authorities
+- HACCP (Hazard Analysis and Critical Control Points) certification
+- Cold chain documentation
+- Regular health inspections (quarterly minimum)
+
+**Gaming Venue Specifics**
+If you supply to gaming resorts (a major segment):
+- Additional documentation required (gaming license holders need verified suppliers)
+- Quarterly audits of supplier facilities
+- Documentation of food safety incidents must be reported to gaming authority
+- Higher fines for violations at gaming venues
+
+**Storage & Temperature**
+- Same as Hong Kong: 0-4°C
+- Additional requirement: separate storage for imported vs. local seafood
+- Documentation of temperature checks required every 2 hours
+
+**Processing & Preparation**
+- HACCP plans mandatory for any facility processing raw seafood
+- Staff health certificates required (annual)
+- Separate facilities or times for raw vs. cooked seafood processing4:["$","div","1",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4","children":"Macau Food Safety Framework"}],["$","p",null,{"className":"whitespace-pre-wrap text-gray-800 dark:text-gray-200","children":"$11"}]]}]
+12:T41c,If you operate in both jurisdictions (many hotel chains, restaurant groups do), you need dual compliance:
+
+**Different Approval Processes**
+Approving a supplier in HK doesn't mean it's approved in Macau (and vice versa). You must:
+
+1. Get supplier approved in HK by FEHD
+2. Separately apply for approval in Macau
+3. Maintain separate documentation
+4. Use different import channels (can't cross-import between HK and Macau without reapproval)
+
+**Practical Strategy**
+Most restaurant groups solve this by:
+- Using HK-approved suppliers for HK operations
+- Using Macau-approved suppliers for Macau operations
+- Using international suppliers (e.g., Japan, Norway) who have pre-approval in both jurisdictions
+
+International suppliers with both approvals cost 10-20% premium but eliminate cross-border hassle.
+
+**Physical Movement of Product**
+You cannot:
+- Move product from HK operation to Macau without customs clearance
+- Pool inventory between HK and Macau
+- Combine shipments from HK for use in Macau
+
+Each location must have independent supply chains.5:["$","div","2",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4","children":"Cross-Border Compliance: Hong Kong-Macau Operations"}],["$","p",null,{"className":"whitespace-pre-wrap text-gray-800 dark:text-gray-200","children":"$12"}]]}]
+13:T5da,Beyond government requirements, certain third-party certifications strengthen your position:
+
+**HACCP (Hazard Analysis and Critical Control Points)**
+What: Food safety management system identifying critical control points
+Who needs it: Required in Macau, optional but recommended in HK
+How to get it: Work with certified food safety consultant (cost: HK$5,000-15,000)
+Benefit: Demonstrates proactive food safety; defense in case of incident
+
+**MSC (Marine Stewardship Council) Certification**
+What: Certification that fish was caught sustainably
+Who has it: Reputable suppliers
+Why it matters: Increasingly expected by high-end customers; some regulatory incentives in both HK and Macau
+Cost to verify: Minimal (just check supplier's MSC listing)
+
+**BRC (British Retail Consortium) Certification**
+What: Global food safety standard for suppliers
+Who has it: Large, professional suppliers
+Why it matters: Signals professional operation; reduces your liability
+Cost to verify: Minimal (just request certificate)
+
+**Food Safety Training Certificates**
+What: Proof your staff completed food safety training
+Who needs it: Required in both HK and Macau
+Who provides it: Government courses or licensed private trainers
+Cost: HK$300-800 per person
+Frequency: Annual or biennial (check current requirements)
+
+**ISO 22000**
+What: International food safety management standard
+Who has it: Premium suppliers
+Why it matters: Highest level of food safety assurance
+Cost to verify: Free (just request certificate)6:["$","div","3",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4","children":"Certifications & Standards That Matter"}],["$","p",null,{"className":"whitespace-pre-wrap text-gray-800 dark:text-gray-200","children":"$13"}]]}]
+14:T6d7,Based on FEHD and Macau authority inspection data:
+
+**Issue 1: Missing Supplier Documentation**
+Most common violation. Result: Warnings, fines, product seizure
+
+How to avoid:
+- Require all suppliers to provide documentation BEFORE first delivery
+- Create a checklist: origin certificate, health certificate, test results, importer license
+- Keep copies organized by supplier
+- Update annually (some documents expire)
+
+**Issue 2: Temperature Control Failures**
+Second most common. Result: Product recall, license suspension risk
+
+How to avoid:
+- Invest in reliable refrigeration (no cheap units)
+- Install thermometers in all seafood storage areas
+- Log temperatures every 2 hours during operating hours
+- Train all staff on temperature requirements
+- Have backup plan for refrigeration failure
+
+**Issue 3: Cross-Contamination**
+Third most common. Result: Major fines, possible closure
+
+How to avoid:
+- Separate cutting boards (color-code: red for raw, white for cooked)
+- Separate utensils
+- Dedicated prep area for raw seafood
+- Clean between uses (not just wipe)
+- Train staff on why this matters (not just rules)
+
+**Issue 4: Inadequate Staff Training**
+Often cited in inspection reports. Result: Warnings, mandatory retraining
+
+How to avoid:
+- Complete formal food safety course (not just on-the-job training)
+- Certificate on file
+- Annual refresher training
+- Test staff monthly (simple quiz) to verify retention
+
+**Issue 5: Insufficient Records**
+Often compounded with other violations. Result: Fines increased 2-3x
+
+How to avoid:
+- Maintain organized records from day 1
+- Keep 2+ years minimum
+- Digital backup (in case of fire/flood)
+- Create simple forms for staff to fill daily
+- Assign responsibility (one person manages compliance records)7:["$","div","4",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4","children":"Common Compliance Issues & How to Avoid Them"}],["$","p",null,{"className":"whitespace-pre-wrap text-gray-800 dark:text-gray-200","children":"$14"}]]}]
+15:T4ea,FEHD and Macau authorities conduct random inspections. Here's what they look for:
+
+**Documentation (They will ask for)**
+☑ Supplier list with contact info
+☑ Import certificates for current inventory
+☑ Health certificates from exporting countries
+☑ Temperature logs (last 2 weeks)
+☑ Staff food safety certificates
+☑ Cleaning/sanitation logs
+☑ Record of any food safety incidents or complaints
+
+**Physical Inspection (They will observe)**
+☑ Refrigeration temperature (thermometer check)
+☑ Cleanliness of prep areas
+☑ Separation of raw/cooked areas
+☑ Proper labeling of ingredients (date, source)
+☑ Staff uniforms and hygiene
+☑ Pest control evidence (no rodents, insects)
+
+**Interview (They will ask)**
+☑ Name of supervisor responsible for food safety
+☑ When was staff trained?
+☑ What do you do if food is recalled?
+☑ Show them temperature log for today
+☑ Explain your supplier approval process
+
+**How to Prepare**
+1. Review all documentation 1 week before typical inspection period
+2. Do a mock inspection using checklist above
+3. Fix any issues immediately
+4. Brief your team on food safety basics
+5. Keep top manager available during inspection
+6. Be respectful and cooperative (attitude matters for borderline violations)8:["$","div","5",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4","children":"Inspection Preparation Checklist"}],["$","p",null,{"className":"whitespace-pre-wrap text-gray-800 dark:text-gray-200","children":"$15"}]]}]
+16:T57d,Raw seafood has extra regulations because of bacterial/viral risk:
+
+**Approved Supplier List (ASL)**
+Both HK and Macau maintain official ASL for raw seafood
+- Only products from ASL suppliers can be served raw
+- Using non-ASL supplier for raw seafood = immediate violation
+- ASL is published online; check it before adding to menu
+
+**Freezing Requirements**
+Some raw seafood requires freezing to kill parasites:
+- Sashimi-grade fish: must be frozen to -4°C or lower for 7 days
+- Oysters: varies by origin; check supplier's certification
+- Uni: varies; typically not frozen requirement if sourced correctly
+
+Failure to freeze = liability for parasitic infection
+
+**Storage Separation**
+Raw seafood must be stored separately from:
+- Cooked seafood
+- Meat
+- Vegetables
+- All other ingredients
+
+Reason: Any cross-contamination risk eliminates the 'raw ready' status
+
+**Staff Certification**
+Staff handling raw seafood should have additional training on:
+- Temperature control
+- Contamination prevention
+- Parasitic risk
+- What to do if product looks unusual
+
+Invest in specialized training (cost: HK$500-1,500 per person)
+
+**Communication to Customers**
+Many jurisdictions require disclosure when serving raw seafood:
+- 'This product contains raw fish'
+- 'This product may contain parasites'
+- Recommended in HK; required in some Macau establishments
+
+Failure to disclose = customer illness = major liability9:["$","div","6",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4","children":"Raw Seafood Special Rules (Sashimi, Oysters, Ceviche)"}],["$","p",null,{"className":"whitespace-pre-wrap text-gray-800 dark:text-gray-200","children":"$16"}]]}]
+17:T617,Food safety regulation is evolving. Stay ahead:
+
+**Trend 1: Increased Traceability Requirements**
+Both HK and Macau moving toward farm-to-table documentation
+- More detail on origin (not just country; specific farm/region)
+- Harvest date and batch number
+- Previous handling/storage documentation
+
+Prepare by: Requiring suppliers to provide detailed traceability documentation
+
+**Trend 2: Sustainability Documentation**
+Increasing expectation that suppliers provide:
+- MSC or equivalent certification
+- Proof of sustainable farming/fishing practices
+- Carbon footprint documentation
+
+Prepare by: Prioritizing suppliers with sustainability credentials
+
+**Trend 3: Digital Record-Keeping**
+Movement away from paper logs toward digital platforms
+- Digital temperature logging (IoT sensors)
+- Cloud-based supplier documentation
+- Blockchain-based traceability
+
+Prepare by: Starting to use digital record systems now (not mandatory yet, but coming)
+
+**Trend 4: Temperature Monitoring Mandates**
+Likely coming: Continuous temperature monitoring (not just spot checks)
+- Sensors in refrigeration units
+- Automatic alerts if temperature drops
+- Data retention for audits
+
+Prepare by: Installing modern refrigeration with monitoring capability
+
+**Action Items for 2026**
+1. Audit current documentation system (is it sufficient for coming requirements?)
+2. Assess supplier documentation (can they provide increasing detail?)
+3. Upgrade refrigeration/monitoring if using old equipment
+4. Schedule staff training updates
+5. Budget for potential compliance system upgradesa:["$","div","7",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4","children":"2026 Regulatory Trends & Preparation"}],["$","p",null,{"className":"whitespace-pre-wrap text-gray-800 dark:text-gray-200","children":"$17"}]]}]
+18:T56f,The easiest way to stay compliant is to work with suppliers who understand regulations:
+
+**What to Ask Prospective Suppliers**
+
+☑ 'Are you on the FEHD approved list?' (if in HK)
+☑ 'Do you have Macau approval?' (if serving Macau)
+☑ 'Can you provide certificates of origin for every batch?'
+☑ 'What's your response time if a product fails testing?'
+☑ 'Do you have HACCP certification?'
+☑ 'Can you provide detailed traceability documentation?'
+☑ 'What happens if a health issue occurs?'
+☑ 'Are you insured for food safety liability?'
+
+**Red Flags (Don't Work with These Suppliers)**
+- Hesitate or refuse to provide origin certificates
+- Can't explain their quality control process
+- Don't have cold chain documentation
+- Suggest 'alternative' suppliers if your preferred product is unavailable
+- Offer suspiciously low pricing (often means cut corners on safety)
+- Don't maintain batch/lot records
+
+**Best Practice: Put It in the Contract**
+Your supplier agreement should specify:
+- Documentation requirements (what you'll receive)
+- Quality standards (grade, temperature, contamination limits)
+- Traceability commitment (can trace back to farm/harvest)
+- Replacement terms (if product fails spec)
+- Insurance requirements (liability coverage)
+- Audit rights (you can inspect facility)
+
+Having clear contracts protects both you and your supplier by making expectations explicit.b:["$","div","8",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4","children":"Working with Compliance Suppliers"}],["$","p",null,{"className":"whitespace-pre-wrap text-gray-800 dark:text-gray-200","children":"$18"}]]}]
+c:["$","div",null,{"className":"bg-gray-50 dark:bg-gray-900 rounded-lg p-8 my-12","children":["$","p",null,{"className":"text-lg font-semibold mb-4 italic","children":"Food safety compliance in Hong Kong and Macau is complex but manageable if you understand the requirements and build a system around them. Work with compliant suppliers, maintain meticulous records, train your staff, and stay updated on regulatory changes. The cost of proactive compliance is far lower than the cost of a violation, recall, or food safety incident. Your customers' health—and your business—depend on it."}]}]
+d:["$","div",null,{"className":"bg-blue-50 dark:bg-blue-900 rounded-lg p-8 text-center","children":[["$","h3",null,{"className":"text-2xl font-bold mb-4","children":"Need Help with Compliance Documentation?"}],["$","p",null,{"className":"mb-6 text-gray-800 dark:text-gray-200","children":"Inari Global Food provides all required compliance documentation with our seafood supplies, including certificates of origin, health certificates, and traceability records. Contact us to discuss how we support your regulatory requirements."}],["$","a",null,{"href":"/en/contact","className":"inline-block bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-8 rounded-lg transition","children":"Contact"}]]}]
+e:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"Uni & Salmon"}],["$","p",null,{"className":"text-sm","children":"Your trusted partner for premium sea urchin and salmon in Hong Kong & Macau."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Home"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/en/about","className":"hover:text-white","children":"About Us"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/sea-urchin","className":"hover:text-white","children":"Sea Urchin"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/salmon","className":"hover:text-white","children":"Salmon"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/blog","className":"hover:text-white","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Contact Us"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","Uni & Salmon",". ","All rights reserved."]}]]}]
+f:["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true}]
+10:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+1b:null

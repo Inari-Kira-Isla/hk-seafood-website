@@ -1,0 +1,386 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/7c92e96509cd355e.js"],""]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+3:T681,**Season State:** Baseline demand, new year purchasing.
+
+**Sea Urchin Availability:**
+- Canadian Red: Peak availability, HKD 700-800/kg (winter premium)
+- Chilean: Steady availability, HKD 600-650/kg
+- Hokkaido Bafun: Limited (Q1 tail-end), HKD 1,400-1,600/kg
+- Japanese Uni: Regional, variable, HKD 1,200-1,400/kg
+
+**Salmon Availability:**
+- Atlantic (Norwegian/Faroe): Peak, HKD 750-850/kg
+- King Salmon: Available but not peak, HKD 2,500-3,000/kg
+- Sockeye: Limited, HKD 950-1,100/kg
+
+**Strategic Actions:**
+
+1. **Annual Contract Renewals**
+   - Review prior year supplier performance
+   - Renegotiate pricing based on volume commitments
+   - Lock in 6-month pricing: "January-June stable rate HKD X/kg"
+   - Example: "Commit to 15kg/month Canadian Red Jan-Jun, HKD 750/kg locked"
+
+2. **Capacity Planning**
+   - Forecast annual volume based on growth targets
+   - Identify capacity constraints: Do you have enough storage?
+   - Add cold storage if growth planned (budget: HKD 40-60K)
+   - Conduct equipment maintenance while demand is lower
+
+3. **Staff Training**
+   - Winter is lower-stress season; time for training
+   - Uni grading standards: Do staff know AA vs. A grade?
+   - Cold-chain protocols: Review annually
+   - Tasting sessions: Build team palate knowledge
+
+4. **Menu Planning Q1**
+   - Feature Canadian Red Uni (peak, good margin)
+   - Offer King Salmon as special (limited, premium)
+   - Baseline Atlantic Salmon (reliable, consistent)
+   - Plan Q2 menu transitions (what's coming in March?)
+
+**Supplier Communication:**
+- Schedule January supplier reviews
+- Discuss February-June planning
+- Request forecast of Q2 availability and pricing changes0:{"buildId":"iZsbPZpblQsjeTW_6h2I9","rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$L2",null,{"href":"/en","className":"text-xl font-bold text-gray-900","children":"Uni & Salmon"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$L2",null,{"href":"/en","className":"text-sm text-gray-700 hover:text-gray-900","children":"Home"}],["$","$L2",null,{"href":"/en/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"About Us"}],["$","$L2",null,{"href":"/en/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"Sea Urchin"}],["$","$L2",null,{"href":"/en/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"Salmon"}],["$","$L2",null,{"href":"/en/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"Blog"}],["$","$L2",null,{"href":"/en/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"Contact"}],["$","$L2",null,{"href":"/zh-HK","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"中文"}]]}]]}]}],["$","article",null,{"className":"min-h-screen bg-gradient-to-br from-slate-50 to-slate-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 py-16","children":["$","div",null,{"className":"bg-white rounded-lg shadow-lg p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4 text-slate-900","children":"Seasonal Seafood Planning Calendar: Annual Sourcing & Supply Strategy"}],["$","div",null,{"className":"flex items-center gap-4 text-slate-600 mb-8 border-b pb-4","children":[["$","span",null,{"className":"text-sm font-semibold bg-blue-100 text-blue-700 px-3 py-1 rounded","children":"Planning & Strategy"}],["$","span",null,{"className":"text-sm","children":"March 2026"}]]}],["$","p",null,{"className":"text-lg text-slate-700 mb-8 leading-relaxed font-semibold","children":"Seafood is seasonal. Premium restaurants recognize this and plan accordingly. Casual restaurants treat it as an afterthought, then scramble during peak season or serve inferior product when their favorite species isn't available. This calendar documents the annual rhythm of sea urchin and salmon availability in Hong Kong and Macau, specifying peak seasons, pricing trends, delivery windows, and the advance planning required to secure supply. Use this as your sourcing roadmap for the entire year — coordinate with suppliers, lock in pricing, plan menu variations, and ensure your kitchen never has to compromise on quality due to supply constraints."}],["$","div",null,{"className":"space-y-8","children":[["$","section","0",{"className":"bg-slate-50 p-6 rounded-lg","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 text-slate-900","children":"January-February: Winter Prep & Capacity Planning"}],["$","div",null,{"className":"text-slate-700 whitespace-pre-wrap leading-relaxed","children":"$3"}]]}],"$L4","$L5","$L6","$L7","$L8"]}],"$L9"]}]}]}],"$La"],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+d:T8d5,**Season State:** Spring entertaining season begins, events increase, holidays approaching.
+
+**Sea Urchin Availability:**
+- Canadian Red: Excellent, HKD 700-750/kg (supply remains strong)
+- Chilean: Steady, HKD 580-620/kg
+- Hokkaido Bafun: Season ends this month, HKD 1,600-1,800/kg (final premium)
+- Japanese Uni: Limited end-of-season availability
+
+**Salmon Availability:**
+- Atlantic: Peak continues, HKD 750-800/kg
+- King Salmon: Still available, special orders begin
+- Sockeye: Very limited this quarter
+
+**Demand Context:**
+- Easter holidays: March 30-April 1 (2026)
+- Corporate entertaining picks up
+- Wedding season begins
+- Volume typically +15-25% vs. baseline
+
+**Strategic Actions:**
+
+1. **Peak Supply Confirmation (March 1-7)**
+   - Email suppliers: "Planning April volume increase, confirm supply"
+   - Commit volume: "Expecting 50kg sea urchin April 1-20, confirm available"
+   - Lock pricing: "Confirm HKD 700/kg Canadian Red available through April"
+   - Negotiate: "For 50kg commitment, can you offer HKD 680/kg?"
+
+2. **Hokkaido Bafun Final Orders (March 1-15)**
+   - This is the last month for Hokkaido bafun (season ends March 31)
+   - Place final order if you want to feature it in menus
+   - Recommend: 5-10kg final order for spring finishing menus
+   - Price: Accept premium (HKD 1,600-1,800/kg) or skip until next cycle
+
+3. **Menu Transition (March 15-April 1)**
+   - Feature Hokkaido bafun while available ("Last chance this season")
+   - Introduce spring menu items
+   - Announce transitions to regular uni (Canadian Red moving forward)
+   - Brief staff on product changes
+
+4. **Capacity Stress Test (Late March)**
+   - Test your systems at peak volume
+   - Can your coolers handle +25% volume?
+   - Are prep tables adequate?
+   - Do you have enough trained staff?
+   - Identify constraints NOW, not during peak
+
+**Supplier Communication:**
+- Mid-March: "Confirming final Hokkaido volume and delivery dates"
+- April 1: "Hokkaido finished; ready for April-May standard sourcing"
+- Request: April-May availability and pricing
+
+**Pricing Opportunity:**
+- Hokkaido bafun premium: Charge 20-30% higher than Canadian Red
+- Justify in menu: "Hokkaido Bafun, last available through March"
+- Result: Higher margin on limited-availability product4:["$","section","1",{"className":"bg-slate-50 p-6 rounded-lg","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 text-slate-900","children":"March-April: Spring Transition & Peak Demand Ramp"}],["$","div",null,{"className":"text-slate-700 whitespace-pre-wrap leading-relaxed","children":"$d"}]]}]
+e:Tc6f,**Season State:** Peak entertaining season, overseas tourist influx, summer begins.
+
+**Sea Urchin Availability:**
+- Canadian Red: Still good but supply tightens, HKD 750-800/kg
+- Chilean: Steady baseline, HKD 600-640/kg
+- Hokkaido Bafun: PEAK SEASON BEGINS (June 1), HKD 1,200-1,400/kg (lower than March end-of-season)
+- Japanese Uni: Occasional availability, premium pricing
+
+**Salmon Availability:**
+- Atlantic: Peak continues, HKD 750-850/kg
+- King Salmon: Premium available, HKD 2,500-3,200/kg
+- Sockeye: Becoming available, HKD 1,000-1,100/kg
+
+**Demand Context:**
+- Dragon Boat Festival: June 10 (public holiday)
+- Summer vacation season begins
+- Tourists peak in Hong Kong
+- Volume typically +30-50% vs. baseline
+- Cold storage becomes critical (more freezing needed)
+
+**Strategic Actions:**
+
+1. **Hokkaido Bafun Allocation Confirmation (April 15-May 1)**
+   - Call supplier: "Preparing to feature Hokkaido June-July, can you allocate 5-10kg/week?"
+   - Hokkaido season is June-July only; supply is limited
+   - Global demand for Hokkaido peaks — allocation may not be guaranteed
+   - Negotiate early: Advance payment (25-50% prepay) may secure allocation
+   - Cost consideration: Total Hokkaido budget = 8kg × HKD 1,300/kg × 8 weeks = HKD 83,200
+   - Is this justified by menu pricing? Feature at HKD 500+/portion = yes
+
+2. **Peak Volume Ordering (May 1-15)**
+   - Place formal commitment: "May 20 - June 20: 70kg total sea urchin, breakdown:"
+     - Canadian Red: 35kg/week (reliable, 3-4x weekly delivery)
+     - Hokkaido: 5kg/week (allocated, premium feature)
+     - Chilean backup: 5kg/week (secondary, risk management)
+   - Salmon: "50kg Atlantic + 10kg King for June"
+   - Request split deliveries: Capacity constraint mitigation
+
+3. **Cold Storage Capacity Stress (May 10-30)**
+   - Now you're receiving 2x baseline volume
+   - Are coolers maintaining 2-4°C despite open/close frequency?
+   - Is defrost cycle working properly under load?
+   - Have backup cooler or rental agreement in place
+   - This is not optional — it's insurance
+
+4. **Menu Adjustment (May 25-June 5)**
+   - Feature Hokkaido bafun heavily (June 1 launch)
+   - Highlight limited availability: "Hokkaido Bafun, June-July only"
+   - Price premium: HKD 500-550/portion (vs. HKD 380 for Canadian Red)
+   - Offer pairing: Hokkaido + King Salmon omakase menu
+   - Result: Higher per-plate spending, better margins
+
+5. **Staffing & Prep (May 15-30)**
+   - Bring on temporary staff if needed
+   - Cross-train team: Can everyone handle 30-50% volume increase?
+   - Prep procedures: Practice high-volume shifts
+   - Quality control: More volume = more risk; heighten inspection
+
+**Supplier Communication:**
+- April 15: "Confirm Hokkaido allocation June-July"
+- May 1: "Place formal volume commitment and delivery schedule"
+- May 20: "Confirm supply and delivery timing for next week"
+- Weekly during peak: Monitor and adjust as needed
+
+**Pricing Strategy:**
+- Canadian Red: Raise to HKD 400-420/portion (from baseline HKD 380)
+- Hokkaido: HKD 500-550/portion (limited, premium)
+- King Salmon: HKD 600-700/portion (rare, special)
+- Result: 10-15% price increase for peak season = 10-15% margin increase5:["$","section","2",{"className":"bg-slate-50 p-6 rounded-lg","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 text-slate-900","children":"May-June: Summer Peak Begins, Supply Constraints"}],["$","div",null,{"className":"text-slate-700 whitespace-pre-wrap leading-relaxed","children":"$e"}]]}]
+f:Tdcb,**Season State:** Peak summer tourism, hottest months, ongoing high demand.
+
+**Sea Urchin Availability:**
+- Canadian Red: Supply tightens further, HKD 800-850/kg (peak pricing)
+- Chilean: Steady, HKD 600-650/kg (becomes more valuable as Canadian tightens)
+- Hokkaido Bafun: Peak continues (through July 31), HKD 1,200-1,300/kg
+- Japanese Uni: Occasional, premium
+
+**Salmon Availability:**
+- Atlantic: Strong summer supply, HKD 750-850/kg
+- King Salmon: Peak availability this quarter, HKD 2,400-2,800/kg
+- Sockeye: Good availability, HKD 950-1,050/kg
+
+**Demand Context:**
+- Summer school holidays (Hong Kong, international students)
+- Tourists peak (heat = outdoor dining, indulgent entertaining)
+- Macau casino resort business peaks
+- Volume: +40-50% vs. baseline is typical
+- **HEAT RISK:** 30-38°C ambient temps stress cold-chain
+
+**Strategic Actions:**
+
+1. **Heat-Driven Cold Chain Management (July 1 onwards)**
+   - Ambient temps 30-38°C increase cooler stress
+   - Verify cooler maintenance: Is compressor working optimally?
+   - Monitor daily: Temperature checks 6x daily (not 4x)
+   - Door openings: Minimize time cooler is open
+   - Backup cooling: Have portable AC unit or backup cooler ready
+   - Cost: HKD 500-5,000 for emergency cooling (cheap vs. loss of product)
+
+2. **Supply Continuation (Early July)**
+   - Hokkaido season ends July 31
+   - Place final Hokkaido orders (July 1-10)
+   - Plan transition: What replaces Hokkaido in August?
+   - Option: Feature King Salmon in August (it's peak available)
+   - Option: Reduce omakase volume in August (smaller menu)
+   - Decision: By July 15, finalize August sourcing plan
+
+3. **Price Pressure Management (July-August)**
+   - Canadian Red tightens: Expect price to reach HKD 850-900/kg
+   - Consider shift to Chilean (HKD 600-650/kg) as primary
+   - Menu differentiation: "Premium Canadian Red" vs. "Everyday Chilean"
+   - Margin: Chilean at premium pricing (HKD 380 for same dish) = shift margin structure
+   - Communicate: Menu notes explain sourcing shifts to justify price/quality
+
+4. **Hokkaido Final Orders & Goodbye (July 15-31)**
+   - Hokkaido season ends July 31 (doesn't come back until June 2027)
+   - Place final July order by July 10
+   - Feature prominently: "Last available through July 31"
+   - Create sense of scarcity: "One month left this season"
+   - Result: Strong demand, premium pricing justified, emotional connection
+   - On July 31, update menu: "Hokkaido bafun season finished; see you next June"
+
+5. **August Menu Planning (July 15-25)**
+   - Hokkaido gone: What's your featured uni?
+   - Option 1: Canadian Red (premium, good supply, HKD 380-420/portion)
+   - Option 2: King Salmon focus (peak available, HKD 600-700/portion)
+   - Option 3: Mixed omakase (multiple species, variety)
+   - Decide by July 25 to allow supplier confirmation time
+
+**Supplier Communication:**
+- Early July: "Confirm final Hokkaido shipments through July 31"
+- July 10: "Request final July-end Hokkaido order"
+- July 20: "Confirm August sourcing plan and pricing"
+- July 30: "Thank you for Hokkaido season; planning August transition"
+- August 1: "August standard sourcing underway"
+
+**Key Insight:**
+July-August is paradoxically peak demand + peak heat stress. This is when your cold-chain infrastructure proves its value. Restaurants with proper equipment keep serving premium product. Restaurants with inadequate cooling see quality drop or service gaps. This is why the HKD 40-60K cold-chain investment pays for itself: peak season is when it matters most.6:["$","section","3",{"className":"bg-slate-50 p-6 rounded-lg","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 text-slate-900","children":"July-August: Summer Peak Plateau & Heat Stress"}],["$","div",null,{"className":"text-slate-700 whitespace-pre-wrap leading-relaxed","children":"$f"}]]}]
+10:Ta25,**Season State:** Back-to-school, seasonal change, autumn weather, demand normalizing.
+
+**Sea Urchin Availability:**
+- Canadian Red: Supply improves, HKD 700-800/kg (prices drop post-summer)
+- Chilean: Steady, HKD 580-640/kg
+- Hokkaido Bafun: None (off-season until June)
+- Japanese Uni: Occasional, premium
+
+**Salmon Availability:**
+- Atlantic: Good supply, HKD 700-800/kg (prices normalize)
+- King Salmon: Available, HKD 2,200-2,600/kg
+- Sockeye: End of season, limited, HKD 900-1,050/kg
+
+**Demand Context:**
+- Schools reopen
+- Business travel season picks up
+- Macro events (Hong Kong, Macau seasonal shifts)
+- Volume: Returning to +10-20% vs. baseline (down from summer +40-50%)
+
+**Strategic Actions:**
+
+1. **Price Renegotiation (September 1-15)**
+   - Canadian Red dropped from summer HKD 850-900/kg to HKD 700-800/kg
+   - This is your opportunity to reduce costs
+   - Email supplier: "Fall volume commitment for Oct-Dec, new pricing?"
+   - Negotiate: "Commit 12kg/month Sept-Dec at HKD 680/kg?"
+   - Savings: HKD 20/kg × 12kg × 4 months = HKD 960 savings
+
+2. **Menu Simplification (September 15-30)**
+   - Summer done: Remove limited-availability items
+   - Return to standard omakase: Canadian Red + Atlantic Salmon + seasonal specials
+   - Reduce menu complexity (lower operational stress)
+   - Establish Fall menu (consistent for 3 months)
+   - Remove Hokkaido references; plan June menu later
+
+3. **Capacity Assessment (Late September)**
+   - Summer passed; equipment stress period complete
+   - Do equipment repairs now: Fix minor issues found during peak
+   - Call maintenance: Full cooler inspection and cleaning
+   - Budget: HKD 2,000-5,000 for maintenance (cheaper than failure)
+   - Prepare for Q4 holiday peak (small compared to summer, but coming)
+
+4. **Q4 Planning Begins (Late September)**
+   - October: Plan November-December strategy
+   - Holiday entertaining season coming (different from summer)
+   - Corporate gifting increases (demand for premium seafood)
+   - Budget: Prepare for 20-30% volume increase Nov-Dec
+   - Identify Q4 specials: What's your holiday signature menu?
+
+**Supplier Communication:**
+- Sept 1: "Fall pricing renegotiation, Oct-Dec volume plan"
+- Sept 15: "Confirm new pricing and monthly volume"
+- Sept 30: "October delivery schedule confirmed"
+- Oct 1: "Finalize November-December planning"
+
+**Pricing Reset:**
+- Pass savings to customers: HKD 380 → HKD 360 for Canadian Red uni
+- Or: Keep margin the same and enjoy 5-10% margin improvement
+- Psychology: Price drop makes product feel "on sale" but actually reflects seasonal supply normalization7:["$","section","4",{"className":"bg-slate-50 p-6 rounded-lg","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 text-slate-900","children":"September-October: Fall Transition & Price Reset"}],["$","div",null,{"className":"text-slate-700 whitespace-pre-wrap leading-relaxed","children":"$10"}]]}]
+11:Tee0,**Season State:** Year-end entertaining, corporate gifting, holiday celebrations.
+
+**Sea Urchin Availability:**
+- Canadian Red: Steady, HKD 700-800/kg
+- Chilean: Steady, HKD 580-640/kg
+- Hokkaido Bafun: None (off-season)
+- Japanese Uni: Regional availability, premium
+
+**Salmon Availability:**
+- Atlantic: Good supply, HKD 700-800/kg
+- King Salmon: Good availability, HKD 2,200-2,600/kg
+- Sockeye: Limited, HKD 900-1,000/kg
+
+**Demand Context:**
+- Corporate year-end entertaining (Nov 15 - Dec 31)
+- Christmas (Dec 25-26)
+- New Year parties (Dec 31 - Jan 1)
+- Macau casino business peaks
+- Hong Kong company dinners peak
+- Volume: +20-30% vs. baseline is typical
+
+**Strategic Actions:**
+
+1. **Holiday Supply Planning (October 25 - November 10)**
+   - Email suppliers: "November 20 - December 31 volume commitment"
+   - Estimate: "Expecting 50-60kg sea urchin, 40-50kg salmon Nov-Dec"
+   - Request: Split shipments (multiple deliveries per week)
+   - Guarantee: Can they commit continuous supply through Dec 31?
+   - Special requests: Any holiday-specific products available?
+   - Lock pricing: "Confirm HKD 750/kg Canadian Red through Dec 31?"
+
+2. **Cold Storage Verification (Early November)**
+   - Holiday demand requires reliable cold chain
+   - Run full cooler test: Maintain 2-4°C through 2-hour stress (simulate heavy use)
+   - Backup ready: Have portable cooler rental or backup supplier relationship
+   - Insurance: One cooler failure during holiday season = service disaster
+
+3. **Holiday Menu Planning (October 25 - November 15)**
+   - Create special holiday offerings: "Year-End Celebration Omakase"
+   - Feature premium product: King Salmon + Canadian Red uni
+   - Create "Festive" pairing menu: Higher price point
+   - Communicate: Pre-holiday bookings (secure volume commitment)
+   - Example pricing: Standard omakase HKD 800 → Holiday Celebration HKD 1,000
+
+4. **Staffing & Reservation Management (Late November)**
+   - Bring on temporary staff if needed (seasonal hiring)
+   - Holiday bookings: Most corporate dinners 3-4 weeks in advance
+   - Confirm reservations by Nov 15: Know Dec 1-31 volume
+   - Capacity planning: Can you handle simultaneous bookings?
+   - Quality control: More bookings = higher quality risk; heighten standards
+
+5. **Year-End Supplier Review (Late November)**
+   - Call suppliers: "Thanks for 2024 support; planning 2025"
+   - Performance review: On-time %, quality rejections, service quality
+   - Discuss 2025: Volume targets, pricing, new product requests
+   - Renew/renegotiate: Finalize 2025 supplier agreements by mid-December
+   - Contract signing: Get new contracts in place before January
+
+6. **December Holiday Execution (December 1-31)**
+   - Deliver premium experience: This is peak-perception time
+   - Quality consistency: Every dish matters during holidays
+   - Staff excellence: This is when guests remember your restaurant
+   - Positive service: Positive holiday experience = retention + word-of-mouth
+
+7. **Year-End Inventory Clearance (December 20-31)**
+   - Minimize inventory for year-end
+   - Feature any surplus items: "Special holiday pricing on..."
+   - Plan Jan 1 reset: Start new year with fresh inventory
+   - Document all 2024 supplier performance for Q1 2025 review
+
+**Supplier Communication:**
+- Oct 25: "November-December volume and pricing confirmation"
+- Nov 5: "Confirm supply through December 31 (critical period)"
+- Nov 15: "Confirmed bookings: expect X volume in Dec"
+- Dec 20: "Thanks for supporting 2024; planning 2025"
+- Early Jan: "2025 supplier agreements finalized"
+
+**Margin Strategy:**
+- Holiday pricing: Premium of 10-20% over baseline (justified)
+- Holiday omakase: HKD 1,000 vs. standard HKD 800
+- King Salmon: HKD 600-700/portion (peak available, higher margin)
+- Result: Strong margin expansion during peak season8:["$","section","5",{"className":"bg-slate-50 p-6 rounded-lg","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 text-slate-900","children":"November-December: Holiday Peak & Year-End Planning"}],["$","div",null,{"className":"text-slate-700 whitespace-pre-wrap leading-relaxed","children":"$11"}]]}]
+9:["$","section",null,{"className":"bg-gradient-to-r from-blue-50 to-slate-50 p-8 rounded-lg mt-8","children":[["$","p",null,{"className":"text-lg text-slate-700 mb-6 leading-relaxed","children":"This seasonal calendar is your sourcing roadmap for the entire year. Hokkaido bafun peaks June-July. Canadian Red peaks December-May. Summer heat (July-August) stresses cold chain. Holiday season (Nov-Dec) drives demand. Responsive restaurants plan 3-6 months in advance: locking supply, negotiating pricing, managing capacity, training staff, and adjusting menus. Reactive restaurants scramble, accept inferior product, pay premium prices, and lose margin. Use this calendar. Share it with your suppliers. Build annual planning into your calendar. The restaurants that execute this discipline serve the finest product, maintain consistent quality, and achieve the best margins. That's the competitive advantage of seasonal sourcing mastery."}],["$","div",null,{"className":"bg-white p-6 rounded border-l-4 border-blue-500","children":[["$","h3",null,{"className":"text-xl font-bold mb-2 text-slate-900","children":"Partner with Inari for Year-Round Seasonal Sourcing"}],["$","p",null,{"className":"text-slate-700","children":"Inari Global Food manages the seasonal calendar for you. We secure Hokkaido allocation, manage Canadian supply, plan for heat stress, and deliver consistency every month. One supplier, complete coverage."}]]}]]}]
+a:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"Uni & Salmon"}],["$","p",null,{"className":"text-sm","children":"Your trusted partner for premium sea urchin and salmon in Hong Kong & Macau."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Home"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/en/about","className":"hover:text-white","children":"About Us"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/sea-urchin","className":"hover:text-white","children":"Sea Urchin"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/salmon","className":"hover:text-white","children":"Salmon"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/blog","className":"hover:text-white","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Contact Us"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","Uni & Salmon",". ","All rights reserved."]}]]}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true}]
+c:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null

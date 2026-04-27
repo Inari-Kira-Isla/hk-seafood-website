@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://inari-kira-isla.github.io/hk-seafood-website/sitemap.xml

@@ -1,0 +1,458 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/7c92e96509cd355e.js"],""]
+10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+3:Td56,Most restaurants calculate seafood costs as 'wholesale price per kg.' This is incomplete. True seafood COGS includes multiple layers.
+
+**The Full Cost Equation:**
+
+```
+Seafood COGS = Wholesale Price + Freight + Handling + Wastage + Cold-Chain + Labor
+```
+
+**1. Wholesale Price (60-70% of total cost)**
+Example: Canadian Red Sea Urchin
+- Base price: HKD 800/kg
+- This is your starting point
+
+**2. Freight & Logistics (8-12% of total cost)**
+Often hidden in wholesale pricing, but real:
+- Air freight surcharges: HKD 50-100/kg for priority delivery
+- Cold-chain logistics: HKD 30-50/kg for specialized handling
+- Customs clearance: HKD 20-30/kg for import fees
+- Example: HKD 100-180/kg in additional logistics costs
+
+**3. Handling & Waste (10-15% of total cost)**
+Losses from receiving to plate:
+- Quality inspection rejects: 2-3% of incoming volume (grading variation)
+- Preparation waste (shells, membrane, inedible portions): 15-20% typical
+- Spoilage from temperature fluctuations: 1-2% if not careful
+- Trimming and portioning: 5-10% loss typical
+
+Example calculation:
+- Order 10kg Canadian Red Sea Urchin
+- Receive 10kg; inspect and grade
+- Reject 200g (2%) due to quality — loss HKD 160
+- Use 8kg (20% is membrane/waste) — effective yield is 8kg
+- Trim and portion for service — 400g additional loss
+- Effective yield: 7.6kg from 10kg order (24% total loss)
+
+Waste cost: HKD 800 × 10kg = HKD 8,000 cost for 7.6kg product = effective HKD 1,053/kg
+
+**4. Cold-Chain Management (3-5% of total cost)**
+Energy and equipment to maintain quality:
+- Dedicated refrigerator maintenance and temperature monitoring
+- Ice and cold packs for delivery
+- Daily rotation and FIFO tracking labor
+- Backup cooling if primary fails
+
+Example: HKD 1,000/month cold-chain costs ÷ 100kg monthly seafood = HKD 10/kg overhead
+
+**5. Labor: Receiving, Inspection, Prep (5-10% of total cost)**
+People costs to handle incoming inventory:
+- Receiving and inspecting deliveries: 0.25 hours per delivery = HKD 150
+- Grading and quality assessment: 0.5 hours per order = HKD 300
+- Prep (cleaning, portioning, plating): varies by dish (see labor cost below)
+- FIFO rotation and inventory tracking: 0.5 hours weekly = HKD 75
+
+Example: HKD 525 labor/delivery on 10kg order = HKD 52.50/kg
+
+**True COGS Example: Canadian Red Sea Urchin**
+```
+Wholesale price:           HKD 800/kg (base)
+Freight/logistics:       + HKD 150/kg (air freight, customs, handling)
+Waste (24% loss):        + HKD 253/kg (800 × 24% ÷ 76% yield)
+Cold-chain overhead:     + HKD 10/kg
+Labor (handling/prep):   + HKD 53/kg
+────────────────────────────
+True COGS:               HKD 1,266/kg
+────────────────────────────
+```
+
+This means:
+- Your true cost is 58% higher than the wholesale price
+- A HKD 800/kg quote is actually HKD 1,266/kg when fully costed
+- Pricing HKD 1,200/kg thinking you're making margin? You're losing money
+
+**Cost Variation by Product:**
+
+Higher-waste products:
+- Sea urchin (uni): 20-25% waste (membrane removal)
+- Live lobster: 35-40% waste (head, shells)
+- Whole fish: 30-35% waste (head, bones, guts)
+
+Lower-waste products:
+- Salmon fillet: 3-5% waste (portioning trim)
+- Scallop meat: 5-8% waste (side muscle)
+- Pre-portioned products: 1-2% waste
+
+Higher-waste products require higher gross margin to achieve same net margin.0:{"buildId":"iZsbPZpblQsjeTW_6h2I9","rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$L2",null,{"href":"/en","className":"text-xl font-bold text-gray-900","children":"Uni & Salmon"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$L2",null,{"href":"/en","className":"text-sm text-gray-700 hover:text-gray-900","children":"Home"}],["$","$L2",null,{"href":"/en/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"About Us"}],["$","$L2",null,{"href":"/en/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"Sea Urchin"}],["$","$L2",null,{"href":"/en/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"Salmon"}],["$","$L2",null,{"href":"/en/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"Blog"}],["$","$L2",null,{"href":"/en/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"Contact"}],["$","$L2",null,{"href":"/zh-HK","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"中文"}]]}]]}]}],["$","article",null,{"className":"min-h-screen bg-gradient-to-br from-slate-50 to-slate-100","children":["$","div",null,{"className":"max-w-4xl mx-auto px-4 py-16","children":["$","div",null,{"className":"bg-white rounded-lg shadow-lg p-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4 text-slate-900","children":"Premium Seafood Economics: Building Margin and Justifying Price in Hong Kong and Macau"}],["$","div",null,{"className":"flex items-center gap-4 text-slate-600 mb-8 border-b pb-4","children":[["$","span",null,{"className":"text-sm font-semibold bg-blue-100 text-blue-700 px-3 py-1 rounded","children":"Business Strategy"}],["$","span",null,{"className":"text-sm","children":"March 2026"}]]}],["$","p",null,{"className":"text-lg text-slate-700 mb-8 leading-relaxed font-semibold","children":"Most restaurants treat seafood as a cost to minimize. Strategic operators treat it as a revenue driver to maximize. The difference is understanding premium seafood economics — how to structure your costs, optimize margins, and price your dishes to reflect true value. In Hong Kong and Macau's ultra-competitive restaurant market, the margin difference between mediocre and exceptional seafood sourcing directly impacts profitability. This guide covers cost structure, margin math, pricing strategy, and how to communicate value to justify premium prices that diners willingly pay."}],["$","div",null,{"className":"space-y-8","children":[["$","section","0",{"className":"bg-slate-50 p-6 rounded-lg","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 text-slate-900","children":"Seafood Cost Structure: Understanding Your True COGS"}],["$","div",null,{"className":"text-slate-700 whitespace-pre-wrap leading-relaxed","children":"$3"}]]}],"$L4","$L5","$L6","$L7"]}],"$L8"]}]}]}],"$L9"],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+c:T7cc,Restaurant operators confuse gross margin and net margin. This costs money.
+
+**Gross Margin = Revenue - COGS (raw material cost)**
+
+Example: Sea Urchin Sashimi
+- Plate sells for: HKD 380
+- COGS (true cost, calculated above): HKD 127 (based on 10% portion of HKD 1,266/kg)
+- Gross margin: HKD 380 - HKD 127 = HKD 253
+- Gross margin %: HKD 253 ÷ HKD 380 = 66.6%
+
+Sounds excellent. But this is before:
+- Soy sauce, wasabi, garnish
+- Plate, bowl, ice
+- Chef labor to plate
+- Rent, utilities, insurance
+- Marketing, delivery, etc.
+
+**Net Margin = (Revenue - COGS - Operating Costs) ÷ Revenue**
+
+For typical Hong Kong restaurants:
+- Gross Margin Target: 65-70% (after all food costs)
+- Operating Costs: 35-40% (rent, labor, utilities)
+- Net Margin (Profit): 25-35%
+
+This means:
+- A HKD 380 dish with HKD 127 COGS leaves HKD 253 gross
+- Operating costs take ~HKD 140 of that (35%)
+- Net profit: ~HKD 113 per plate (30%)
+
+**The Real Question: Does Your Seafood Pricing Support This?**
+
+Many restaurants under-price premium seafood because they don't understand true COGS.
+
+Example: Premium sea urchin sashimi
+- Wholesale quoted: HKD 800/kg
+- Chef says: "That's cheap, let's price at HKD 380/portion"
+- True COGS: HKD 1,266/kg (66% higher!)
+- At 10g portion: HKD 127 per plate
+- Gross margin needed for 65% target: HKD 127 ÷ 0.35 = HKD 363 revenue
+- Actual price: HKD 380 (barely hitting margin target)
+
+Once operating costs apply, profit is thin. One spike in waste or labor cost, and you lose money on the dish.
+
+**Solution: Cost + Margin = Price**
+
+Don't accept wholesale quotes at face value. Calculate true COGS first.
+
+```
+True COGS per portion: HKD 127
+Desired gross margin: 65% (means 35% max COGS ratio)
+Required revenue: HKD 127 ÷ 0.35 = HKD 363
+Target price (with 5-10% luxury markup): HKD 420-450
+Actually competitive in Hong Kong premium market: YES
+```
+
+This is why Michelin-starred restaurants charge HKD 450+ for sea urchin sashimi. They've calculated true COGS and priced accordingly.4:["$","section","1",{"className":"bg-slate-50 p-6 rounded-lg","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 text-slate-900","children":"Gross Margin vs. Net Margin: What Actually Matters"}],["$","div",null,{"className":"text-slate-700 whitespace-pre-wrap leading-relaxed","children":"$c"}]]}]
+d:Taef,Two pricing philosophies: cost-based (what you pay + markup) vs. value-based (what diners will pay).
+
+**Cost-Based Pricing (Most Common, Often Wrong)**
+
+Formula: COGS × Markup Multiple = Selling Price
+
+Example:
+- COGS: HKD 127
+- Standard restaurant markup: 3x
+- Price: HKD 381
+
+Problem: Ignores market value. If diners will pay HKD 500 for that dish, you're leaving money on the table.
+
+**Value-Based Pricing (Strategic Restaurants, Higher Margin)**
+
+Approach: Research what market will pay, then back-calculate margin
+
+```
+Dish: Uni (Sea Urchin) Sashimi (3-piece, 12g total)
+
+Market Research (February 2026, Hong Kong):
+- 3-star Michelin: HKD 520-680 per portion
+- High-end omakase: HKD 420-520 per portion
+- Fine dining: HKD 320-420 per portion
+- Casual premium: HKD 220-320 per portion
+- Target positioning: High-end omakase
+- Optimal price: HKD 450
+
+Margin Calculation:
+- Revenue: HKD 450
+- COGS: HKD 127
+- Gross margin: HKD 323 (71.8%)
+- This exceeds 65% target — profitable and competitive
+```
+
+**Value-Based Pricing Factors for Hong Kong/Macau:**
+
+**1. Restaurant Positioning**
+- Michelin-starred: HKD 450-680 per seafood course
+- High-end omakase counter: HKD 350-500
+- Fine dining (hotel/casino): HKD 280-400
+- Casual premium (neighborhood): HKD 200-350
+
+**2. Product Rarity/Seasonality**
+- Year-round available (Atlantic salmon): Standard pricing
+- Seasonal (Hokkaido uni, June-July): +15-25% premium
+- Limited allocation (King salmon): +40-80% premium
+- Harvest-dependent (spot prawns, March-April): +50-100% premium
+
+**3. Preparation Complexity**
+- Simple plating (sashimi on ice): Base price
+- Moderate prep (sauce, garnish, warmth): +10-15%
+- High prep (multiple components, technique): +25-40%
+- Show/theater element (table plating): +30-50%
+
+**4. Guest Perception of Value**
+- Transparency ("Norwegian salmon, today's catch"): +10%
+- Certification (MSC, ASC visible): +5-10%
+- Story (fishery name, harvest date): +10-15%
+- Rarity communication ("only available February"): +15-25%
+
+**5. Competitive Benchmarking**
+- Research 3-5 direct competitors
+- Identify price ranges for similar dishes
+- Position 10-15% premium if differentiation exists
+
+**Example: Premium Salmon Sashimi Pricing**
+```
+Base COGS (Atlantic salmon, 20g): HKD 95
+Competitor research:
+- Restaurant A (Michelin): HKD 420
+- Restaurant B (High-end omakase): HKD 380
+- Restaurant C (Fine dining): HKD 320
+- Average: HKD 373
+
+Your positioning: Premium omakase counter, Hong Kong location
+Margin target: 65%
+Required price: HKD 95 ÷ 0.35 = HKD 271 minimum
+
+Value-based approach:
+- Competitive price: HKD 380 (matches high-end omakase)
+- Margin check: (HKD 380 - HKD 95) ÷ HKD 380 = 75% gross margin ✓
+- Profitability: Excellent at HKD 380
+
+Final decision: HKD 380 (matches market, achieves margin, defensible)
+```5:["$","section","2",{"className":"bg-slate-50 p-6 rounded-lg","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 text-slate-900","children":"Pricing Premium Seafood: Value-Based vs. Cost-Based Pricing"}],["$","div",null,{"className":"text-slate-700 whitespace-pre-wrap leading-relaxed","children":"$d"}]]}]
+e:Te4b,You can improve margins without cutting corners. The secret is strategic sourcing.
+
+**1. Negotiate Better Base Pricing (5-15% savings)**
+
+Leverage:
+- Volume commitments: "We'll commit to 15kg/month for 6 months" → 10% discount
+- Standing orders: Consistent, predictable volume → 5-8% discount
+- Early payment: Pay within 10 days → 2-3% discount
+- Off-season purchases: Buy during low season for peak season use → 10-20% discount
+
+Example:
+- Current: HKD 800/kg (spot market)
+- Volume commitment + standing order + 30-day prepayment: HKD 680/kg (15% savings)
+- Monthly volume: 10kg
+- Annual savings: HKD 1,200 on 120kg purchase
+
+**2. Reduce Waste Through Better Handling (3-8% improvement)**
+
+Targets:
+- Inspection/grading loss: Currently 2%, target 0.5% (better supplier, better process)
+- Prep waste: Currently 20%, target 15% (better training, better technique)
+- Spoilage: Currently 2%, target 0% (better cold-chain management)
+
+Example: Sea Urchin (currently 24% total waste)
+```
+Current state:
+- Order 10kg @ HKD 800 = HKD 8,000
+- 24% waste = 2.4kg lost
+- Yield: 7.6kg
+- Effective cost per kg: HKD 1,053/kg
+
+Improved state (through better handling & training):
+- Order 10kg @ HKD 800 = HKD 8,000
+- 16% waste = 1.6kg lost
+- Yield: 8.4kg
+- Effective cost per kg: HKD 952/kg
+- Savings: HKD 101/kg (9.6% improvement)
+```
+
+**3. Switch Products Strategically (5-20% margins)**
+
+Same category, different products:
+- Canadian Red Sea Urchin (HKD 800/kg, seasonal supply)
+- Chilean Sea Urchin (HKD 650/kg, year-round, slightly different flavor)
+- Hokkaido Bafun (HKD 1,400/kg, premium, seasonal)
+
+Menu strategy:
+- Off-season: Use Chilean as base (lower cost)
+- Peak season: Feature Hokkaido (premium)
+- Omakase menu: Offer both, let chef choose daily
+- Result: Better margins year-round, fresh menu
+
+**4. Reduce Portion Size Strategically (2-8% margin improvement)**
+
+Not recommended as primary strategy, but valid when paired with price increase:
+
+Example:
+- Current: 15g sea urchin sashimi @ HKD 380
+- Reduced portion: 12g @ HKD 360
+- Guest perception: Slightly smaller, but still premium
+- Cost savings: HKD 24 reduction
+- Result: -HKD 20 revenue, -HKD 24 cost = net +HKD 4 margin
+
+Caution: Only works if competitors have also reduced portions. Transparent signaling ("3-piece vs 4-piece") reduces backlash.
+
+**5. Optimize Dish Composition (5-15% margin improvement)**
+
+Instead of reducing quality, change the dish composition:
+
+Example: Sea Urchin Sashimi with Complementary Components
+```
+Old composition (high cost):
+- 15g premium sea urchin only
+- COGS: HKD 190 (@ HKD 1,266/kg effective cost)
+- Price: HKD 380
+- Margin: 50%
+
+New composition (same experience, better margin):
+- 10g premium sea urchin (star ingredient): HKD 127
+- 3g quality salmon: HKD 12
+- Seasonal garnish, sauce, ice: HKD 15
+- Total COGS: HKD 154
+- Price: HKD 380 (same as before)
+- Margin: 59% (9 percentage point improvement)
+
+Guest perception:
+- More interesting dish (multi-component)
+- Better presentation (visual sophistication)
+- Highlight premium uni more (by contrast with supporting ingredients)
+- Price same, margin higher, perceived value higher
+```
+
+**6. Use Premium Seafood for "Anchor" High-Margin Dishes (15-40% margin boost)**
+
+Strategy: Use expensive seafood in high-profit-per-unit dishes
+
+Example: Omakase tasting menu
+```
+Dish 1: Sea urchin sashimi (3 pieces, 12g)
+- COGS: HKD 127
+- Price: HKD 450
+- Margin: 72%
+
+Dish 2: Uni butter toast
+- Same 5g uni (HKD 53)
+- Toast, butter, garnish: HKD 15
+- COGS: HKD 68
+- Price: HKD 280
+- Margin: 76%
+
+Result: Same expensive ingredient, different dishes, both high margin
+Customers get variety, you get consistency
+```6:["$","section","3",{"className":"bg-slate-50 p-6 rounded-lg","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 text-slate-900","children":"Maximizing Margin Without Cutting Quality: Strategic Sourcing"}],["$","div",null,{"className":"text-slate-700 whitespace-pre-wrap leading-relaxed","children":"$e"}]]}]
+f:Td8d,Price is only 'high' if the value isn't clear. Strategic restaurants communicate value explicitly.
+
+**1. Transparency About Sourcing**
+
+What to communicate:
+- Origin: "Norwegian Atlantic Salmon, air-freighted twice weekly"
+- Quality standard: "Sashimi-grade, parasite-tested, MSC-certified"
+- Freshness: "Landed 36 hours ago, maintained 2-4°C cold chain"
+- Taste profile: "Buttery, medium oil content, peak season flavor"
+
+Example menu description (weak):
+```
+Salmon Sashimi — HKD 380
+```
+
+Example menu description (strong):
+```
+Norwegian Atlantic Salmon Sashimi — HKD 420
+Air-freighted from Faroe Islands 3x weekly. Sashimi-grade, 
+MSC-certified, parasite-tested. Served within 48 hours of arrival.
+Buttery flavor, medium oil content, Faroe Islands peak season.
+```
+
+Result: HKD 40 (10.5%) price premium justified and expected by diners
+
+**2. Certification Visibility**
+
+MSC (Marine Stewardship Council):
+- Wild-caught sustainable sourcing
+- Appeals to environmentally conscious diners
+- Justifies premium: +5-10%
+
+ASC (Aquaculture Stewardship Council):
+- Responsible farming
+- Appeals to sustainability + quality
+- Justifies premium: +5-10%
+
+Japanese Grading Certification:
+- AA, A, B grades visible on menu
+- Creates quality hierarchy
+- Premium grades command premium prices
+- Example: AA-Grade Uni HKD 450 vs A-Grade HKD 320
+
+**3. Menu Positioning**
+
+Tier 1 (Highest Price, Premium Positioning):
+- "Chef's Selection Uni" (premium grade, sourced specially)
+- "Hokkaido Bafun Sashimi" (seasonal, limited availability)
+- "Premium King Salmon" (highest quality tier)
+
+Tier 2 (Mid-Range, Standard Premium):
+- "Canadian Red Sea Urchin" (year-round, reliable quality)
+- "Norwegian Salmon" (versatile, consistent)
+
+Tier 3 (Entry Premium, Accessible):
+- "Atlantic Salmon Sashimi" (standard quality, accessible price)
+
+Result: Clear hierarchy, premium tiers command premium prices, customers self-select
+
+**4. Story-Based Pricing**
+
+Examples:
+- "Only available May-July, Hokkaido waters, 3-week limited harvest"
+- "This week: Faroe Islands salmon, peak oil content season"
+- "Special order: King salmon from Sitka, Alaska waters"
+- "Partnership with 3-generation family fishery in Norway"
+
+Effect: Story transforms commodity into experience
+Price impact: +15-30% premium for identical (chemically) product with story
+
+**5. Comparison-Based Justification**
+
+Many diners don't know premium seafood pricing. Help them understand.
+
+Example: Menu note
+```
+Why is our sea urchin HKD 480?
+
+Premium sourcing costs:
+- Sashimi-grade uni: HKD 800/kg wholesale
+- Air freight + customs: HKD 150/kg
+- Cold chain + handling: HKD 60/kg
+- Portion 10g = HKD 127 cost per plate
+
+Comparison:
+- Casual premium restaurants: HKD 200-300 (lower grade)
+- Fine dining: HKD 350-450 (our level)
+- Michelin-starred: HKD 500-680 (higher grade/rarer)
+
+Our HKD 480 reflects AA-grade, sashimi-certified, 
+traced to specific fishery. Value is transparent.
+```
+
+Effect: Educated customers appreciate value and don't negotiate price
+
+**6. Limited Availability Creates Premium**
+
+- "Only 3 portions available today" → psychological premium
+- "Peak season pricing" → explains seasonal price variation
+- "Allocation limited" → justifies higher price
+- "Not available next month" → creates urgency
+
+Example: Menu notation
+```
+Hokkaido Bafun Uni (June-July only) — HKD 520
+Now: Peak season, peak flavor. Next availability: June 2027.
+```
+
+Effect: Creates scarcity perception, justifies premium pricing7:["$","section","4",{"className":"bg-slate-50 p-6 rounded-lg","children":[["$","h2",null,{"className":"text-2xl font-bold mb-4 text-slate-900","children":"Communicating Value: Why Diners Will Pay Premium Prices"}],["$","div",null,{"className":"text-slate-700 whitespace-pre-wrap leading-relaxed","children":"$f"}]]}]
+8:["$","section",null,{"className":"bg-gradient-to-r from-blue-50 to-slate-50 p-8 rounded-lg mt-8","children":[["$","p",null,{"className":"text-lg text-slate-700 mb-6 leading-relaxed","children":"Premium seafood economics isn't about cutting corners — it's about understanding true costs, pricing strategically, and communicating value. Most restaurants leave 10-20% margin on the table by mis-pricing premium seafood. By calculating true COGS, understanding market value, reducing waste through better handling, and telling the sourcing story, you can achieve 65-75% gross margins on premium dishes while maintaining exceptional quality. That's how high-end restaurants achieve profitability while serving the finest products."}],["$","div",null,{"className":"bg-white p-6 rounded border-l-4 border-blue-500","children":[["$","h3",null,{"className":"text-xl font-bold mb-2 text-slate-900","children":"Ready to Optimize Your Seafood Margins?"}],["$","p",null,{"className":"text-slate-700","children":"Partner with Inari Global Food for transparent sourcing, premium quality, and competitive pricing that supports your margin targets."}]]}]]}]
+9:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"Uni & Salmon"}],["$","p",null,{"className":"text-sm","children":"Your trusted partner for premium sea urchin and salmon in Hong Kong & Macau."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Home"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/en/about","className":"hover:text-white","children":"About Us"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/sea-urchin","className":"hover:text-white","children":"Sea Urchin"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/salmon","className":"hover:text-white","children":"Salmon"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/blog","className":"hover:text-white","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Contact Us"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","Uni & Salmon",". ","All rights reserved."]}]]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true}]
+b:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

@@ -1,0 +1,107 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/7c92e96509cd355e.js"],""]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Td9e,並非所有供應商都是平等的。在承諾建立關係之前，跨多個維度評估潛在供應商。
+
+**五項核心選擇標準：**
+
+**1. 可追蹤性與認證**
+要提出的問題：
+• 您可以提供收穫到交付的文件嗎？
+• 您是否持有MSC/ASC認證（越來越多的強制要求）？
+• 您的冷鏈文件流程是什麼？
+• 您如何驗證生產者憑證？
+
+為什麼重要：
+• 隨著法規收緊，無法追蹤的供應商成為責任
+• MSC/ASC認證顯示對標準的承諾
+• 冷鏈文件證明新鮮度和安全性
+• 如果客人抱怨品質，您需要有力支撐
+
+紅旗：
+• "我們會研究一下" = 他們不優先考慮可追蹤性
+• 認證"待定" = 他們還沒有
+• 沒有溫度日誌 = 處理馬虎
+• 迴避答案 = 他們隱藏什麼
+
+**2. 一致性與可靠性**
+要提出的問題：
+• 您的典型交付周期是多少？
+• 您多久會錯過一次訂單期限？
+• 如果正常供應中斷，您的備用計劃是什麼？
+• 您如何處理季節性可用性變化？
+
+為什麼重要：
+• 您的菜單計劃取決於一致的供應
+• 延遲交付會中斷服務並損害聲譽
+• 季節性驚喜會導致菜單混亂
+• 可靠的供應商減少運營壓力
+
+評估過程：
+• 向2-3個現有餐廳客户要求推薦
+• 致電這些推薦人並明確詢問："他們是否曾錯過交付？"
+• 在承諾合同之前要求1個月的試用供應
+• 在試用期間，跟蹤交付時間和品質一致性
+
+**3. 品質與分級標準**
+要提出的問題：
+• 您如何對您的產品進行分級？
+• 您的品質控制流程是什麼？
+• 您可以保證等級一致性嗎？
+• 如果貨物不符合規定的等級會發生什麼？
+
+為什麼重要：
+• "品質"是主觀的；具體分級可防止驚喜
+• 一致的分級使一致的菜單定價成為可能
+• 品質保證保護您的聲譽
+• 如果他們不能保證品質，他們就不可靠
+
+評估過程：
+• 請求他們提供的每個等級的樣品
+• 品嚐測試並與您的品質標準進行比較
+• 詢問他們的內部品管流程
+• 評估他們如何處理品質投訴
+
+**4. 定價競爭力**
+要提出的問題：
+• 您目前對[特定產品/等級]的定價是多少？
+• 哪些數量承諾會降低定價？
+• 您多久調整一次價格？
+• 您在旺季的定價結構是什麼？
+
+為什麼重要：
+• 定價通常是食品成本的20-30%
+• 每公斤節省很小，但複合為重大利潤
+• 數量槓桿可將成本降低10-20%
+• 可預測的定價使準確的菜單利潤成為可能
+
+評估過程：
+• 為您的典型月訂單獲得3個競爭報價
+• 計算真實成本（包括交付、處理、廢料）
+• 詢問數量層級和長期折扣計劃
+• 不要只選擇最便宜的——評估價格vs品質折衷
+
+**5. 通信與回應性**
+要提出的問題：
+• 在緊急情況下我如何聯繫您？
+• 您對消息的回應速度有多快？
+• 我可以直接與決策者交談嗎？
+• 您如何處理投訴或品質問題？
+
+為什麼重要：
+• 餐廳運營對時間敏感
+• 對品質投訴的遲延回應會加重問題
+• 回應迅速的供應商成為可信賴的夥伴
+• 您需要一個聯絡點，而不是語音信箱地獄
+
+評估過程：
+• 發送測試消息並跟蹤回應時間
+• 在非高峰時段致電並評估回答速度
+• 要求直接聯繫（手機、電子郵件）您的客户經理
+• 評估他們如何處理假設緊急情況0:{"buildId":"iZsbPZpblQsjeTW_6h2I9","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white","children":[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$L2",null,{"href":"/zh-HK","className":"text-xl font-bold text-gray-900","children":"海膽三文魚"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$L2",null,{"href":"/zh-HK","className":"text-sm text-gray-700 hover:text-gray-900","children":"首頁"}],["$","$L2",null,{"href":"/zh-HK/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"關於我們"}],["$","$L2",null,{"href":"/zh-HK/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"海膽"}],["$","$L2",null,{"href":"/zh-HK/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"三文魚"}],["$","$L2",null,{"href":"/zh-HK/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"資訊"}],["$","$L2",null,{"href":"/zh-HK/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"聯絡我們"}],["$","$L2",null,{"href":"/en","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"English"}]]}]]}]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-12 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-3 mb-4","children":[["$","span",null,{"className":"px-3 py-1 bg-blue-100 text-blue-800 text-sm font-semibold rounded-full","children":"採購與合作夥伴"}],["$","span",null,{"className":"text-gray-600 text-sm","children":"2026年3月"}]]}],["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"打造制勝供應商關係：餐廳採購方手冊"}],["$","p",null,{"className":"text-lg text-gray-700 leading-relaxed","children":"您餐廳的海產品質與您的供應商關係一樣好。然而，大多數餐廳營運者將供應商視為商品——貨比三家、談判價格、隨意更換。戰略性餐廳認識到強大的供應商夥伴關係是競爭優勢。當您有一個信任的供應商，理解您的品質標準，預期您的季節性需求，並提醒您市場機會時，您獲得可靠的供應、更好的定價和您競爭對手沒有的內部知識。本手冊涵蓋如何選擇供應商、建立雙方都可行的合作夥伴關係、有效談判，以及建立支持您餐廳多年增長的關係。"}]]}],["$","div",null,{"className":"prose prose-lg max-w-none","children":[["$","section","0",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"供應商選擇：找到您理想的夥伴"}],["$","div",null,{"className":"text-gray-700 whitespace-pre-wrap leading-relaxed","children":"$3"}]]}]]}],["$","section",null,{"className":"mt-12 pt-8 border-t border-gray-200","children":"$L4"}]]}],"$L5"]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+4:["$","p",null,{"className":"text-lg text-gray-700 leading-relaxed","children":"供應商關係是餐廳成功的隱藏基礎設施。大多數營運者關注菜單、廚房技術和前臺服務——然後想知道為什麼他們的品質不一致。戰略性餐廳認識到可靠的採購是競爭優勢。通過仔細選擇供應商、談判雙方都可行的合同、投資通信並維護多個選項，您可以創建支持卓越的供應鏈。當您的行政主廚信任每日交付時，當您擁有在需要時無縫接入的備用供應商時，當季節性高峰運營順暢因為您提前三個月計劃時——那時採購成為使您餐廳所做一切都可能的隱形資產。現在就開始建立這些關係。"}]
+5:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"海膽三文魚"}],["$","p",null,{"className":"text-sm","children":"您在香港及澳門的優質海膽及三文魚信賴合作夥伴。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"首頁"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/zh-HK/about","className":"hover:text-white","children":"關於我們"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/zh-HK/sea-urchin","className":"hover:text-white","children":"海膽"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/zh-HK/salmon","className":"hover:text-white","children":"三文魚"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/zh-HK/blog","className":"hover:text-white","children":"資訊"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"聯絡我們"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","海膽三文魚",". ","版權所有。"]}]]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true}]
+7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

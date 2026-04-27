@@ -1,0 +1,280 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/7c92e96509cd355e.js"],""]
+17:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+3:T5e1,The difference between AA-grade and B-grade sea urchin is not cosmetic — it's the difference between a restaurant that commands premium pricing and one that competes on value.
+
+**AA-Grade Uni:**
+• Omakase-only presentation: small, pristine lobes
+• Bright golden-orange color, no discoloration
+• Firm, creamy texture that holds its shape
+• Complex, sweet flavor with zero ammonia or bitterness
+• Minimal liquid content
+• Justifies $80-150 HKD per 5-piece nigiri
+• Peak season availability: 2-4 months annually
+
+**A-Grade Uni:**
+• Premium restaurant use: nigiri, sashimi platters
+• Consistent color (some variation acceptable)
+• Good texture, slight variation in firmness
+• Sweet, clean flavor; minor bitterness acceptable
+• Moderate liquid content
+• Justifies $40-80 HKD per 5-piece nigiri
+• More consistent availability (7-9 months)
+
+**B-Grade Uni:**
+• Culinary applications: sauces, pasta, risotto
+• Appearance and texture not suitable for raw service
+• Flavor is good, but visual presentation compromised
+• Higher liquid content, less structural integrity
+• Cost effective for applications where appearance doesn't matter
+• Justifies $15-30 HKD per 5-piece (or bulk cooking use)
+
+**The Revenue Implication:**
+A restaurant serving 200 uni dishes monthly:
+• AA-grade at 120 HKD average = 24,000 HKD/month
+• A-grade at 60 HKD average = 12,000 HKD/month
+• B-grade at 20 HKD average = 4,000 HKD/month
+
+The premium is real — and customers know the difference.0:{"buildId":"iZsbPZpblQsjeTW_6h2I9","rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$L2",null,{"href":"/en","className":"text-xl font-bold text-gray-900","children":"Uni & Salmon"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$L2",null,{"href":"/en","className":"text-sm text-gray-700 hover:text-gray-900","children":"Home"}],["$","$L2",null,{"href":"/en/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"About Us"}],["$","$L2",null,{"href":"/en/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"Sea Urchin"}],["$","$L2",null,{"href":"/en/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"Salmon"}],["$","$L2",null,{"href":"/en/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"Blog"}],["$","$L2",null,{"href":"/en/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"Contact"}],["$","$L2",null,{"href":"/zh-HK","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"中文"}]]}]]}]}],["$","main",null,{"className":"min-h-screen bg-white","children":["$","article",null,{"className":"max-w-3xl mx-auto px-4 py-12 sm:px-6 lg:px-8","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"mb-4","children":["$","span",null,{"className":"inline-block px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm font-semibold mb-3","children":"Product Mastery"}]}],["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"The Complete Sea Urchin Quality Standards & Grading Masterclass"}],["$","p",null,{"className":"text-gray-600","children":"March 2026"}]]}],["$","div",null,{"className":"prose prose-lg max-w-none mb-12","children":["$","p",null,{"className":"text-lg text-gray-700 leading-relaxed","children":"Sea urchin (uni) grading separates excellent restaurants from average ones. Understanding how to evaluate quality — from color and firmness to aroma and origin certification — is the core skill that separates professional buyers from amateurs. This masterclass walks you through every dimension of uni quality, the international grading systems, practical evaluation methods, and how to work with producers to secure consistent AA-grade product."}]}],["$","div",null,{"className":"prose prose-lg max-w-none","children":[["$","div","0",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Why Uni Grading Matters: The Restaurant Quality Spectrum"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$3"}]]}],"$L4","$L5","$L6","$L7","$L8","$L9","$La"]}],"$Lb","$Lc"]}]}],"$Ld"],["$Le"],"$Lf"]}],"loading":null,"isPartial":false}
+10:T8da,Japan's grading system is the global standard for uni. It reflects how Japanese producers evaluated urchin for centuries and remains the most widely recognized classification.
+
+**AA Grade (最高級 - Saikokyu)**
+Definition: Sushi-bar only. The finest 5-10% of each harvest.
+• Color: Uniformly bright golden-orange (#FFD700 in hex), no grayness or dullness
+• Size & Shape: Small, plump lobes (typically 1.5-2.5cm) with perfect symmetry
+• Texture: Firm yet creamy, holds precise shape, collapses slightly on tongue
+• Aroma: Sweet ocean aroma, zero ammonia, zero fishy notes
+• Liquid: Minimal (<5% of lobe weight), completely clear
+• Origin: Hokkaido Bafun (peak season June-August) or premium Canadian Red (limited)
+• Certification: Harvest date within 48 hours, cold-chain documentation
+• Cost: $120-180 per kg wholesale (Hong Kong pricing)
+
+**A Grade (優級 - Yuukyu)**
+Definition: Premium restaurant use. 15-25% of harvest.
+• Color: Golden-orange with acceptable variation, no green or brown hues
+• Size & Shape: Medium lobes (2-3cm), good symmetry, some minor variation
+• Texture: Firm, holds shape well, minor texture variation acceptable
+• Aroma: Sweet, clean ocean aroma, trace ammonia only, no off-flavors
+• Liquid: Moderate (5-10%), clear color
+• Origin: Japanese sources (Murasaki, minor Bafun), Canadian Red
+• Certification: Harvest date within 4-5 days, standard cold-chain
+• Cost: $70-100 per kg wholesale
+
+**B Grade (普級 - Fukyuu)**
+Definition: Culinary applications, not raw service. 25-40% of harvest.
+• Color: Orange with acceptable discoloration, may show minor browning
+• Size & Shape: Larger lobes (3-4cm), irregular shape acceptable
+• Texture: Softer, less structural integrity, slight mushiness acceptable
+• Aroma: Slight ammonia scent acceptable, minor off-flavors tolerable
+• Liquid: High (10-20%), may be slightly cloudy
+• Origin: Lower-grade Japanese, older harvests, processing urchin
+• Cost: $25-50 per kg wholesale
+
+**C Grade (加工級 - Kakou-kyu)**
+Definition: Processing only (paste, sauce). Not used for whole-lobe service.
+• Heavily processed, no structural integrity
+• Used for uni butter, uni sauce, other preparations
+• Pricing: Minimal, often used for value-added products4:["$","div","1",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"The Japanese Grading System: AA, A, B, C Standards Explained"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$10"}]]}]
+11:T560,Canadian red urchin (from British Columbia) has become a legitimate AA-grade alternative. Understanding how it compares to Japanese varieties is essential for modern sourcing.
+
+**Canadian Red vs. Hokkaido Bafun:**
+
+Bafun (Japanese standard for comparison):
+• Size: Small (1.5-2.5 cm), delicate appearance
+• Flavor: Rich, intensely sweet, umami-forward
+• Texture: Extremely creamy, delicate
+• Seasonality: 2-3 months peak (June-August)
+• Supply: Constrained, premium pricing
+
+Canadian Red:
+• Size: Larger (2.5-3.5 cm), more robust appearance
+• Flavor: Sweet and buttery, less intense than Bafun, cleaner finish
+• Texture: Firmer than Bafun, stands up better to plating
+• Seasonality: 6-8 months peak (October-May) — fills the Hokkaido gap perfectly
+• Supply: More abundant, 25-35% cost advantage vs. Bafun
+
+**Certification advantage:** Canadian Red is typically MSC-certified (Marine Stewardship Council), meeting sustainability requirements for Michelin-starred restaurants and ESG-conscious buyers.
+
+**Practical implication:** A restaurant can source:
+• June-August: Premium Hokkaido Bafun
+• September: Transition to premium Canadian Red
+• October-May: Canadian Red (peak quality)
+• Premium menu curation: different origins tell different stories
+
+This strategy delivers year-round AA-quality supply at lower cost than chasing Hokkaido all year.5:["$","div","2",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"The Canadian Red Sea Urchin Alternative: Understanding Different Origins"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$11"}]]}]
+12:T7d5,Before accepting any uni delivery, conduct this rapid visual inspection. Takes 30 seconds per tray.
+
+**Step 1: Color Assessment (10 seconds)**
+✓ Check the brightest lobe: Is it vibrant golden-orange?
+✓ Check for uniformity: Are all lobes similar color?
+✓ Look for discoloration: Any gray, green, or brown hues?
+✓ Grade determination:
+  - Uniform bright orange = likely AA
+  - Mostly orange, some variation = likely A
+  - Dull orange, gray patches = likely B
+
+**Step 2: Texture & Firmness (10 seconds)**
+✓ Observe lobe structure: Do they hold their shape or appear collapsed?
+✓ Look for liquid: How much liquid surrounds the lobes?
+✓ Check for mushiness: Any lobes that appear mushy or wet?
+✓ Grade determination:
+  - Firm, minimal liquid, perfect shape = AA/A
+  - Moderately firm, some liquid = A
+  - Soft, significant liquid = B
+
+**Step 3: Aroma Test (5 seconds)**
+✓ Open container and smell immediately
+✓ Is it sweet ocean aroma? (Good)
+✓ Do you detect ammonia? (Bad — reject)
+✓ Any fishy or sour notes? (Bad — reject)
+✓ Aroma assessment:
+  - Sweet, clean = AA/A grade acceptable
+  - Slight ammonia = B grade only
+  - Strong ammonia or sour = REJECT
+
+**Step 4: Certification Verification (30 seconds)**
+✓ Check harvest date: Should be within 48 hours for AA, 4-5 days for A
+✓ Verify producer ID: Hokkaido traceability number or Canadian license
+✓ Review cold-chain documentation: Temperature logs should show 2-4°C throughout
+✓ Check grading certificate: If provided, should match your assessment
+
+**Rejection Criteria — ALWAYS Reject:**
+• Ammonia aroma (safety risk)
+• Excessive liquid (indicator of age/spoilage)
+• Collapsed, mushy lobes (quality failure)
+• Harvest date >7 days old
+• Missing certification or cold-chain documentation
+• Color that doesn't match stated grade
+
+**Acceptance Protocol:**
+• AA-grade: Use within 2 days for optimum flavor
+• A-grade: Use within 3 days
+• B-grade: Use within 4 days (less critical due to cooking use)6:["$","div","3",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Visual Inspection Checklist: How to Grade Uni Like a Professional"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$12"}]]}]
+13:T661,Modern restaurants increasingly require certification proof. Here's what to look for:
+
+**Japanese Hokkaido Sea Urchin:**
+• Hokkaido Prefectural Traceability: Unique producer number required
+• Harvest date must be documented (48 hours max for fresh trade)
+• Optional: MSC certification (increasingly available)
+• Producer certification: Hokkaido fishery association approval
+• Import documentation: Japanese export certificate required
+
+**Canadian Red Sea Urchin (British Columbia):**
+• MSC Certified (Marine Stewardship Council): Most available Canadian red urchin carries this
+• Fishery License Number: Required for export
+• Cold-chain certification: Temperature-controlled transport documentation
+• Origin certification: BC Seafood confirms Canadian origin
+• Environmental Certification: Aligns with luxury hotel ESG requirements
+
+**Norwegian Atlantic Sea Urchin:**
+• Less common in Hong Kong but growing availability
+• ASC (Aquaculture Stewardship Council) certification available for farmed urchin
+• Export license and cold-chain documentation standard
+
+**Certification Verification Checklist:**
+✓ Request documentation before delivery
+✓ Verify harvest/production date matches certification
+✓ Confirm cold-chain logs (temperature readings at 2-4°C)
+✓ Check expiration date on certification
+✓ Request producer contact info for questions
+✓ Save all documentation for compliance records
+
+**Michelin & ESG Requirement:**
+If your restaurant is Michelin-starred or has ESG commitments, require MSC or ASC certification. Hokkaido producer traceability is also increasingly valued for transparency.7:["$","div","4",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"International Certifications & Traceability Standards"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$13"}]]}]
+14:T566,For high-volume buyers, advanced testing provides confidence:
+
+**Taste Testing Protocol (for professional evaluation)**
+1. Use small, flat-bottomed ceramic spoon (not metal)
+2. Take single lobe from middle of tray
+3. Observe: color, firmness as it rests on spoon
+4. Taste: first impression, mid-palate, finish
+5. Evaluate: sweetness, umami, brininess, texture
+6. Grade assessment:
+   - Creamy, sweet, zero bitterness = AA
+   - Good sweet flavor, minor bitterness = A
+   - Acceptable flavor, some bitterness = B
+   - Strong ammonia/metallic taste = REJECT
+
+**pH Testing (more technical, optional)**
+• Quality uni should have pH of 6.8-7.2
+• Higher pH (>7.5) indicates age or spoilage
+• Testing strips available at food service suppliers
+• Useful for verifying age claims
+
+**Storage Observation (over time)**
+• AA-grade should hold quality for 48-72 hours at 2-4°C
+• A-grade: 3-4 days
+• B-grade: 4-5 days
+• Monitor liquid accumulation: should remain minimal
+• If liquid increases dramatically, indicates spoilage
+
+**Build a Grading Library**
+Top restaurants maintain samples of each grade in cold storage:
+• AA-grade reference: known excellent product
+• A-grade reference: typical premium product
+• B-grade reference: acceptable cooking product
+• Compare new deliveries against your reference samples
+• Train kitchen staff to recognize quality differences8:["$","div","5",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Testing Methods: Beyond Visual Inspection"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$14"}]]}]
+15:T700,Quality assurance starts with the supplier relationship:
+
+**Supplier Selection Criteria:**
+1. **Traceability**: Can they provide harvest-to-delivery documentation?
+2. **Consistency**: Do they maintain AA-grade availability across seasons?
+3. **Volume commitment**: Can they meet your needs (e.g., 10-20kg per week)?
+4. **Communication**: Do they provide harvest reports and quality notifications?
+5. **Responsiveness**: How quickly do they respond to quality concerns?
+
+**Contract Essentials:**
+• Guaranteed grade specification (not "premium uni" but "AA-grade per Japanese standard")
+• Harvest date requirement (<48 hours for AA)
+• Temperature specification (2-4°C throughout cold chain)
+• Rejection and replacement protocol (typically 48-hour replacement guarantee)
+• Pricing structure: fixed base price + seasonal adjustments
+• Minimum order: typically 10kg, with flexibility for seasonal peaks
+• Delivery frequency: weekly or bi-weekly typical
+
+**Communication Protocol:**
+• Weekly harvest reports: what's currently available, what's coming
+• Pre-season consultation: plan menu around anticipated supply
+• Quality feedback: inform supplier if a shipment doesn't meet standards
+• Seasonal planning: discuss availability 3-6 months out
+
+**Seasonal Allocation Strategy:**
+• June-August (Peak Hokkaido): Reserve AA-grade Bafun in advance
+• September: Transition month, expect premium pricing
+• October-May (Peak Canadian): Secure steady supply at better pricing
+• Plan menus around availability, not against it
+
+**Backup Suppliers:**
+• Maintain relationships with 2-3 suppliers minimum
+• Prevents supply disruptions
+• Creates negotiating leverage
+• Allows for origin diversity (Japanese vs. Canadian)
+• Test new suppliers during off-peak seasons first9:["$","div","6",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Building Supplier Relationships for Consistent AA-Grade Supply"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$15"}]]}]
+16:T5cf,**Mistake #1: Confusing "Premium" with "AA-Grade"**
+Any supplier can call product "premium." Insist on specific grade (AA, A, or B) and reference the Japanese grading standard. If they can't articulate grade criteria, they don't know what they're selling.
+
+**Mistake #2: Accepting Age as an Excuse**
+Don't accept: "This is 5-day-old uni, but it's still good quality." Age affects flavor and safety. AA-grade should be <48 hours. A-grade <4-5 days. Full stop.
+
+**Mistake #3: Ignoring Aroma**
+Ammonia aroma is not a minor quality flaw — it's a food safety indicator. Ammonia means bacteria are multiplying. ALWAYS reject. No exceptions.
+
+**Mistake #4: Not Tasting Before Service**
+Visual inspection catches most issues, but taste testing catches off-flavors that indicate spoilage or poor handling. Taste one lobe from each delivery. Takes 10 seconds.
+
+**Mistake #5: Not Requesting Documentation**
+Traceability documentation is now standard. Any supplier who can't provide harvest date, cold-chain logs, and origin certification is cutting corners. Don't work with them.
+
+**Mistake #6: Confusing Origin with Quality**
+"Hokkaido" doesn't automatically mean AA-grade. Canadian Red at AA-grade can be superior to lower-grade Japanese uni. Evaluate by grade, not by marketing.
+
+**Mistake #7: Accepting Inconsistent Supply**
+If your supplier sometimes sends AA and sometimes sends A without clear communication, that's a supplier problem. Good suppliers communicate what's available and when.a:["$","div","7",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Common Grading Mistakes & How to Avoid Them"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$16"}]]}]
+b:["$","div",null,{"className":"border-t border-gray-200 pt-8 mt-12 prose prose-lg max-w-none","children":["$","p",null,{"className":"text-gray-700 leading-relaxed","children":"Sea urchin grading is both art and science. The visual inspection checklist covers 80% of evaluation, but understanding the full spectrum — from Japanese standards to international certification — positions you as a professional buyer. Partner with suppliers who understand these distinctions, invest in training your staff to recognize quality, and build your reputation on consistency. When your guests bite into a perfectly fresh, creamy, golden lobe of AA-grade uni, they taste the difference that expertise makes."}]}]
+c:["$","div",null,{"className":"mt-12 p-8 bg-blue-50 rounded-lg border border-blue-200","children":[["$","h3",null,{"className":"text-xl font-bold text-gray-900 mb-3","children":"Ready to Upgrade Your Uni Sourcing?"}],["$","p",null,{"className":"text-gray-700 mb-4","children":"Contact Inari Global Food for AA-grade uni samples, producer introductions, and grading consultation. We work directly with certified Hokkaido producers and Canadian fisheries to guarantee consistent quality year-round."}],["$","a",null,{"href":"/en/contact","className":"inline-block px-6 py-3 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition","children":"Get in Touch"}]]}]
+d:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"Uni & Salmon"}],["$","p",null,{"className":"text-sm","children":"Your trusted partner for premium sea urchin and salmon in Hong Kong & Macau."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Home"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/en/about","className":"hover:text-white","children":"About Us"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/sea-urchin","className":"hover:text-white","children":"Sea Urchin"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/salmon","className":"hover:text-white","children":"Salmon"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/blog","className":"hover:text-white","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Contact Us"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","Uni & Salmon",". ","All rights reserved."]}]]}]
+e:["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true}]
+f:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+19:null

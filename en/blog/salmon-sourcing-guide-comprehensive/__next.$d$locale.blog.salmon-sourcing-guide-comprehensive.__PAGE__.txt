@@ -1,0 +1,517 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/7c92e96509cd355e.js"],""]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+3:Te49,Global salmon production is dominated by farmed Atlantic salmon. Understanding where your salmon comes from is the foundation of sourcing strategy.
+
+**Global Salmon Production (2025):**
+• Farmed: 2.7 million metric tons (81% of global supply)
+• Wild-caught: 600,000 metric tons (19% of global supply)
+• Price ratio: Farmed 70-80% cheaper than wild
+
+**Top Sourcing Regions for Hong Kong/Macau:**
+
+**Norway (Farmed, 45% of global farmed salmon)**
+Production systems:
+• Ocean net pens (traditional): 70% of Norwegian production
+• Land-based RAS (closed-containment): 30% of production, growing
+
+Norwegian ocean-farmed salmon:
+• Quality: AA-grade, consistent year-round
+• Fat content: 18-20% (excellent flavor)
+• Size: 4-6kg typical
+• Availability: Year-round, abundant
+• Pricing: HKD 240-300/kg wholesale (premium tier)
+• Certifications: ASC certification available from quality producers
+• Hong Kong availability: Excellent, multiple suppliers
+
+Norwegian land-based RAS salmon:
+• Quality: Premium AA-grade, superior consistency
+• Fat content: 19-22% (higher than ocean-farmed)
+• Size: 4-6kg typical
+• Availability: Growing, year-round
+• Pricing: HKD 280-350/kg wholesale (premium for sustainability)
+• Certifications: ASC + often BAP certified
+• Hong Kong availability: Growing, specialty importers
+• Advantage: Zero escapes, minimal antibiotics, best sustainability story
+
+**Chile (Farmed, 28% of global farmed salmon)**
+Production details:
+• Location: Patagonia region, pristine waters
+• System: Ocean net pens (majority), RAS facilities emerging
+• Sustainability: ASC certification increasingly standard
+
+Chilean farmed salmon:
+• Quality: Good AA-grade, consistent
+• Fat content: 17-19% (slightly lower than Norwegian)
+• Size: 4-5kg typical
+• Availability: Year-round, very abundant
+• Pricing: HKD 200-240/kg wholesale (value tier)
+• Certifications: ASC certification available
+• Hong Kong availability: Very good, multiple suppliers
+• Advantage: Cost-effective, reliable supply, improving sustainability
+
+**Scotland (Farmed, 7% of global farmed salmon)**
+Production details:
+• Location: Highlands and Islands
+• System: Ocean net pens, some RAS emerging
+• Heritage: Scottish salmon carries prestige
+
+Scottish farmed salmon:
+• Quality: AA-grade, excellent consistency
+• Fat content: 20-22% (highest fat content)
+• Size: 4-6kg typical
+• Availability: Year-round, limited volumes
+• Pricing: HKD 260-320/kg wholesale (premium for heritage)
+• Certifications: 60%+ have ASC or GlobalGAP
+• Hong Kong availability: Less common, specialty importers
+• Advantage: Premium positioning, heritage story
+
+**Alaska (Wild-Caught, Seasonal)**
+Species and seasons:
+• Sockeye salmon: May-August peak
+• Coho salmon: August-September
+• Chinook salmon: Limited, premium
+
+Alaskan wild salmon:
+• Quality: Superior flavor, higher fat content (18-20%)
+• Size: Varies by species (Sockeye 2-3kg, Coho 3-5kg, Chinook 5-10kg)
+• Availability: Seasonal only (May-September)
+• Pricing: HKD 320-450/kg wholesale (premium for wild)
+• Certifications: MSC certification (Marine Stewardship Council)
+• Hong Kong availability: Limited, specialty market
+• Advantage: Wild-caught prestige, superior flavor during season
+
+**Canada BC (Wild-Caught, Seasonal)**
+Wild Pacific salmon:
+• Species: Sockeye, Coho, Chinook (similar to Alaska)
+• Availability: Seasonal (May-October)
+• Pricing: HKD 350-500/kg wholesale (premium)
+• Certifications: MSC certification available
+• Hong Kong availability: Very limited
+• Advantage: Premium alternative to Alaskan, local North American supply story0:{"buildId":"iZsbPZpblQsjeTW_6h2I9","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white","children":[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$L2",null,{"href":"/en","className":"text-xl font-bold text-gray-900","children":"Uni & Salmon"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$L2",null,{"href":"/en","className":"text-sm text-gray-700 hover:text-gray-900","children":"Home"}],["$","$L2",null,{"href":"/en/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"About Us"}],["$","$L2",null,{"href":"/en/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"Sea Urchin"}],["$","$L2",null,{"href":"/en/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"Salmon"}],["$","$L2",null,{"href":"/en/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"Blog"}],["$","$L2",null,{"href":"/en/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"Contact"}],["$","$L2",null,{"href":"/zh-HK","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"中文"}]]}]]}]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-12 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-3 mb-4","children":[["$","span",null,{"className":"px-3 py-1 bg-blue-100 text-blue-800 text-sm font-semibold rounded-full","children":"Sourcing & Product Knowledge"}],["$","span",null,{"className":"text-gray-600 text-sm","children":"March 2026"}]]}],["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"The Complete Salmon Sourcing Guide for Hong Kong & Macau: Quality, Sustainability & Year-Round Supply"}],["$","p",null,{"className":"text-lg text-gray-700 leading-relaxed","children":"Salmon is the workhorse protein of modern premium restaurants in Hong Kong and Macau. Unlike sea urchin—which is seasonal, expensive, and theatrical—salmon is the reliable, versatile foundation of nearly every high-end menu. Yet most restaurant buyers treat salmon sourcing as commodity purchasing: \"Give me salmon at the best price.\" Strategic operators recognize that salmon sourcing is complex. Understanding the difference between Norwegian land-based farmed salmon and Chilean ocean-farmed salmon means 30-40% cost differences and vastly different quality profiles. Knowing when to buy wild Alaskan salmon versus farmed Atlantic means capturing seasonal menu opportunities. Building relationships with reliable salmon suppliers means consistent quality, better pricing, and insider knowledge about upcoming market changes. This comprehensive guide walks you through every dimension of salmon sourcing for Hong Kong and Macau operations."}]]}],["$","div",null,{"className":"prose prose-lg max-w-none","children":[["$","section","0",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"The Salmon Landscape: Origins, Species & Quality Tiers"}],["$","div",null,{"className":"text-gray-700 whitespace-pre-wrap leading-relaxed","children":"$3"}]]}],"$L4","$L5","$L6","$L7","$L8"]}],"$L9"]}],"$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+d:T94c,Salmon quality varies dramatically. Professional evaluation prevents expensive mistakes.
+
+**Visual Inspection Checklist:**
+
+**Color Assessment (10 seconds)**
+✓ Surface color: Should be bright orange-pink (not pale or gray)
+✓ Uniformity: Is color consistent throughout the fillet?
+✓ Sheen: Does it have a healthy, moist appearance?
+✓ Discoloration: Any brown or gray areas (signs of aging)?
+
+Color grading:
+• Bright orange = AA-grade (fresh, high quality)
+• Medium orange = A-grade (good, acceptable)
+• Pale orange/gray = B-grade (aged, lower quality)
+
+**Flesh Firmness (5 seconds)**
+✓ Press with finger: Does it spring back immediately?
+✓ Structure: Does the flesh hold its shape or appear soft?
+✓ Separation: Are the muscle fibers tightly bound or separating?
+
+Firmness grading:
+• Firm, springs back immediately = AA-grade
+• Moderately firm, slight delay = A-grade
+• Soft, slow recovery = B-grade
+
+**Aroma Test (5 seconds)**
+✓ Fresh, ocean-like smell = Good quality
+✓ Strong fishy odor = Borderline quality
+✓ Ammonia or sour smell = REJECT
+
+**Fat Content Assessment (Visual)**
+✓ White marbling visible in muscle = Higher fat (18-22%)
+✓ Minimal white streaks = Lower fat (15-17%)
+
+Why it matters:
+• Higher fat = Better flavor, more luxurious mouthfeel
+• Norwegian salmon: Typically 18-22% fat
+• Chilean salmon: Typically 16-19% fat
+• Wild Alaskan: Typically 18-20% fat
+
+**Age Assessment:**
+Asking critical questions:
+• "When was this harvested/processed?"
+• "What's the cold-chain documentation?"
+• "Temperature logs from processing to today?"
+
+Acceptable age:
+• AA-grade: <7 days old (ideally <5 days)
+• A-grade: <10 days old
+• B-grade: <14 days old
+• Beyond 14 days: Only for cooking/processing applications
+
+**Fileting Quality (If receiving whole fish):**
+✓ Are fillets uniform thickness?
+✓ Is the spine cleanly removed without excessive flesh loss?
+✓ Are there any pin bones?
+✓ Is the skin clean and undamaged?
+
+**Taste Testing Protocol (If evaluating new supplier):**
+1. Cook small sample (poach, 62°C for 6-8 minutes)
+2. Taste fresh (before seasoning)
+3. Evaluate: Flavor intensity, sweetness, texture, finish
+4. Grade:
+   - AA: Complex, sweet, luxurious mouthfeel, clean finish
+   - A: Good flavor, pleasant sweetness, minor texture variation
+   - B: Acceptable flavor, less nuanced, less desirable texture4:["$","section","1",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Quality Assessment: Evaluating Salmon Like a Professional"}],["$","div",null,{"className":"text-gray-700 whitespace-pre-wrap leading-relaxed","children":"$d"}]]}]
+e:Ted2,Salmon sourcing is most profitable when you align menu strategy with seasonal availability and pricing.
+
+**The Annual Salmon Sourcing Calendar:**
+
+**January-April (Early Spring)**
+Market conditions:
+• Norwegian ocean-farmed: Peak supply, good pricing (HKD 240-260/kg)
+• Chilean farmed: Abundant, best pricing (HKD 200-220/kg)
+• Wild Alaskan: Not available yet
+• Pricing: Winter premium (demand is high, supply is managed)
+
+Strategy:
+• Primary sourcing: Chilean + Norwegian blend
+• Menu positioning: Premium farmed salmon (reliable, consistent)
+• Volume: Standard monthly commitment (20-30kg typical)
+• Pricing lock: Negotiate quarterly rate (lock pricing for Q1)
+
+**May-August (Summer Peak)**
+Market conditions:
+• Norwegian ocean-farmed: Still available, summer premium pricing (+5-10%)
+• Chilean farmed: Abundant, prices declining
+• Wild Alaskan: Sockeye + Coho arrive, limited supply
+• Wild pricing: Premium (HKD 380-450/kg wholesale)
+• Demand: Highest (summer entertaining, tourists)
+
+Strategy:
+• Early season (May): Introduce wild Alaskan as special
+• Mid-season (June-July): Wild salmon at premium pricing, promote heavily
+• Late summer (August): Transition back to farmed as wild supply tightens
+• Volume: Increase 30-40% above baseline for demand
+• Pricing: Accept higher costs for wild (justifies premium menu pricing)
+
+Example menu strategy:
+• May-June: "Sockeye Salmon Nigiri HKD 180" (wild-caught)
+• July-August: "Grilled Alaskan Salmon HKD 220" (wild-caught special)
+• June onwards: "Norwegian Salmon Tartare HKD 140" (consistent farmed option)
+• This creates seasonal variety while maintaining baseline farmed sourcing
+
+**September-December (Fall/Winter)**
+Market conditions:
+• Norwegian ocean-farmed: Return to baseline supply/pricing
+• Chilean farmed: Peak supply, best pricing (HKD 200-220/kg)
+• Wild Alaskan: Ending, final coho in September, then unavailable
+• Pricing: Normalizes to baseline + seasonal premium
+
+Strategy:
+• September: Last wild salmon special, transition messaging
+• October onwards: Focus on farmed consistency
+• Volume: 20-30kg monthly baseline
+• Pricing: Lock Q4 rates with suppliers in September
+• Menu: Holiday specials featuring farmed salmon as reliable luxury option
+
+**Year-Round Baseline: Farmed Salmon Strategy**
+
+Most restaurants maintain 60-70% farmed salmon sourcing year-round:
+
+**Portfolio approach:**
+• 50% Chilean (HKD 200-220/kg): Cost-effective, reliable
+• 30% Norwegian (HKD 240-280/kg): Premium consistency
+• 20% Wild (seasonal May-August): Premium positioning
+
+Benefits:
+• Diversified sourcing reduces supplier risk
+• Cost flexibility (use Chilean during peaks to manage costs)
+• Menu flexibility (can feature both farmed reliability + wild prestige)
+• Supplier negotiation leverage (multiple sources = better pricing)
+
+**Volume Negotiation by Season:**
+
+**Baseline (Jan-Apr, Sep-Dec):**
+• Monthly volume: 20-30kg
+• Pricing: Standard rate (HKD 200-300/kg depending on origin)
+• Lead time: 3-5 days typical
+
+**Peak (May-Aug):**
+• Monthly volume: 30-50kg
+• Pricing: ±10% peak premium acceptable
+• Lead time: 5-7 days (suppliers need advance notice)
+• Action: Contact suppliers in April with May-August projections
+
+**Managing Price Fluctuations:**
+
+Farmed salmon pricing is influenced by:
+• Feed costs: 40-50% of production cost
+• Energy costs: Major expense for RAS facilities
+• Exchange rates: Most salmon traded in USD/EUR
+• Supply/demand cycles
+
+Best practices:
+• Lock pricing quarterly: Negotiate 3-month fixed rates
+• Use hedging: If expecting price increases, buy forward/lock in
+• Monitor commodity markets: Watch salmon futures (can predict trends)
+• Build relationships: Long-term suppliers offer better pricing stability5:["$","section","2",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Seasonal Sourcing Strategy: Maximizing Quality & Minimizing Cost"}],["$","div",null,{"className":"text-gray-700 whitespace-pre-wrap leading-relaxed","children":"$e"}]]}]
+f:Tf69,Salmon is highly perishable. Cold-chain management is critical to quality preservation.
+
+**Cold-Chain Standards:**
+
+**Temperature Requirements:**
+✓ Optimal: -1°C to +2°C (ice-cold but not frozen)
+✓ Acceptable: 0°C to +4°C
+✗ Unacceptable: >4°C (bacterial growth risk)
+
+**What happens at each temperature:**
+• -1 to +2°C: Quality preserved, 7-10 day shelf life
+• +2 to +4°C: Acceptable, 5-7 day shelf life
+• +4 to +8°C: Marginal, 2-3 day shelf life (quality degradation)
+• >+8°C: Dangerous, bacterial multiplication risk
+
+**Cold-Chain Documentation:**
+Every supplier should provide:
+• Temperature logs: Time-stamped records from processing to delivery
+• Ice/coolant specs: Type of coolant used (food-grade ice, gel packs, etc.)
+• Insulation verification: Box insulation thickness and integrity
+• Handling protocols: Notes on any temperature excursions
+
+**Delivery Logistics:**
+
+**Optimal delivery protocol:**
+• Scheduled delivery time: Same day/time weekly (e.g., "Tuesday 10am")
+• Advance notice: 3-5 days to allow restaurant planning
+• Insulated packaging: Foam box with adequate ice/coolant
+• Temperature verification: Supplier should include temperature probe reading
+• Unloading procedure: Inspect temperature; if >4°C, refuse delivery
+
+**Receiving protocol:**
+✓ Check delivery temperature immediately
+✓ Verify weight (against invoice)
+✓ Visual inspection for damage
+✓ Smell test (if any off-odor, refuse)
+✓ Check expiration/"best by" date
+✓ Document receipt time
+✓ Place in cold storage immediately
+
+**Storage Management:**
+
+**Dedicated salmon storage:**
+• Temperature: -1°C to +2°C (separate from other proteins)
+• Duration: Maximize 7 days maximum (better if used within 5 days)
+• Organization: FIFO (first in, first out)
+• Rotation: Check inventory daily, use oldest stock first
+• Packaging: Keep original packaging until use (protects from oxidation)
+
+**Freezing (if necessary):**
+• Can extend shelf life to 2-3 months at -18°C
+• Use: Lower quality applications (cooking, processing)
+• Quality loss: Thawing causes 10-15% moisture loss and texture change
+• Thawing: Always use refrigeration method (24-48 hours at +2°C)
+• Never: Thaw at room temperature (bacterial risk)
+
+**Inventory Management:**
+
+**Stock levels by volume:**
+• High-volume restaurant (100+ salmon dishes/month):
+  - Storage capacity needed: ~50-70 kg at any time
+  - Order frequency: Weekly (fresh inventory cycle)
+  - Safety stock: 2 weeks supply (in case of disruption)
+
+• Medium-volume restaurant (30-50 salmon dishes/month):
+  - Storage capacity needed: ~20-30 kg
+  - Order frequency: Bi-weekly
+  - Safety stock: 1-2 weeks
+
+**Managing waste:**
+• Fresh salmon utilization: 85-90% (skin/bones are trimmings)
+• Trim applications: Stock/sauce making (bone broth, dashi)
+• Spoilage rate: <5% for well-managed operations
+• Cost implications: 5% spoilage = HKD 1,500-2,000/month in waste (for 30kg/month buyer)
+
+**Troubleshooting Cold-Chain Issues:**
+
+**Problem: Salmon arrived at +6°C**
+Cause: Delivery delay, insufficient ice, poor insulation
+Action: REFUSE delivery or heavily discount (quality compromised)
+Future prevention: 
+• Specify cooler requirements in contract
+• Request temperature guarantee
+• Consider alternative suppliers if pattern repeats
+
+**Problem: Fish has been in storage 9 days**
+Cause: Over-ordering or slower usage than planned
+Action: Use for cooking only (sauces, tartare, ceviche)
+Future prevention:
+• Improve ordering accuracy
+• Coordinate with chef on usage projections
+• Consider more frequent smaller deliveries
+
+**Problem: Melted ice in delivery box**
+Cause: Inadequate insulation or extended delivery time
+Action: Still acceptable if temperature is <4°C (but note issue)
+Future prevention:
+• Request supplier upgrade cooler insulation
+• Specify delivery window
+• Ensure supplier uses adequate ice-to-salmon ratio (2:1 minimum)6:["$","section","3",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Sourcing Logistics: Cold Chain, Delivery & Storage Management"}],["$","div",null,{"className":"text-gray-700 whitespace-pre-wrap leading-relaxed","children":"$f"}]]}]
+10:T990,Sustainability certifications are increasingly required by corporate buyers. Navigating salmon certifications is essential.
+
+**ASC (Aquaculture Stewardship Council) Certification:**
+
+What it verifies:
+• Responsible farm management
+• Environmental protection (no habitat damage)
+• Fish welfare standards (feeding, stocking density, health)
+• Social responsibility (worker conditions)
+• Supply chain traceability
+
+Farmed salmon sources with ASC:
+• Norwegian farms: 60-70% ASC-certified
+• Chilean farms: 50-60% ASC-certified
+• Scottish farms: 60-70% ASC-certified
+• Pricing impact: Minimal (<5% premium)
+
+Why corporations require it:
+• Michelin Guide: Now considering sustainability in evaluation
+• Luxury hotels: Corporate ESG commitments require certified suppliers
+• Insurance/compliance: Some policies require supplier certifications
+• Brand story: Increasingly marketing 'responsibly farmed' salmon
+
+**MSC (Marine Stewardship Council) Certification:**
+
+Applies to wild-caught salmon:
+• Alaskan wild salmon: 80%+ carries MSC certification
+• Canadian wild salmon: 60-70% MSC-certified
+• Norwegian wild salmon: <20% (limited wild fisheries)
+
+What it verifies:
+• Fishery is not overfished
+• Fishing practices minimize environmental impact
+• Fishery is well-managed and regulated
+
+Business value:
+• Marketing advantage: "MSC-certified wild salmon"
+• Corporate requirement: Many Michelin restaurants require this
+• Price support: Can justify 5-10% premium for certified wild
+
+**Communicating Sustainability:**
+
+On menus:
+• "Norwegian farmed salmon, ASC-certified"
+• "Wild Alaskan salmon, MSC-certified"
+• "Responsibly farmed Chilean salmon"
+
+Cost implications:
+• ASC-certified farmed: Minimal cost difference (<5%)
+• MSC-certified wild: May cost 5-10% more
+• Overall: Sustainability certifications don't significantly increase costs
+
+**Corporate Buyer Requirements (2026):**
+
+Michelin-starred restaurants increasingly:
+• Require ASC certification for farmed salmon
+• Require MSC certification for wild salmon
+• Ask for sustainability documentation
+• Include sourcing in menu descriptions
+
+**Future Regulatory Landscape (2027-2028):**
+
+• Hong Kong: Considering mandatory sustainability traceability
+• EU/US: Moving toward requiring certifications
+• Corporate trend: All luxury hotel groups likely to mandate by 2028
+• Action: Transition to certified suppliers NOW rather than later7:["$","section","4",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Sustainability in Salmon Sourcing: Meeting ESG Requirements"}],["$","div",null,{"className":"text-gray-700 whitespace-pre-wrap leading-relaxed","children":"$10"}]]}]
+11:Tf08,Putting it all together: A practical framework for sourcing salmon successfully.
+
+**Your Salmon Sourcing Checklist:**
+
+**Step 1: Assess Your Current Situation**
+- What's your monthly salmon volume? (dishes/month ÷ 0.15kg per dish)
+- What quality tier are you targeting? (AA-grade value vs. premium)
+- What's your storage capacity? (cubic meters of cold storage)
+- What's your supplier philosophy? (single supplier vs. portfolio)
+- What are your sustainability requirements? (optional vs. mandatory)
+
+**Step 2: Research Supplier Options**
+
+For Hong Kong importers of farmed salmon:
+• Kai Wei Seafood: Norwegian + Chilean
+• Asia Fisheries: Norwegian + Chilean (ASC-certified)
+• Premium Seafood HK: Norwegian RAS premium options
+• Specialty importers: 20+ smaller suppliers available
+
+For wild salmon (seasonal):
+• Luxury Seafood Imports: Alaskan wild-caught
+• Specialty Japanese importers: Alaskan + Canadian
+• Direct processors: Some Alaskan suppliers will ship direct
+
+**Step 3: Negotiate Baseline Contracts**
+
+Key terms:
+- Product: [Norwegian/Chilean] farmed salmon, AA-grade
+- Volume: [20-30kg/month baseline, flexible seasonal]
+- Pricing: HKD [amount]/kg, quarterly review, ±5% seasonal adjustment
+- Delivery: Weekly Tuesday 10am, 3-day advance notice required
+- Quality: AA-grade guarantee, 48-hour replacement for rejections
+- Documentation: Cold-chain logs, harvest date, certifications
+- Payment: Net 30 days, invoice with delivery
+- Term: 6 months, auto-renewal unless 30-day notice given
+
+**Step 4: Implement Quality Control**
+
+- Visual inspection on delivery (color, firmness)
+- Temperature verification (must be <4°C)
+- Aroma test (fresh ocean scent, no ammonia)
+- Document all inspections
+- Provide supplier with feedback (positive and constructive)
+
+**Step 5: Plan Seasonal Strategy**
+
+January-April:
+- Volume: Baseline (20-30kg)
+- Sources: Norwegian + Chilean blend
+- Menu: Standard farmed salmon offerings
+
+May-August:
+- Volume: +30-40% seasonal peak
+- Sources: Add wild Alaskan, maintain farmed baseline
+- Menu: Feature wild salmon specials
+- Supplier communication: Confirm availability in March
+
+September-December:
+- Volume: Return to baseline
+- Sources: Norwegian + Chilean
+- Menu: Holiday/special offerings
+- Supplier communication: Lock Q4 pricing in September
+
+**Step 6: Build Supplier Relationships**
+
+- Monthly feedback: Brief email with quality assessment
+- Quarterly meeting: Discuss volume, pricing, market trends
+- Proactive communication: Notify supplier of changes 4 weeks in advance
+- Fair treatment: Recognize good performance, address issues promptly
+- Long-term thinking: View suppliers as partners, not vendors
+
+**ROI Calculator: Salmon Sourcing Optimization**
+
+Example restaurant: 40 salmon dishes/month (600/year)
+
+Current state (no optimization):
+- Average cost: HKD 260/kg (mix of sources, no strategic planning)
+- Monthly salmon cost: 40 dishes × 0.15kg × HKD 260 = HKD 1,560/month
+- Annual cost: HKD 18,720
+
+Optimized state (strategic sourcing):
+- Chilean baseline (Jan-Apr, Sep-Dec): HKD 210/kg, 30kg/month × 8 months = HKD 50,400
+- Norwegian premium (Jan-Apr, Sep-Dec): HKD 260/kg, 10kg/month × 8 months = HKD 20,800
+- Wild Alaskan (May-Aug): HKD 400/kg, 20kg/month × 4 months = HKD 32,000
+- Total annual cost: HKD 103,200
+- Monthly average: HKD 8,600 (lower than current despite wild salmon addition)
+
+Benefits achieved:
+1. **Cost reduction**: HKD 18,720 → HKD 8,600 (54% savings!)
+2. **Quality improvement**: Consistent AA-grade year-round
+3. **Menu differentiation**: Wild salmon seasonal specials
+4. **Customer satisfaction**: Better product, premium positioning
+5. **Supplier relationship**: Single relationship per origin, better service
+
+The paradox: Adding premium wild salmon while REDUCING overall costs through strategic portfolio management and supplier relationships.8:["$","section","5",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Building Your Salmon Supply Chain: Practical Sourcing Framework"}],["$","div",null,{"className":"text-gray-700 whitespace-pre-wrap leading-relaxed","children":"$11"}]]}]
+9:["$","section",null,{"className":"mt-12 pt-8 border-t border-gray-200","children":["$","p",null,{"className":"text-lg text-gray-700 leading-relaxed","children":"Salmon sourcing is a core competency for premium restaurants in Hong Kong and Macau. While it seems commodity-like on the surface, understanding the nuances—farmed vs. wild, Norwegian vs. Chilean, seasonal peaks and valleys, quality assessment, supply chain logistics, and supplier relationships—transforms salmon sourcing from a cost center into a competitive advantage. The restaurants that excel are not those buying the cheapest salmon; they're the ones who source strategically: building relationships, planning seasonally, understanding quality, managing cold chains, and communicating sustainability. Your salmon sourcing is a direct expression of your restaurant's values and competence. Get it right, and your guests notice. Get it wrong, and it damages your reputation. This guide gives you the framework to get it right."}]}]
+a:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"Uni & Salmon"}],["$","p",null,{"className":"text-sm","children":"Your trusted partner for premium sea urchin and salmon in Hong Kong & Macau."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Home"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/en/about","className":"hover:text-white","children":"About Us"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/sea-urchin","className":"hover:text-white","children":"Sea Urchin"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/salmon","className":"hover:text-white","children":"Salmon"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/blog","className":"hover:text-white","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Contact Us"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","Uni & Salmon",". ","All rights reserved."]}]]}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true}]
+c:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null

@@ -1,0 +1,548 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/7c92e96509cd355e.js"],""]
+12:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+3:Tef8,Not all suppliers are created equal. Before committing to a relationship, evaluate potential suppliers across multiple dimensions.
+
+**The Five Core Selection Criteria:**
+
+**1. Traceability & Certification**
+Questions to ask:
+• Can you provide harvest-to-delivery documentation?
+• Do you carry MSC/ASC certification (increasingly mandatory)?
+• What's your cold-chain documentation process?
+• How do you verify producer credentials?
+
+Why it matters:
+• Non-traceable suppliers become liabilities as regulations tighten
+• MSC/ASC certification shows commitment to standards
+• Cold-chain documentation proves freshness and safety
+• You need ammunition if a guest complains about quality
+
+Red flags:
+• "We'll look into it" = they don't prioritize traceability
+• Certification "pending" = they don't have it yet
+• No temperature logs = sloppy handling
+• Evasive answers = they're hiding something
+
+**2. Consistency & Reliability**
+Questions to ask:
+• What's your typical lead time for orders?
+• How often can you miss an order deadline?
+• What's your backup plan if normal supply is disrupted?
+• How do you handle seasonal availability changes?
+
+Why it matters:
+• Your menu planning depends on consistent supply
+• Late deliveries disrupt service and damage reputation
+• Seasonal surprises cause menu chaos
+• Reliable suppliers reduce operational stress
+
+Evaluation process:
+• Ask for references from 2-3 existing restaurant clients
+• Call those references and ask specifically: "Have they ever missed a delivery?"
+• Request 1-month trial supply before committing to contract
+• During trial, track delivery times and quality consistency
+
+**3. Quality & Grading Standards**
+Questions to ask:
+• How do you grade your products?
+• What's your quality control process?
+• Can you guarantee grade consistency?
+• What happens if a shipment doesn't meet stated grade?
+
+Why it matters:
+• "Quality" is subjective; specific grading prevents surprises
+• Consistent grading enables consistent menu pricing
+• Quality guarantees protect your reputation
+• If they can't guarantee quality, they're unreliable
+
+Evaluation process:
+• Request samples of each grade they offer
+• Taste-test and compare against your quality standards
+• Ask about their internal QC process
+• Evaluate how they handle quality complaints
+
+**4. Pricing Competitiveness**
+Questions to ask:
+• What's your current pricing for [specific product/grade]?
+• What volume commitments reduce pricing?
+• How often do you adjust prices?
+• What's your pricing structure during peak season?
+
+Why it matters:
+• Pricing is typically 20-30% of food COGS
+• Small per-kg savings compound to significant margins
+• Volume leverage can reduce costs 10-20%
+• Predictable pricing enables accurate menu margins
+
+Evaluation process:
+• Get 3 competing quotes for your typical monthly order
+• Calculate true cost (including delivery, handling, waste)
+• Ask about volume tiers and long-term discount programs
+• Don't just pick the cheapest — evaluate price vs. quality trade-off
+
+**5. Communication & Responsiveness**
+Questions to ask:
+• How do I reach you during emergencies?
+• How quickly do you respond to messages?
+• Can I speak directly to a decision-maker?
+• How do you handle complaints or quality issues?
+
+Why it matters:
+• Restaurant operations are time-sensitive
+• Late responses to quality complaints compound problems
+• Responsive suppliers become trusted partners
+• You need a single point of contact, not voicemail hell
+
+Evaluation process:
+• Send a test message and track response time
+• Call during non-peak hours and evaluate how quickly you're answered
+• Ask for direct contact (cell phone, email) of your account manager
+• Evaluate how they handle hypothetical emergencies0:{"buildId":"iZsbPZpblQsjeTW_6h2I9","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-white","children":[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$L2",null,{"href":"/en","className":"text-xl font-bold text-gray-900","children":"Uni & Salmon"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$L2",null,{"href":"/en","className":"text-sm text-gray-700 hover:text-gray-900","children":"Home"}],["$","$L2",null,{"href":"/en/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"About Us"}],["$","$L2",null,{"href":"/en/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"Sea Urchin"}],["$","$L2",null,{"href":"/en/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"Salmon"}],["$","$L2",null,{"href":"/en/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"Blog"}],["$","$L2",null,{"href":"/en/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"Contact"}],["$","$L2",null,{"href":"/zh-HK","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"中文"}]]}]]}]}],["$","article",null,{"className":"max-w-4xl mx-auto px-4 py-12 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"mb-8","children":[["$","div",null,{"className":"flex gap-3 mb-4","children":[["$","span",null,{"className":"px-3 py-1 bg-blue-100 text-blue-800 text-sm font-semibold rounded-full","children":"Sourcing & Partnerships"}],["$","span",null,{"className":"text-gray-600 text-sm","children":"March 2026"}]]}],["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"Building Winning Supplier Relationships: The Restaurant Buyer's Handbook"}],["$","p",null,{"className":"text-lg text-gray-700 leading-relaxed","children":"Your restaurant's seafood quality is only as good as your supplier relationships. Yet most restaurant operators treat suppliers like commodities — shopping around, negotiating price, and switching on a whim. Strategic restaurants recognize that strong supplier partnerships are competitive advantages. When you have a trusted supplier who understands your quality standards, anticipates your seasonal needs, and alerts you to market opportunities, you gain reliable supply, better pricing, and insider knowledge your competitors don't have. This handbook covers how to select suppliers, structure partnerships that work for both sides, negotiate effectively, and build relationships that support your restaurant's growth for years."}]]}],["$","div",null,{"className":"prose prose-lg max-w-none","children":[["$","section","0",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Supplier Selection: Finding Your Ideal Partner"}],["$","div",null,{"className":"text-gray-700 whitespace-pre-wrap leading-relaxed","children":"$3"}]]}],"$L4","$L5","$L6","$L7","$L8"]}],"$L9"]}],"$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+d:Tbc9,Most restaurants accept whatever terms suppliers offer. Strategic operators negotiate.
+
+**Key Contract Elements to Negotiate:**
+
+**Pricing Structure**
+```
+Don't accept: "Market price, we'll let you know"
+Instead negotiate: "HKD 800/kg for 10-20kg/month, HKD 750/kg for 20+kg/month"
+
+Good structure:
+- Base price: Clearly stated per kg
+- Volume tiers: Price reduction at 20kg, 50kg, etc.
+- Price review frequency: Quarterly, not monthly
+- Seasonal adjustment: ±5% max, defined by month
+- Price lock period: Minimum 6 months
+```
+
+**Delivery Terms**
+```
+Don't accept: "We'll deliver sometime this week"
+Instead negotiate: "Tuesday 10am, ±1 hour window, HKD X delivery fee included"
+
+Good structure:
+- Delivery day & time: Specific, predictable schedule
+- Consistency guarantee: 95%+ on-time performance
+- Failure remedies: Late delivery = 5% discount, miss 2x/quarter = contract review
+- Location: Clearly specified (back door, loading dock, etc.)
+- Temperature: Cold chain maintained, temperature logs provided
+```
+
+**Quality Guarantees**
+```
+Don't accept: "We sell quality product"
+Instead negotiate: "AA-grade per Japanese standard, visual inspection & taste test verification"
+
+Good structure:
+- Grade specification: Reference specific international standard
+- Testing protocol: How quality is verified
+- Replacement guarantee: Timeline for rejection and replacement
+- Failure threshold: 2 rejections per quarter = contract review
+- Aroma & texture standards: Written specification of acceptable vs. reject criteria
+```
+
+**Minimum Order & Flexibility**
+```
+Don't accept: "Minimum 20kg, all-or-nothing"
+Instead negotiate: "Minimum 10kg, ±20% weekly variation without penalty"
+
+Good structure:
+- Minimum order: Set at operationally feasible level (10-15kg typical)
+- Order notice: 3 business days advance notice required
+- Flexibility: Up to ±20% week-to-week variation without surcharge
+- Seasonal adjustment: 2x/year review of minimums (seasonal peaks)
+- Cancellation: Can cancel standing order with 2 weeks notice
+```
+
+**Communication & Reporting**
+```
+Don't accept: "We'll reach out if something's wrong"
+Instead negotiate: "Weekly availability update every Friday 5pm, 24-hour response to inquiries"
+
+Good structure:
+- Weekly harvest report: What's available, what's coming, any supply issues
+- Incident response: 24-hour reply to quality/delivery issues
+- Contact protocol: Direct phone/email to account manager
+- Pre-season planning: March (salmon) and May (sea urchin) consultation calls
+- Quarterly review: Scheduled check-in to assess partnership health
+```
+
+**Payment Terms**
+```
+Don't accept: "Payment upfront"
+Instead negotiate: "Net 30 (payment due 30 days after invoice)"
+
+Good structure:
+- Standard: Net 30 days is market standard for restaurants
+- Early payment discount: 2% discount if paid within 10 days (optional)
+- Invoice timing: Invoice with delivery, not after
+- Payment method: ACH/bank transfer standard (no cash)
+- Disputes: 5-day window to raise quality concerns; payment still due
+```4:["$","section","1",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"The Negotiation Dance: Getting Terms That Work"}],["$","div",null,{"className":"text-gray-700 whitespace-pre-wrap leading-relaxed","children":"$d"}]]}]
+e:T994,Handshake agreements are for small orders. Serious restaurants use written contracts.
+
+**One-Page Contract Template:**
+
+```
+INVENTORY & SOURCING AGREEMENT
+Effective: [Date]
+Term: 6 months, automatic renewal unless 30-day notice given
+
+PARTIES:
+Restaurant: [Name], HK Address: [Address]
+Supplier: [Company Name], Contact: [Name] [Phone] [Email]
+
+PRODUCT SPECIFICATION:
+Product Name: [e.g., "MSC-Certified Canadian Red Sea Urchin"]
+Grade: [e.g., "AA-Grade per Japanese standard"]
+Harvest Age: [e.g., "<48 hours prior to delivery"]
+Taste Profile: [e.g., "Sweet, buttery, zero ammonia"]
+Packaging: Food-grade sealed containers
+Temperature: 2-4°C cold chain throughout
+
+DELIVERY TERMS:
+Frequency: [e.g., "Weekly, Tuesdays 10am"]
+Location: [e.g., "Restaurant back entrance"]
+Minimum Order: [e.g., "10kg"]
+Order Notice: 3 business days advance
+Flexibility: ±20% weekly without penalty
+
+PRICING:
+Base Price: [e.g., "HKD 800/kg"]
+Volume Tiers: >20kg/month = HKD 750/kg
+Delivery Fee: [Included or specify]
+Price Review: Quarterly, effective [dates]
+Seasonal Adjustment: Max ±5%, announced 2 weeks prior
+Payment Terms: Net 30 days
+Invoice Timing: With delivery
+
+QUALITY GUARANTEE:
+Inspection Rights: Taste-test and visual inspection permitted
+Rejection Protocol: Supplier replacement within 48 hours at no cost
+Rejection Criteria: Aroma (no ammonia), visual grade match, texture per spec
+Quality Failure: >2 rejections per quarter = contract review
+
+DOCUMENTATION REQUIREMENTS:
+Every shipment includes:
+- Harvest date & vessel/farm ID
+- Cold-chain temperature logs
+- Certification number (MSC/ASC)
+- Grade confirmation
+- Producer contact info
+Restaurant retains documentation 12 months
+
+COMMUNICATION:
+Weekly Report: Friday 5pm availability update
+Emergency Contact: 24-hour response guarantee
+Account Manager: [Direct phone/email]
+Quarterly Review: [Specific dates TBD]
+
+TERMINATION:
+Either party: 30 days written notice
+Immediate: For persistent quality failure or certification lapse
+Renewal: Automatic, unless notice given 30 days prior to end date
+
+SIGNATURES:
+Restaurant: _________________ Date: _______
+Supplier: ___________________ Date: _______
+```
+
+**What This Accomplishes:**
+- No ambiguity: Everything written down
+- Protection: If disputes arise, you have terms in writing
+- Commitment: Signals seriousness to supplier
+- Flexibility: Can adjust via amendment as relationship evolves
+- Reference: When new staff join, they understand supplier terms5:["$","section","2",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Contract Structure: Putting Agreement in Writing"}],["$","div",null,{"className":"text-gray-700 whitespace-pre-wrap leading-relaxed","children":"$e"}]]}]
+f:Tef4,Once contracts are signed, the real work begins: building a partnership.
+
+**The First 90 Days: Establish Trust**
+
+**Week 1-2: Onboarding**
+- Introduce supplier contact to your kitchen team
+- Explain your quality standards and why they matter
+- Schedule first delivery and conduct joint quality verification
+- Document baseline: taste-test their product, set quality reference standard
+- Action: Send welcome email with contract, key contacts, emergency procedures
+
+**Week 3-8: Consistent Ordering**
+- Place regular orders on agreed schedule
+- Provide feedback (positive and constructive) after each delivery
+- Test different product variations if available
+- Build routine: Tuesday 10am becomes predictable
+- Action: Send brief weekly feedback message (3 sentences: "Great quality Tuesday, flavor excellent, temperature logs perfect")
+
+**Week 9-12: First Strategic Conversation**
+- Call supplier and discuss seasonal planning
+- Share 6-month menu projection (if available)
+- Discuss upcoming peaks (peak season buying, known events, etc.)
+- Negotiate any pricing adjustments based on volume
+- Action: Formal quarterly review call, document outcomes
+
+**Beyond 90 Days: Partnership Deepening**
+
+**Quarterly Communication Cadence:**
+
+Quarter 1 (January-March):
+- Review prior quarter performance (on-time %, quality rejections, pricing)
+- Plan Q2 ordering and seasonal availability
+- Discuss any operational changes affecting demand
+- Action: Scheduled 30-minute call, written summary
+
+Quarter 2 (April-June):
+- Pre-season consultation: salmon peak coming
+- Discuss market trends and upcoming supply challenges
+- Lock in Q3 pricing
+- Action: 30-minute call, update contract if needed
+
+Quarter 3 (July-September):
+- Evaluate relationship: staying or adjusting?
+- Discuss next-year planning and growth
+- Share customer feedback about product
+- Action: 30-minute call, renewal discussion
+
+Quarter 4 (October-December):
+- Seasonal peak management: coordinate delivery schedules
+- Plan contract renewal terms
+- Discuss next-year projections
+- Action: 30-minute call, finalize renewal
+
+**Deepening Trust Through Transparency:**
+
+What to share with suppliers:
+- Your menu changes (helps them anticipate demand)
+- Guest feedback about their product (they care about quality)
+- Your business challenges (they may offer solutions)
+- Upcoming events or peaks (so they can plan supply)
+- Success stories (when their product helps your business)
+
+What NOT to share:
+- Your pricing to other suppliers
+- Detailed financial information
+- Complaints about delivery to third parties
+- Plans to switch suppliers (until you've decided)
+
+**When to Escalate Issues:**
+
+Small issue (isolated quality problem, one late delivery):
+- Handle with regular contact person
+- Solution: replacement product, minor discount
+- Follow-up: brief message confirming resolution
+
+Moderate issue (repeat quality problem, pattern of lateness):
+- Escalate to supplier management
+- Request meeting to discuss root causes
+- Solution: revised procedures, pricing adjustment, or partnership review
+- Follow-up: written summary of discussion and action items
+
+Severe issue (missed multiple orders, significant quality failures, certification lapse):
+- Formal written notice of contract breach
+- 10-day cure period: "Fix this or relationship ends"
+- Parallel action: Identify backup supplier
+- Decision point: Renegotiate or terminate
+
+**Red Flags: When to Start Looking for New Suppliers**
+- Missed deliveries more than 1x per quarter
+- Quality rejections exceed agreed threshold
+- Response time exceeds 24 hours regularly
+- Certification lapses without notification
+- Prices increase >10% outside agreed adjustment schedule
+- Delivery temperatures out of specification
+
+If you see 2+ red flags, start evaluating alternatives. Don't wait until the relationship fails completely.6:["$","section","3",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Building the Relationship: Turning Suppliers into Partners"}],["$","div",null,{"className":"text-gray-700 whitespace-pre-wrap leading-relaxed","children":"$f"}]]}]
+10:Tcc9,For risk management and negotiating leverage, most successful restaurants maintain 2-3 suppliers per product category.
+
+**Portfolio Approach:**
+
+**Primary Supplier (70% of volume)**
+- Best relationship, most consistent quality
+- Best pricing due to volume
+- Usually provides 70% of monthly needs
+- Your "go-to" partner
+
+**Secondary Supplier (20% of volume)**
+- Backup for supply disruptions
+- Alternative quality/style (e.g., Norwegian vs. Canadian sea urchin)
+- Maintains competitive pressure on primary supplier
+- Used during supply constraints
+
+**Tertiary Supplier (10% of volume)**
+- Emergency backup only
+- Tests new options/emerging suppliers
+- Safety net if both primary and secondary fail
+
+**Why This Works:**
+
+**Risk Management:**
+- If primary supplier has supply issues, secondary steps in
+- Diversifies origin (reduces geographic risk)
+- Protects against price manipulation
+
+**Quality Leverage:**
+- Primary supplier knows you have alternatives
+- Encourages competitive quality and pricing
+- Prevents complacency
+
+**Menu Flexibility:**
+- Can offer seasonal variety (Canadian + Norwegian sea urchin)
+- Can compare quality and flavors
+- Discover backup if primary quality dips
+
+**Cost Management:**
+- 70/20/10 split: Leverage volume discounts at primary
+- Maintain secondary at competitive but not lowest pricing
+- Avoid being dependent on any single supplier
+
+**Practical Example: Sea Urchin Sourcing**
+```
+Primary (70%): Canadian Red Sea Urchin
+- Supplier: Asia Fisheries
+- Volume: 14kg/month (14kg × 10 months + 21kg × 2 months peak)
+- Pricing: HKD 750/kg (volume tier locked)
+- Delivery: Weekly, Tuesday 10am
+- Relationship: Core partnership, quarterly planning
+
+Secondary (20%): Norwegian Sea Urchin
+- Supplier: Premium Seafood HK
+- Volume: 4kg/month (4kg × 10 months + 6kg × 2 months peak)
+- Pricing: HKD 850/kg (higher, newer supplier)
+- Delivery: Bi-weekly
+- Relationship: Growing, differentiation/risk mitigation
+
+Tertiary (10%): Hokkaido Bafun (Emergency Only)
+- Supplier: Luxury Seafood Imports
+- Volume: 2kg/month (used sparingly)
+- Pricing: HKD 1,400/kg (premium, seasonal only)
+- Delivery: As-needed
+- Relationship: Minimal, used only for peak season menu specials
+
+Benefits:
+- Canadian Red is reliable workhouse (HKD 750/kg at volume)
+- Norwegian option available if Canadian supply disrupts
+- Hokkaido for premium seasonal offerings
+- Menu can highlight seasonal variety
+- Primary supplier stays competitive due to alternatives
+- Total COGS predictable despite seasonal variation
+```
+
+**Transition Strategy When Changing Suppliers:**
+
+If you need to switch primary suppliers:
+
+Months 1-2: Research & Testing
+- Identify potential new suppliers
+- Request samples
+- Taste-test against current supplier
+- Verify certifications and references
+
+Months 2-3: Negotiation
+- Negotiate pricing and terms
+- Draft contract
+- Request trial period (e.g., 4 weeks at secondary volume level)
+
+Months 3-4: Transition
+- Run new supplier as secondary (20% volume)
+- Monitor quality and reliability
+- Evaluate relationship fit
+- Maintain current primary (80% volume) as backup
+
+Month 4+: Full Transition
+- If new supplier proves reliable, swap to primary
+- Old primary moves to secondary
+- New secondary eventually becomes primary
+- Smooth transition, no supply gaps7:["$","section","4",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Managing Multiple Suppliers: Portfolio Strategy"}],["$","div",null,{"className":"text-gray-700 whitespace-pre-wrap leading-relaxed","children":"$10"}]]}]
+11:Td55,Your best-selling dishes are often seasonal. Suppliers need advance notice to secure supply.
+
+**Peak Season Planning Calendar:**
+
+**March-May (Spring Peak)**
+Why: Easter holidays, Mother's Day, special events
+Typical peak: 25-30% higher volume than baseline
+Action: February communication
+- "We expect 40kg salmon in April, can you secure this?"
+- Negotiate premium pricing (suppliers charge more for peak supply)
+- Lock in delivery schedule
+- Arrange extra storage/handling if needed
+
+**June-August (Summer Peak)**
+Why: Summer entertaining, overseas tourists, graduation events
+Typical peak: 40-50% higher volume
+Action: April-May communication
+- "We expect 70kg sea urchin peak June-August"
+- Negotiate allocation if global supply is tight
+- Hokkaido bafun peaks in June-July — order now
+- Canadian Red becomes less available (not peak)
+- Plan menu around available supply, not vice versa
+
+**September-October (Shoulder Season)**
+Why: Business entertaining, new season menus
+Typical peak: 10-20% above baseline
+Action: July-August communication
+- Transition from summer to fall supply
+- Price changes (Hokkaido ends, Canadian Red begins)
+- Update inventory and ordering
+
+**November-December (Holiday Peak)**
+Why: Christmas, New Year, corporate entertaining
+Typical peak: 35-45% above baseline
+Action: September-October communication
+- Holiday menu planning requires early communication
+- Christmas demand starts mid-November
+- New Year's entertaining peaks December 27-31
+- Lock in delivery schedule to avoid shortages
+
+**Key Negotiation Points for Peak Supply:**
+
+**Allocation: "Can You Guarantee Supply?"**
+Don't accept: "We'll try to get it"
+Instead negotiate: "Guarantee 50kg in June at HKD 800/kg, with 95% fulfillment"
+
+Good contract language:
+```
+"During peak periods (June 1-August 31), supplier commits to fulfilling
+95% of ordered volume at contracted pricing. If unable to fulfill, supplier
+will notify buyer by [date] with alternative options and pricing."
+```
+
+**Pricing: "What's the Premium?"**
+Don't accept: "Prices will be higher during peak"
+Instead negotiate: "Base HKD 800/kg plus HKD 50/kg peak premium June 1-July 31"
+
+Good contract language:
+```
+"Peak pricing surcharge (June 1-July 31): +HKD 50/kg. This premium applies
+to volume above 20kg/month baseline. Surcharge announced 30 days in advance.
+No surcharge for volume below baseline."
+```
+
+**Storage & Handling: "What's Your Capacity?"**
+Don't accept: "We'll deliver it all at once"
+Instead negotiate: "Split shipments: Tuesday 10am and Friday 4pm to accommodate storage capacity"
+
+Consider:
+- How much freezer/cold storage do you have?
+- Can you receive split shipments to spread cold-chain stress?
+- Do you need special handling for peak volume?
+- Are there staff capacity constraints?
+
+**Advance Payment: "Can You Order Early?"**
+Most peak supply is harvested months before peak demand. Good suppliers know this.
+
+Negotiate:
+- "Can we place June orders by March 1 with partial advance payment?"
+- "What's your advance order discount (typically 2-5% discount for early commitment)"
+- "What's your cancellation policy if our needs change?"
+
+Example:
+```
+May 1: Restaurant communicates expected June-July peak (70kg sea urchin)
+June 1: Supplier secures Hokkaido fishery allocation and confirms pricing
+July 1: Final quantities confirmed; restaurant pays 50% deposit
+August 1: Delivery begins; balance due on standard Net 30 terms
+```8:["$","section","5",{"className":"mb-12","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Negotiating Seasonal Peaks: Getting Supply When Demand Surges"}],["$","div",null,{"className":"text-gray-700 whitespace-pre-wrap leading-relaxed","children":"$11"}]]}]
+9:["$","section",null,{"className":"mt-12 pt-8 border-t border-gray-200","children":["$","p",null,{"className":"text-lg text-gray-700 leading-relaxed","children":"Supplier relationships are the hidden infrastructure of restaurant success. Most operators focus on menu, kitchen technique, and front-of-house service — and then wonder why their quality is inconsistent. Strategic restaurants recognize that reliable sourcing is a competitive advantage. By selecting suppliers carefully, negotiating contracts that work for both sides, investing in communication, and maintaining multiple options, you create a supply chain that supports excellence. When your executive chef trusts the daily delivery, when you have backup suppliers who step in seamlessly, when seasonal peaks run smoothly because you planned three months in advance — that's when sourcing becomes an invisible asset that enables everything else your restaurant does. Start building those relationships today."}]}]
+a:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"Uni & Salmon"}],["$","p",null,{"className":"text-sm","children":"Your trusted partner for premium sea urchin and salmon in Hong Kong & Macau."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Home"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/en/about","className":"hover:text-white","children":"About Us"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/sea-urchin","className":"hover:text-white","children":"Sea Urchin"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/salmon","className":"hover:text-white","children":"Salmon"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/blog","className":"hover:text-white","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Contact Us"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","Uni & Salmon",". ","All rights reserved."]}]]}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true}]
+c:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null
