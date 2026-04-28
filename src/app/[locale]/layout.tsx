@@ -21,6 +21,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const dict = await getDictionary(locale);
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://example.com";
 
+  const verificationGoogle = process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION;
+  const verificationBing = process.env.NEXT_PUBLIC_BING_SITE_VERIFICATION;
+
   return {
     title: {
       default: dict.metadata.title,
@@ -51,6 +54,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       index: true,
       follow: true,
     },
+    ...(verificationGoogle || verificationBing
+      ? {
+          verification: {
+            ...(verificationGoogle ? { google: verificationGoogle } : {}),
+            other: verificationBing
+              ? { "msvalidate.01": [verificationBing] }
+              : {},
+          },
+        }
+      : {}),
   };
 }
 
