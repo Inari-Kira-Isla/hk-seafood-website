@@ -1,0 +1,129 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/7c92e96509cd355e.js"],""]
+14:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+0:{"buildId":"XcQFpFl-9lsGDffOKygfH","rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$L2",null,{"href":"/en","className":"text-xl font-bold text-gray-900","children":"Uni & Salmon"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$L2",null,{"href":"/en","className":"text-sm text-gray-700 hover:text-gray-900","children":"Home"}],["$","$L2",null,{"href":"/en/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"About Us"}],["$","$L2",null,{"href":"/en/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"Sea Urchin"}],["$","$L2",null,{"href":"/en/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"Salmon"}],["$","$L2",null,{"href":"/en/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"Blog"}],["$","$L2",null,{"href":"/en/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"Contact"}],["$","$L2",null,{"href":"/zh-HK","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"中文"}]]}]]}]}],["$","main",null,{"className":"min-h-screen bg-slate-50 py-12 px-4 sm:px-6 lg:px-8","children":["$","article",null,{"className":"max-w-3xl mx-auto bg-white rounded-lg shadow-md p-8","children":[["$","div",null,{"className":"mb-8","children":[["$","p",null,{"className":"text-sm text-emerald-600 font-semibold mb-2","children":"Buying Guide"}],["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"The Restaurant Buyer's Checklist for Premium Salmon in Hong Kong & Macau"}],["$","p",null,{"className":"text-gray-500 text-sm","children":"April 2026"}]]}],["$","div",null,{"className":"prose prose-lg max-w-none mb-12","children":[["$","p",null,{"className":"text-lg text-gray-700 mb-8","children":"Premium salmon sourcing in Hong Kong and Macau is straightforward when you know exactly what to check. F&B directors and restaurant buyers who rely on 'it looks fresh' or 'the price is right' consistently end up with inconsistent product, higher waste rates, and occasional guest complaints. This 10-point checklist cuts through ambiguity and gives you a structured framework to evaluate every delivery, qualify every supplier, and protect your margins."}],[["$","div","0",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"Why Salmon Sourcing Gets It Wrong in HK & Macau"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"The Hong Kong and Macau market is awash with salmon marketed as 'sashimi-grade' that ranges from genuinely premium to borderline acceptable. The confusion stems from three structural issues:\n\n**No regulated grade standard**: Unlike some markets, HK/Macau has no enforced regulatory definition of 'sashimi-grade.' It's a marketing term. Any supplier can use it. The buyer's evaluation is the only quality gate.\n\n**Long cold-chain from origin**: Premium salmon destined for HK/Macau travels from Norway, Scotland, Chile, Canada, or Tasmania — often 18–36+ hours from harvest to plate. Every inefficiency in that cold chain compounds quality degradation.\n\n**Volume pressure**: Hotel F&B teams managing banquets for 500+ guests face relentless cost pressure. This incentivises compromising on quality standards that restaurant-scale buyers enforce more carefully.\n\nThe checklist below applies at every scale — whether you're ordering 5kg for a weekend service or 200kg for a banquet."}]]}],["$","div","1",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"The 10-Point Salmon Buyer's Checklist"}],"$L3"]}],"$L4","$L5","$L6","$L7","$L8"],"$L9","$La"]}]]}]}],"$Lb"],["$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+e:T13db,**✅ Point 1 — Colour**
+What to look for: Vibrant, even coral-orange to deep pink. No grey patches, no white striping beyond natural fat lines, no browning at the edges.
+Red flags: Dull brown-grey tones, uneven colouring across the fillet, bloodshot patches near the bone line.
+Note: Farmed Atlantic salmon (the market standard in HK/Macau) runs coral-orange. Wild Pacific varieties (King, Sockeye) run deeper red. Know what you ordered.
+
+**✅ Point 2 — Fat Marbling**
+What to look for: Even white fat lines running perpendicular to the muscle fibres. Fat should be creamy white, not yellow. Even distribution signals steady feed and healthy growth conditions.
+Red flags: Thick uneven fat deposits (overfeeding), yellow-tinged fat (age or oxidation), insufficient marbling (lean fish = dry texture = poor sashimi).
+Note: Atlantic salmon from Norway/Scotland has been bred for consistent fat marbling. This is a major reason it dominates the HK/Macau sashimi market.
+
+**✅ Point 3 — Flesh Firmness**
+What to look for: When pressed gently with a fingertip, flesh springs back immediately. Fillet holds shape when lifted. No separation between muscle segments (gaping).
+Red flags: Flesh that retains an indentation, doesn't spring back, or feels mushy. Any gaping between muscle segments indicates age or mishandling.
+Note: Gaping often develops from rough handling during filleting or from fish being stressed before harvest. A reliable supplier ensures proper handling protocols.
+
+**✅ Point 4 — Smell**
+What to look for: Clean, faintly oceanic aroma. Should smell like the sea — not fishy, not sour, not ammonia.
+Red flags: Any sour, ammonia, or sulphur notes. Even a mild 'off' smell indicates the fish is past its prime for raw service. The smell test is non-negotiable.
+Note: Well-handled fresh salmon at proper cold-chain temperature (0–2°C) has almost no smell. The more noticeable the smell, the older the product.
+
+**✅ Point 5 — Eyes (Whole Fish Only)**
+What to look for: Clear, bright, slightly convex eyes. No cloudiness, no sunken eyes.
+Red flags: Cloudy, sunken, or dried-out eyes. A reliable indicator of age in whole fish.
+Note: Most HK/Macau restaurants receive salmon as fillets. If you ever receive whole fish, the eyes give you an instant quality read before filleting.
+
+**✅ Point 6 — Temperature at Delivery**
+What to look for: Core temperature between 0°C and 2°C. Verify with a probe thermometer on every significant delivery.
+Red flags: Core temp above 4°C at delivery. This indicates cold chain failure somewhere between origin and your kitchen.
+Note: If the delivery temp is wrong, reject it — regardless of how good the fish looks. The bacterial load at 6°C+ grows exponentially and you cannot verify the full exposure timeline.
+
+**✅ Point 7 — Harvest Date Documentation**
+What to look for: Supplier provides the harvest/slaughter date with every delivery. Calculate days from harvest: sashimi-grade service ideally within 7 days for Atlantic salmon, 5 days for Pacific varieties.
+Red flags: Supplier unable or unwilling to provide harvest date. 'Best before' dates only — without a harvest date, you cannot calculate real freshness.
+Note: A trustworthy supplier always has harvest date documentation because it's part of their traceability obligations. If they can't provide it, walk away.
+
+**✅ Point 8 — Origin Certification**
+What to look for: Country of origin + farm/region clearly labelled. For premium product: ASC (Aquaculture Stewardship Council) certification, Norwegian Seafood Council registration, or GlobalG.A.P. certification.
+Red flags: Vague 'imported Atlantic salmon' with no country of origin. No certification documentation on request.
+Note: For Macau gaming resort operations specifically, origin documentation is non-negotiable for food safety audit compliance (see our Macau Gaming Compliance guide).
+
+**✅ Point 9 — Packaging and Presentation**
+What to look for: Vacuum-packed or modified atmosphere packaging (MAP). No excess liquid pooling in the package. Packaging intact — no air pockets, no tears.
+Red flags: Broken vacuum seal, excessive liquid (drip loss), or fish delivered in open trays with ice only. Open-tray icing is fine for same-day service fish, not for premium sashimi.
+Note: Premium suppliers use MAP packaging that extends shelf life without compromising freshness. If your supplier ships premium salmon in open trays with ice, ask why.
+
+**✅ Point 10 — Price Benchmarking**
+What to look for: Pricing that reflects current market rates. Norwegian Atlantic (farmed, sashimi-grade) wholesale in HK/Macau: approximately HK$85–130/kg depending on cut and volume. Scottish, Tasmanian, and premium 'fjord trout' variants command 10–25% premium.
+Red flags: Pricing significantly below market (quality will follow). Pricing 40%+ above market without a clear origin/certification justification.
+Note: Prices move with Norwegian Krone exchange rates and air freight costs. A reliable supplier will explain pricing changes proactively rather than quietly adjusting invoices.3:["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"$e"}]
+f:T505,Beyond the delivery-by-delivery checklist, evaluate your salmon supplier on these criteria quarterly:
+
+**Responsiveness**: Can they accommodate urgent orders with 24–48 hours notice? Premium HK/Macau restaurant operations sometimes need to scale volume up or down based on reservation patterns.
+
+**Consistency**: Track your rejection rate. For premium sashimi-grade salmon, your target rejection rate should be under 3%. If you're rejecting 5–10% of deliveries, switch suppliers.
+
+**Transparency**: Will they let you visit their facilities or connect you with their origin farms? The best suppliers are proud of their supply chain and welcome scrutiny.
+
+**Flexibility of cuts**: Can they provide specific cuts your kitchen needs — pin-boned, skin-on/off, specific fillet thickness? A generic wholesaler says 'this is what we have.' A premium partner accommodates your spec.
+
+**Market intelligence**: Does your supplier proactively share relevant information — seasonal price moves, supply disruptions, new varieties available? This kind of intelligence helps you plan menus and purchasing more effectively.
+
+**Problem resolution**: What happened the last time a delivery was substandard? Did they replace immediately and without argument? That's the standard you should expect.4:["$","div","2",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"Supplier Evaluation Framework"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"$f"}]]}]
+10:T4fa,Different applications require different cuts. Buying the wrong cut wastes money:
+
+**Sashimi / Sushi**: Skin-off, pin-boned fillet. Cut from the centre of the fillet (the 'J-cut' or 'D-cut') for most even thickness and highest portion yield. Avoid tail sections for sashimi — too thin and inconsistent.
+
+**Aburi (torched) nigiri**: Belly (harasu) sections. Higher fat content creates excellent caramelisation. Belly sections are often underpriced relative to their suitability for this application.
+
+**Carpaccio / crudo**: Paper-thin slices require firm flesh. Request the firmest, freshest possible — within 5 days of harvest. Side fillets work better than belly for consistent slicing.
+
+**Salmon donburi / poke**: Any sashimi-grade cut works — use centre cuts for premium service, blended trim and belly for value applications.
+
+**Smoked salmon (in-house)**: Belly sections and tail cuts are acceptable starting material — smoking compensates for thickness variation. Source from the same quality tier as your sashimi salmon; the provenance story carries through.
+
+**Banquet / cooked applications**: For hot preparations (gravlax, baked, poached), A-grade rather than AA-grade is appropriate and represents better value. Reserve sashimi-grade for raw applications.5:["$","div","3",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"Cut Guide: Matching the Right Salmon to the Right Application"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"$10"}]]}]
+11:T558,Hotels and large F&B operations face a different purchasing challenge than à la carte restaurants: volume, consistency, and cost control across multiple outlets simultaneously.
+
+**Weekly Standing Orders**: Negotiate weekly standing orders with volume commitments in exchange for price stability. A standing order of 30–50kg/week gives you negotiating leverage to lock in pricing for 4–8 weeks.
+
+**Dual Supplier Strategy**: Maintain two qualified suppliers — primary (80% of volume) and backup (20%). Run your backup monthly to keep them current on your standards. When your primary has supply issues, the backup transition is seamless.
+
+**Grade Tiering by Outlet**: Not every outlet needs the highest-grade salmon. Your pool bar or café can use A-grade for cooked applications at 20–30% cost savings. Reserve AA-grade (sashimi-grade) for your flagship restaurant and sushi bar.
+
+**Yield Tracking**: Calculate your fillet yield percentage after portioning. Target: 85–92% yield from a skin-off, pin-boned fillet. If you're consistently getting 78–80%, your portioner needs calibration or your supplier is delivering inconsistent fillet sizes.
+
+**Monthly Supplier Review**: Meet with your primary supplier monthly. Review: rejection rate, average delivery temperature, yield performance, and upcoming seasonal pricing changes. This meeting pays for itself.6:["$","div","4",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"Volume Purchasing Strategy for Hotel F&B Operations"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"$11"}]]}]
+12:T44a,Salmon imported into Hong Kong and Macau must comply with:
+
+**Hong Kong Centre for Food Safety (CFS) Requirements**:
+- Importer must be registered with CFS Food Business Registry
+- Salmon must originate from approved countries/regions
+- Country of origin documentation required at import
+- Chilled raw fish must be maintained at ≤4°C during transport and storage
+
+**Macau Food Safety Requirements (ASAE)**:
+- All seafood must be accompanied by health certificates from country of origin
+- Temperature log documentation for chilled products
+- Business license (牌照) to sell seafood in catering operations
+- For gaming resort operations: additional internal HACCP documentation required
+
+**For your supplier checklist**:
+- Confirm they are an HKSAR-registered importer
+- Request health certificates with each large delivery
+- Keep temperature log records for 3+ months (CFS inspection standard)
+- Ensure your kitchen's receiving temperature logs are maintained
+
+Non-compliance risks include fines, temporary closure orders, and — for Macau gaming licensees — potential licence implications.7:["$","div","5",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"HK & Macau Regulatory Requirements"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"$12"}]]}]
+13:T50f,**Norwegian Atlantic Salmon**: Remains the dominant variety in HK/Macau. Norwegian production is recovering after 2024's ISA (Infectious Salmon Anaemia) outbreaks in selected farms. Quality is solid; pricing has stabilised after elevated 2024 rates. Recommended as core sourcing.
+
+**Scottish Atlantic**: Commands a 15–20% premium over Norwegian. Demand for provenance stories continues to grow among HK's Michelin segment. Worth maintaining access for premium menu positioning.
+
+**Tasmanian Atlantic**: Growing in popularity among HK's high-end segment for its clean Pacific waters story. Air freight from Australia adds cost; evaluate against menu pricing.
+
+**Chilean Atlantic**: Most cost-effective option for cooked applications. Not typically positioned for raw sashimi in premium HK/Macau contexts. Strong for hotel banquet cooked preparations.
+
+**King Salmon (Chinook)**: New Zealand King (Ōra King) maintains premium positioning. Limited availability in HK/Macau; works as a special feature rather than core menu item. Pricing HK$180–250/kg+.
+
+**Overall forecast**: Pricing stability expected through Q2 2026. Watch for Norwegian Krone volatility and air freight cost changes through Q3–Q4. Buyers who lock in Q2 volume deals will be better positioned for the year-end price spike.8:["$","div","6",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"2026 Salmon Sourcing Outlook for HK & Macau"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"$13"}]]}]
+9:["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200","children":[["$","h3",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Looking for a Reliable Premium Salmon Supplier in Hong Kong or Macau?"}],["$","p",null,{"className":"text-gray-700 text-lg mb-6","children":"Contact Inari Global Food to discuss your salmon sourcing requirements. We work with restaurants and hotels across Hong Kong and Macau, supplying verified, documented sashimi-grade salmon with full cold-chain traceability."}],["$","a",null,{"href":"/en/contact","className":"inline-block bg-emerald-600 text-white font-semibold px-8 py-3 rounded-lg hover:bg-emerald-700 transition-colors","children":"Get in Touch"}]]}]
+a:["$","p",null,{"className":"text-gray-700 text-lg mt-8","children":"Salmon sourcing consistency is a discipline, not luck. Restaurants and hotels that systematically apply this checklist — at delivery, quarterly with suppliers, and monthly on pricing — run tighter operations, serve better product, and build supplier relationships that weather supply disruptions. The checklist above takes 10 minutes per delivery. The quality it protects is worth far more."}]
+b:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"Uni & Salmon"}],["$","p",null,{"className":"text-sm","children":"Your trusted partner for premium sea urchin and salmon in Hong Kong & Macau."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Home"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/en/about","className":"hover:text-white","children":"About Us"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/sea-urchin","className":"hover:text-white","children":"Sea Urchin"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/salmon","className":"hover:text-white","children":"Salmon"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/blog","className":"hover:text-white","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Contact Us"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","Uni & Salmon",". ","All rights reserved."]}]]}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true}]
+d:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+16:null

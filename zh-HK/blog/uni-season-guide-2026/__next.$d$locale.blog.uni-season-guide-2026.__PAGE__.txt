@@ -1,0 +1,61 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/7c92e96509cd355e.js"],""]
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+3:T10d9,**一月 — 過渡月**
+供應：加拿大紅海膽（不列顛哥倫比亞省）★★★★ | 智利 ★★★ | 北海道稀少
+備注：強勁的加拿大紅海膽季節持續。巴塔哥尼亞智利海膽進入高峰品質期。北海道馬糞海膽供應有限——現有庫存價格偏高。最佳採購：加拿大紅海膽，性價比最優。
+
+**二月 — 加拿大高峰期**
+供應：加拿大紅海膽 ★★★★★ | 智利 ★★★★ | 美國東岸開始
+備注：不列顛哥倫比亞省加拿大紅海膽達到高峰奶油感。智利Loxechinus產量增加。日本進口量低——農曆新年物流中斷。農曆新年週期間需謹慎規劃庫存。
+
+**三月 — 春季過渡**
+供應：加拿大紅海膽 ★★★★ | 北海道初季 ★★ | 美國東岸 ★★★
+備注：早期北海道馬糞海膽開始出現——品質不穩定，價格投機性高。美國東岸（緬因州/新英格蘭）進入生產期。建議謹慎對待早期北海道產品；等待六月份的品質確認。
+
+**四月 — 混合市場**
+供應：加拿大紅海膽 ★★★（季末）| 北海道 ★★★ | 加州 ★★★
+備注：加拿大紅海膽隨季節結束而品質略降。加州紅海膽和紫海膽進入高峰期。北海道紫海膽（Murasaki）與馬糞海膽同步開始。適合在多個產地之間分散採購的月份。
+
+**五月 — 加州及北海道上升期**
+供應：加州 ★★★★ | 北海道紫海膽 ★★★★ | 北海道馬糞海膽 ★★★
+備注：加州紅海膽達到高峰豐富度——是北海道的絕佳替代品，性價比優異。北海道北部馬糞海膽季節建立勢頭。最佳鎖定六月至八月高峰期北海道供應商協議的時機。
+
+**六月 — 北海道高峰開始** ⭐ 最佳月份
+供應：北海道馬糞海膽AA ★★★★★ | 北海道紫海膽 ★★★★★ | 加州 ★★★★
+備注：北海道北部馬糞海膽進入黃金季節。金橙色澤，濃郁甜美，膽黃緊實。AA級供應穩定。這是米芝蓮廚師在菜單中突出海膽的時機。建議提前合約——大量採購者現在確保配額。
+
+**七月 — 高峰季節** ⭐ 最佳月份
+供應：北海道馬糞海膽AA ★★★★★ | 北海道紫海膽 ★★★★★ | 利尻馬糞海膽 ★★★★★
+備注：北海道北部絕對高峰期。各等級供應充足。利尻島馬糞海膽（被許多人認為是世界上最精緻的品種）以少量供應——頂級定價。圍繞海膽作為主角食材規劃夏季菜單。
+
+**八月 — 季末高峰**
+供應：北海道馬糞海膽 ★★★★ | 南北海道開始 ★★★ | 利尻 ★★★★
+備注：北海道北部馬糞海膽開始收尾。南北海道（襟裳）進入生產期——風味略有不同，仍然優質。八月底注意品質不穩定，部分收穫在季末趕進市場。
+
+**九月 — 秋季過渡**
+供應：南北海道 ★★★★ | 加拿大新季 ★★ | 智利回歸 ★★★
+備注：北海道重心南移。加拿大紅海膽新季以初季產品開始（脂肪含量較低，十月後逐漸提升）。智利巴塔哥尼亞產量增加。適合輪換採購的月份——分散採購管理成本。
+
+**十月 — 加拿大新季**
+供應：加拿大紅海膽新季 ★★★★ | 智利 ★★★★ | 北海道有限 ★★
+備注：加拿大紅海膽新季達到完整品質——可靠、穩定、港澳市場性價比優異。智利冬季收穫強勁。北海道供應大幅減少。開始將菜單過渡至加拿大/智利焦點。
+
+**十一月 — 加拿大及智利旺盛**
+供應：加拿大紅海膽 ★★★★★ | 智利 ★★★★★ | 挪威 ★★★
+備注：非日本品種的高峰性價比季節。挪威海膽（Strongylocentrotus droebachiensis）適合有冒險精神的菜單。加拿大紅海膽全年定價最具競爭力。大量採購和建立庫存的最佳時機。
+
+**十二月 — 年末需求高峰**
+供應：加拿大紅海膽 ★★★★ | 智利 ★★★★ | 日本新年庫存到達 ★★★
+備注：節日季需求推高所有品種定價。十月/十一月提前預訂十二月供應。日本馬糞海膽開始為新年餐廳促銷重新出現——供應有限，頂級定價。節日菜單圍繞加拿大/智利性價比規劃，以日本品種作為優質亮點。0:{"buildId":"XcQFpFl-9lsGDffOKygfH","rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$L2",null,{"href":"/zh-HK","className":"text-xl font-bold text-gray-900","children":"海膽三文魚"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$L2",null,{"href":"/zh-HK","className":"text-sm text-gray-700 hover:text-gray-900","children":"首頁"}],["$","$L2",null,{"href":"/zh-HK/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"關於我們"}],["$","$L2",null,{"href":"/zh-HK/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"海膽"}],["$","$L2",null,{"href":"/zh-HK/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"三文魚"}],["$","$L2",null,{"href":"/zh-HK/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"資訊"}],["$","$L2",null,{"href":"/zh-HK/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"聯絡我們"}],["$","$L2",null,{"href":"/en","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"English"}]]}]]}]}],["$","main",null,{"className":"min-h-screen bg-slate-50 py-12 px-4 sm:px-6 lg:px-8","children":["$","article",null,{"className":"max-w-3xl mx-auto bg-white rounded-lg shadow-md p-8","children":[["$","div",null,{"className":"mb-8","children":[["$","p",null,{"className":"text-sm text-emerald-600 font-semibold mb-2","children":"季節指南"}],["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"香港澳門海膽季節指南 2026：最佳採購時機與產品預期"}],["$","p",null,{"className":"text-gray-500 text-sm","children":"2026年4月"}]]}],["$","div",null,{"className":"prose prose-lg max-w-none mb-12","children":[["$","p",null,{"className":"text-lg text-gray-700 mb-8","children":"在香港和澳門採購優質海膽從不是一年四季如一的事。七月份的卓越產品，到二月份可能變得平庸。了解季節高峰、品種輪換和供應動態，是讓您的菜單始終圍繞優質食材打造——而非只能接受任何送來的產品——的關鍵所在。本指南為餐廳採購人員和餐飲總監提供2026年實用的逐月採購路線圖。"}],[["$","div","0",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"為何海膽季節性對港澳採購商至關重要"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"與大多數蛋白質不同，海膽品質隨季節波動極為顯著。海膽膽黃在動物準備產卵時會膨脹變甜——產卵後，膽黃迅速減少，苦澀感大幅增加。在錯誤時機採購意味著以優質價格購入劣質產品。\n\n在香港和澳門的高端餐飲市場，三個因素使季節性尤為關鍵：\n\n**菜單信譽**：米芝蓮星級和高端餐廳無法提供淡季、水分過多的海膽而不損害聲譽。了解季節性的廚師能打造始終提供高峰產品的菜單。\n\n**價格波動**：優質海膽價格在高峰期和淡季之間波動30–50%。了解採購日曆的買家可以在低需求期間提前合約，保護食材成本率。\n\n**進口前置時間**：港澳餐廳距離大多數主要海膽產地（日本、加拿大、美國）有1–3個飛行日。了解生產高峰讓買家能提前規劃，避免空運短缺。"}]]}],["$","div","1",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"2026年逐月海膽供應日曆"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"$3"}]]}],"$L4","$L5","$L6","$L7"],"$L8","$L9"]}]]}]}],"$La"],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+4:["$","div","2",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"品種概覽：採購前需了解的知識"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"**北海道馬糞海膽**\n產地：日本北海道北部 | 高峰期：六月至八月\n風味：濃郁甜美、海洋感、豐富鮮味。高端餐飲的基準。\n外觀：深金橙色；緊實、輪廓清晰的膽黃\n等級：AA（色澤最鮮豔，膽黃最緊實）→ A → B\n最佳用途：Omakase菜式、刺身、優質丼飯\n港澳定價：每盒港幣900–1,400元（AA級，高峰季節）\n\n**北海道紫海膽**\n產地：日本北海道 | 高峰期：五月至八月\n風味：比馬糞海膽更溫和；微甜，回味更清爽\n外觀：淡黃至淡橙色；膽黃略小\n最佳用途：以馬糞海膽為主角時的輔助菜式；意麵；醬汁\n港澳定價：每盒港幣600–900元\n\n**加拿大紅海膽**\n產地：加拿大不列顛哥倫比亞省 | 高峰期：十月至三月\n風味：奶油感、甜美、略帶海水味；絕佳平衡\n外觀：金橙色；膽黃較大，比北海道略軟\n最佳用途：全年餐廳菜單、大量運營、酒店宴會\n港澳定價：每盒港幣400–650元——最佳性價比品種\n\n**加州紅海膽**\n產地：美國加利福尼亞州聖塔芭芭拉 | 高峰期：四月至七月\n風味：豐富、奶油感、濃郁甜美——高峰季節可媲美北海道\n外觀：亮橙色；飽滿膽黃\n最佳用途：作為「加州海膽」特色菜的高端菜單定位\n港澳定價：每盒港幣550–800元\n\n**智利海膽（Loxechinus albus）**\n產地：智利巴塔哥尼亞 | 高峰期：一月至五月，九月至十二月\n風味：溫和、清爽；不如日本品種濃烈；良好質地\n外觀：淡黃橙色\n最佳用途：經濟實惠的菜單選項；熟食應用；醬汁\n港澳定價：每盒港幣300–450元"}]]}]
+5:["$","div","3",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"打造全年海膽菜單策略"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"香港澳門頂級餐廳不僅僅被動接受現有供應——他們提前6–8週圍繞已知的季節輪換設計菜單。\n\n**三層次策略：**\n\n第一層 — 主角（六月至八月）：突出展示北海道馬糞海膽AA級。合理化優質菜單定價。在菜單上標明品種和產地。\n\n第二層 — 核心（九月至五月）：將加拿大紅海膽或加州海膽融入核心菜式。比北海道高峰定價低40–50%的穩定品質。不影響用餐體驗。\n\n第三層 — 特色（全年）：保持獲取一種優質「特供」品種的渠道，用於廚師Omakase菜式或限量特色——利尻馬糞海膽、挪威海膽，或高峰期的加州海膽。保持菜單活力，為回頭客提供新體驗。\n\n**提前合約：**\n與供應商協商在季節過渡前4–6週確定數量和價格。這鎖定了供應，消除了食材成本規劃中的價格波動。對於七月至八月高峰期，五月簽訂的合約表現明顯優於七月現貨採購。"}]]}]
+6:["$","div","4",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"警示：淡季或低品質海膽的跡象"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"評估交付產品時——無論季節如何——注意以下品質失敗指標：\n\n❌ **棕色或灰色色澤** — 氧化所致，表明產品老化或儲存不當。立即拒收。\n\n❌ **水分過多、塌陷的膽黃** — 產卵後的產品或溫度管理不當。表明動物已完成繁殖，膽黃品質已耗盡。\n\n❌ **氨味或硫磺味** — 細菌腐敗。提供有安全風險。\n\n❌ **托盤中液體過多** — 庫存老舊或解凍再冷凍產品的跡象。\n\n❌ **「優質」交付中膽黃大小不一** — 表明等級混合。您以AA級價格購買了混合等級產品。\n\n❌ **供應商無法確認收穫日期** — 始終詢問收穫日期。如果他們無法提供，請重新考慮合作關係。\n\n可靠的供應商每次交付時都會提供：原產國、收穫日期、等級認證和冷鏈文件。"}]]}]
+7:["$","div","5",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"2026年市場展望：港澳價格驅動因素"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"多個因素影響著2026年港澳海膽定價：\n\n**北海道供應限制**：氣候變化影響了北海道北部的海帶森林——馬糞海膽的主要食物來源。頂級產區（利尻、禮文島）的收穫一直不穩定。採購商應預期北海道AA級定價在2026年高峰季節保持偏高，並及早鎖定供應商關係。\n\n**加拿大供應充足**：不列顛哥倫比亞省水域狀況良好，加拿大紅海膽供應充裕。這為希望在不增加北海道高峰成本的情況下維持海膽菜單的餐廳創造了強大的性價比機會。\n\n**空運成本正常化**：疫情後日本/加拿大至香港的航空貨運路線已穩定，降低了2022–2024年間出現的物流溢價。到岸成本優勢正在改善。\n\n**需求復甦**：港澳高端餐飲業正強勁復甦。米芝蓮餐廳訂座率和酒店餐飲消費均高於2024年水平。買家對優質產品的競爭將使北海道高峰期價格保持堅挺。\n\n**建議**：計劃六月至八月菜單的餐廳，現在（四月至五月）開始聯繫供應商。酒店宴會業務，加拿大紅海膽提前合約提供最佳成本可預測性。"}]]}]
+8:["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200","children":[["$","h3",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"準備好規劃您的2026年海膽採購策略了嗎？"}],["$","p",null,{"className":"text-gray-700 text-lg mb-6","children":"聯繫稻荷環球食品，討論您餐廳或酒店的季節採購合約。我們為香港和澳門的米芝蓮星級餐廳提供來自北海道、加拿大和加州的驗證、等級認證海膽。"}],["$","a",null,{"href":"/zh-HK/contact","className":"inline-block bg-emerald-600 text-white font-semibold px-8 py-3 rounded-lg hover:bg-emerald-700 transition-colors","children":"聯繫我們"}]]}]
+9:["$","p",null,{"className":"text-gray-700 text-lg mt-8","children":"海膽季節性不是需要管理的複雜性——而是需要把握的機遇。將菜單與季節高峰對齊的餐廳能提供更好的產品、講述更好的採購故事，並更有效地管理食材成本。以上日曆為您提供地圖；可靠的供應商為您提供執行力。"}]
+a:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"海膽三文魚"}],["$","p",null,{"className":"text-sm","children":"您在香港及澳門的優質海膽及三文魚信賴合作夥伴。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"首頁"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/zh-HK/about","className":"hover:text-white","children":"關於我們"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/zh-HK/sea-urchin","className":"hover:text-white","children":"海膽"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/zh-HK/salmon","className":"hover:text-white","children":"三文魚"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/zh-HK/blog","className":"hover:text-white","children":"資訊"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"聯絡我們"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","海膽三文魚",". ","版權所有。"]}]]}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true}]
+c:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null
