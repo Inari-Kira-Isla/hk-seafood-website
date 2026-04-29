@@ -1,0 +1,120 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/7c92e96509cd355e.js"],""]
+14:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+3:T4c3,Atlantic salmon (Salmo salar) farmed in Norway, Scotland, and Chile are all the same species — but environment, feed, water temperature, and husbandry practices create measurable differences in the product that arrives in your kitchen. Pacific salmon species (king/chinook, sockeye, coho) from wild fisheries add a further dimension.
+
+**For HK/Macau buyers, three factors make origin critical:**
+
+**1. Sashimi Grade Claims**: Not all farmed salmon meets sashimi-grade standards. Temperature control during air freight, parasitic load (sea lice), and fat content all vary by origin. Norwegian and Tasmanian operations generally lead on sashimi-grade certifications, though this varies by supplier.
+
+**2. Menu Differentiation**: 'Salmon sashimi' reads the same regardless of origin. 'Norwegian fjord salmon' or 'Scottish organic salmon' adds menu value that justifies a higher menu price and signals sourcing quality to a discerning Hong Kong diner.
+
+**3. Sustainability Credentials**: Hong Kong's fine dining sector increasingly fields questions from corporate clients, hotel groups, and sustainability-conscious consumers about seafood provenance. Origin credentials directly support or undermine those conversations.0:{"buildId":"KZ4tG-CQJQgKvpXUrG1IQ","rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$L2",null,{"href":"/en","className":"text-xl font-bold text-gray-900","children":"Uni & Salmon"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$L2",null,{"href":"/en","className":"text-sm text-gray-700 hover:text-gray-900","children":"Home"}],["$","$L2",null,{"href":"/en/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"About Us"}],["$","$L2",null,{"href":"/en/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"Sea Urchin"}],["$","$L2",null,{"href":"/en/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"Salmon"}],["$","$L2",null,{"href":"/en/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"Blog"}],["$","$L2",null,{"href":"/en/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"Contact"}],["$","$L2",null,{"href":"/zh-HK","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"中文"}]]}]]}]}],["$","main",null,{"className":"min-h-screen bg-slate-50 py-12 px-4 sm:px-6 lg:px-8","children":["$","article",null,{"className":"max-w-3xl mx-auto bg-white rounded-lg shadow-md p-8","children":[["$","div",null,{"className":"mb-8","children":[["$","p",null,{"className":"text-sm text-emerald-600 font-semibold mb-2","children":"Sourcing Guide"}],["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"Norwegian vs Scottish vs Tasmanian Salmon: A Sourcing Guide for HK & Macau Restaurants"}],["$","p",null,{"className":"text-gray-500 text-sm","children":"April 2026"}]]}],["$","div",null,{"className":"prose prose-lg max-w-none mb-12","children":[["$","p",null,{"className":"text-lg text-gray-700 mb-8","children":"The salmon on your menu comes from somewhere — and that origin shapes everything: fat content, flavour intensity, texture, colour, sustainability story, and price. For F&B directors and restaurant buyers in Hong Kong and Macau, where premium seafood menus command premium justification, understanding origin distinctions is not academic. It is the difference between sourcing a commodity and sourcing a story your front-of-house can tell."}],[["$","div","0",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"Why Salmon Origin Matters for HK & Macau Menus"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"$3"}]]}],"$L4","$L5","$L6","$L7","$L8","$L9"],"$La","$Lb"]}]]}]}],"$Lc"],["$Ld"],"$Le"]}],"loading":null,"isPartial":false}
+f:T6b5,Norway dominates global farmed Atlantic salmon — accounting for roughly 55% of world production. The country's long, cold, deep fjords provide near-ideal conditions for salmon farming: low ambient temperatures (6–14°C), strong tidal currents that keep water oxygenated and fish active, and a mature regulatory framework that enforces animal welfare and environmental standards.
+
+**Flavour Profile**
+Fat content: High (18–22% in peak condition)
+Flavour: Rich, mild, clean oceanic taste. The fat integrates smoothly — not greasy. Classic neutral salmon profile that works across applications.
+Colour: Deep pink-orange (natural astaxanthin from feed; synthetic astaxanthin common in mass-market product — premium suppliers use natural)
+Texture: Firm when fresh; silky and yields cleanly when sashimi-sliced
+Best use: Sashimi, sushi, crudo, gravlax, tataki, hot preparations (well-distributed fat handles heat without drying)
+
+**Key Norwegian Regions**
+Hardangerfjord: Known for premium farmed salmon with strong environmental credentials
+Trondheim fjord region: Large-volume production; consistent quality
+Northern Norway (Tromsø/Nordland): Cold-water conditions; premium fat development in slower-growing fish
+
+**Certifications to look for**: ASC (Aquaculture Stewardship Council), GlobalG.A.P., Norwegian Food Safety Authority approval
+
+**For HK/Macau buyers**: Norwegian salmon is the most available and price-competitive premium option. Air freight from Oslo to HK is well-established (typically 2–3 transit days). It is the most versatile default for volume operations. The challenge: it is also the most generic — 'Norwegian salmon' alone lacks the specificity to command the highest menu premiums.4:["$","div","1",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"Norwegian Salmon: The Global Benchmark"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"$f"}]]}]
+10:T864,Scotland's salmon sector has carved a distinct niche: lower-density farming, colder and more exposed waters than Norwegian fjords, and a significant organic certification cluster that has found strong demand in Asia's premium hospitality sector.
+
+**Flavour Profile**
+Fat content: Moderate to high (14–20%); varies more than Norwegian due to lower-density farming and seasonal exposure
+Flavour: Distinctive, slightly more complex than Norwegian. Some describe a subtle sweetness and a 'cleaner' marine note — attributed to the stronger Atlantic tidal influence and lower stocking density. The difference is perceptible to trained palates but not always apparent in cooked applications.
+Colour: Similar to Norwegian but may vary more by farm and season
+Texture: Slightly firmer than Norwegian due to higher current exposure; fish are more active
+Best use: Sashimi, sushi (where texture differentiation is noticeable), premium cured products (gravlax, cold-smoked), presentations where organic certification adds value
+
+**Scottish Organic Distinction**
+Scottish Organic Salmon — certified to Soil Association standards — commands a genuine premium in HK/Macau's hotel and Michelin market. Organic certification means:
+- No synthetic pesticides (physical sea lice treatment only)
+- Minimum 75% organic feed ingredients
+- Lower stocking densities
+- Mandatory welfare audits
+
+For hotel banquet departments and restaurants serving corporate sustainability-focused clients, Scottish organic credentials provide tangible menu-marketing value.
+
+**Key Scottish Regions**
+Orkney Islands: Strong tidal currents; considered among Scotland's finest
+Shetland Islands: Cold, exposed, high-current waters; respected premium production
+Loch Duart: Premium sustainable brand; often cited by name on HK/Macau menus
+Hebrides: Organic specialists; strong sustainability story
+
+**For HK/Macau buyers**: Scottish salmon commands a 15–25% premium over Norwegian standard product. Availability is lower — Scottish farms produce roughly 10x less than Norway. For high-volume operations, Scottish may serve best as a premium feature rather than a default line item.5:["$","div","2",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"Scottish Salmon: Organic and Artisanal Premium"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"$10"}]]}]
+11:T781,Chile is the world's second-largest salmon producer, supplying Atlantic salmon (Salmo salar), Pacific king/chinook, and coho from the Patagonian channels and fjords of the Los Lagos and Aysén regions.
+
+**Flavour Profile**
+Fat content: Moderate (12–16% for Atlantic; higher for king/chinook)
+Flavour: Milder than Norwegian or Scottish; cleaner finish. Some characterise it as less complex — suitable for applications where salmon flavour is one component among many rather than the hero.
+Colour: Typically good; may be slightly lighter than Norwegian depending on feed protocol
+Texture: Good, slightly softer than Northern Atlantic product in some processors; quality varies more by supplier than Norwegian
+Best use: Cooked preparations (grilled, baked, pan-seared), sushi rolls where raw fish is combined with other ingredients, high-volume hotel banquets, staff canteens, bulk operations
+
+**Chilean King/Chinook Salmon**
+Farmed king salmon (chinook) from Chile has attracted significant interest in HK/Macau's premium market. King salmon has the highest fat content of any salmon species (25–30%+ in high-grade specimens) and a distinctly luxurious, almost buttery texture that Norwegian and Scottish Atlantic salmon cannot replicate. Premium Chilean king salmon, when properly sourced and certified, competes directly with Norwegian premium product at similar price points.
+
+**Key Chilean Regions**
+Los Lagos (Puerto Montt): Largest production zone; Atlantic salmon dominant
+Aysén: Remote, colder, less dense farming; premium Atlantic and king salmon
+Magallanes: Extremely remote; highest-quality conditions; limited supply
+
+**For HK/Macau buyers**: Chilean salmon is the value option for volume operations. Standard Chilean Atlantic competes on price, not provenance. Where Chilean salmon differentiates is in king/chinook — specify this specifically when premium texture is needed without Norwegian pricing.6:["$","div","3",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"Chilean Salmon: Volume, Value, and Year-Round Supply"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"$11"}]]}]
+12:T6ee,Tasmania (Australia) produces relatively small volumes of farmed Atlantic salmon from the cold, clean Southern Ocean waters of Macquarie Harbour and Storm Bay. Tasmanian salmon has built a strong reputation in Asia's premium market, particularly Japan — a reputation that has carried into HK/Macau's Michelin circuit.
+
+**Flavour Profile**
+Fat content: High (18–24%; comparable to Norwegian premium)
+Flavour: Intensely rich, clean, buttery. Often described as the 'cleanest' or 'sweetest' of the farmed Atlantic salmons — attributed to Southern Ocean water quality and lower production scale. The fat is notably smooth.
+Colour: Deep, vivid pink-orange
+Texture: Firm, clean-cutting; very high sashimi integrity
+Best use: Premium sashimi, sushi (highest-tier service), crudo, raw preparations where flavour purity is showcased
+
+**Key Producers**
+Huon Aquaculture: One of Australia's largest; strong sustainability credentials; ASC certified
+Tassal: Widely exported; mid-premium positioning
+Petuna: Small volume, high quality; available in selective HK/Macau importers
+
+**Sustainability Context**
+Tasmania's salmon farming has faced environmental scrutiny regarding its impact on Macquarie Harbour's ecosystem. Buyers should verify current ASC certification status rather than relying on general reputation — certifications have been contested and are not universal across all Tasmanian operations.
+
+**For HK/Macau buyers**: Tasmanian salmon commands a 20–35% premium over Norwegian standard. Availability in HK/Macau is limited to specialist importers. For operations where 'Australian premium' origin adds menu value and volume requirements are modest, it is a strong choice. Verify specific farm certifications before marketing sustainability credentials to guests.7:["$","div","4",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"Tasmanian Salmon: Australia's Niche Premium"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"$12"}]]}]
+13:T636,| Attribute | Norwegian | Scottish Organic | Chilean Atlantic | Chilean King | Tasmanian |
+|---|---|---|---|---|---|
+| Fat Content | High | Mod-High | Moderate | Very High | High |
+| Flavour Intensity | Medium-High | Medium-High | Medium | Very High | High |
+| Sashimi Suitability | ★★★★ | ★★★★ | ★★★ | ★★★★★ | ★★★★★ |
+| Volume Availability | Very High | Low | High | Medium | Low |
+| Typical HK Price (per kg) | HK$180–280 | HK$220–350 | HK$140–220 | HK$250–380 | HK$240–380 |
+| Sustainability Credentials | Strong | Very Strong | Variable | Variable | Strong (verify) |
+| Air Freight Lead Time | 2–3 days | 2–3 days | 3–4 days | 3–4 days | 2–3 days |
+| Best Menu Positioning | Volume + quality | Organic premium | Value/volume | Ultra-premium | Clean premium |
+
+**Decision framework:**
+
+**For Michelin/omakase (sashimi hero):** Tasmanian or Scottish organic — provenance story + texture quality justify premium menu pricing
+
+**For hotel banquet (50+ covers, cost-efficient):** Norwegian standard — volume availability, consistent quality, competitive pricing
+
+**For haute cuisine texture showcase:** Chilean king/chinook — highest fat, most luxurious mouthfeel, differentiates from standard Atlantic salmon
+
+**For corporate sustainability-focused clients:** Scottish organic (Soil Association) or Tasmanian ASC-certified — documented third-party certifications hold up to scrutiny
+
+**For year-round menu with varying menu price points:** Norwegian as base; rotate Chilean king and Scottish organic as featured specials8:["$","div","5",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"Side-by-Side Comparison: Decision Matrix for HK & Macau Buyers"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"$13"}]]}]
+9:["$","div","6",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mt-8 mb-4","children":"Practical Sourcing: What to Specify in Your PO"}],["$","p",null,{"className":"text-gray-700 whitespace-pre-wrap","children":"A purchase order that says 'salmon' is not a purchase order — it is an open invitation for supplier substitution. Specify:\n\n**Mandatory fields:**\n- Species (Atlantic salmon / Chinook / Coho)\n- Origin country AND region (e.g., 'Norwegian — Hardangerfjord' not just 'Norwegian')\n- Farm certification (ASC / Organic / GlobalG.A.P.)\n- Grade (sashimi-grade / standard food-service)\n- Fat content minimum if relevant (e.g., '18%+ intramuscular fat for sashimi applications')\n- Processing format (H&G whole, fillet, portion, skin-on vs skin-off)\n- Pack size and net weight\n- Harvest date (not dispatch date)\n- Temperature requirement in transit (0–2°C for fresh; specify if frozen acceptable)\n\n**Red flags in supplier responses:**\n- 'We can supply from various origins' without specifying which → commodity trader, not specialist\n- No certification documentation available\n- 'Sashimi grade' claim without being able to specify fat content or parasite testing\n- Inability to confirm harvest-to-delivery timeline"}]]}]
+a:["$","div",null,{"className":"mt-12 pt-8 border-t border-gray-200","children":[["$","h3",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Source Premium Salmon for Your HK or Macau Restaurant"}],["$","p",null,{"className":"text-gray-700 text-lg mb-6","children":"Inari Global Food supplies premium salmon across multiple origins to restaurants and hotels in Hong Kong and Macau — Norwegian, Scottish, and Chilean, with origin documentation and grade certification on every delivery. Contact us to discuss specifications and volume pricing."}],["$","a",null,{"href":"/en/contact","className":"inline-block bg-emerald-600 text-white font-semibold px-8 py-3 rounded-lg hover:bg-emerald-700 transition-colors","children":"Get in Touch"}]]}]
+b:["$","p",null,{"className":"text-gray-700 text-lg mt-8","children":"Norwegian, Scottish, Chilean, and Tasmanian salmon each occupy a different position on the quality, volume, and provenance spectrum. The best HK and Macau F&B operations don't source a single salmon — they maintain relationships with two or three suppliers across origins, allowing them to match ingredient to application and tell a genuine sourcing story that differentiates their menus. Know what you need before you buy."}]
+c:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"Uni & Salmon"}],["$","p",null,{"className":"text-sm","children":"Your trusted partner for premium sea urchin and salmon in Hong Kong & Macau."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Home"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/en/about","className":"hover:text-white","children":"About Us"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/sea-urchin","className":"hover:text-white","children":"Sea Urchin"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/salmon","className":"hover:text-white","children":"Salmon"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/blog","className":"hover:text-white","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Contact Us"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","Uni & Salmon",". ","All rights reserved."]}]]}]
+d:["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true}]
+e:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+16:null
