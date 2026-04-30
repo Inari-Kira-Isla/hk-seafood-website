@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { isValidLocale, locales, type Locale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/dictionaries";
 import { OrganizationJsonLd, WebSiteJsonLd, FAQJsonLd } from "./structured-data";
+import { GoogleAnalytics } from "@/components/analytics";
 import "../globals.css";
 
 type Props = {
@@ -77,6 +78,7 @@ export default async function LocaleLayout({ children, params }: Props) {
         <OrganizationJsonLd locale={locale} />
         <WebSiteJsonLd locale={locale} />
         <FAQJsonLd locale={locale} />
+        <GoogleAnalytics />
         {children}
       </body>
     </html>

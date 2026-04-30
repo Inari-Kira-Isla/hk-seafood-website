@@ -84,6 +84,20 @@ const content = {
         summary: "10-point checklist for sourcing sashimi-grade salmon in HK & Macau. Quality markers, supplier evaluation, cold chain standards, yield tracking, and 2026 pricing benchmarks.",
       },
       {
+        slug: "japanese-uni-varieties-guide",
+        category: "Product Mastery",
+        date: "April 2026",
+        title: "Japanese Sea Urchin Varieties Compared: Bafun, Murasaki, and Ezo for HK Buyers",
+        summary: "Complete comparison of Hokkaido Bafun, Murasaki, and Ezo Bafun uni for HK and Macau restaurant buyers. Flavour profiles, grading, seasonal windows, pricing, and a delivery inspection checklist.",
+      },
+      {
+        slug: "salmon-origin-comparison",
+        category: "Sourcing Guide",
+        date: "April 2026",
+        title: "Norwegian vs Scottish vs Tasmanian Salmon: A Sourcing Guide for HK & Macau Restaurants",
+        summary: "Compare Norwegian, Scottish, Chilean, and Tasmanian salmon for HK/Macau restaurant sourcing. Fat content, flavour profiles, sustainability credentials, pricing matrix, and a practical decision framework.",
+      },
+      {
         slug: "hk-seafood-market-trends-2026",
         category: "Market Analysis",
         date: "March 2026",
@@ -225,6 +239,20 @@ const content = {
         date: "2026年4月",
         title: "港澳餐廳採購人員優質三文魚採購清單",
         summary: "香港及澳門採購刺身級三文魚的10點清單。品質標準、供應商評估、冷鏈規範、產出追蹤及2026年定價基準。",
+      },
+      {
+        slug: "japanese-uni-varieties-guide",
+        category: "產品專業知識",
+        date: "2026年4月",
+        title: "日本海膽品種比較：馬糞海膽、紫海膽與蝦夷馬糞海膽港澳採購指南",
+        summary: "港澳餐廳採購商的北海道馬糞海膽、紫海膽和蝦夷馬糞海膽完整比較。風味特點、等級制度、季節窗口、定價及驗貨清單。",
+      },
+      {
+        slug: "salmon-origin-comparison",
+        category: "採購指南",
+        date: "2026年4月",
+        title: "挪威vs蘇格蘭vs塔斯馬尼亞三文魚：港澳餐廳採購指南",
+        summary: "比較挪威、蘇格蘭、智利及塔斯馬尼亞三文魚用於港澳餐廳採購。脂肪含量、風味特點、可持續性認證、定價矩陣及實用決策框架。",
       },
       {
         slug: "hk-seafood-market-trends-2026",
