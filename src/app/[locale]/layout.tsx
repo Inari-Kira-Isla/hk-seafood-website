@@ -4,6 +4,7 @@ import { isValidLocale, locales, type Locale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/dictionaries";
 import { OrganizationJsonLd, WebSiteJsonLd, FAQJsonLd } from "./structured-data";
 import { GoogleAnalytics } from "@/components/analytics";
+import { WhatsAppButton } from "@/components/whatsapp-button";
 import "../globals.css";
 
 type Props = {
@@ -80,6 +81,7 @@ export default async function LocaleLayout({ children, params }: Props) {
         <FAQJsonLd locale={locale} />
         <GoogleAnalytics />
         {children}
+        <WhatsAppButton locale={locale} />
       </body>
     </html>
   );

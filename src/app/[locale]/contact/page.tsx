@@ -1,6 +1,7 @@
 import { isValidLocale, type Locale } from "@/i18n/config";
 import { getDictionary } from "@/i18n/dictionaries";
 import { Header, Footer } from "@/components/navigation";
+import { ContactForm } from "./contact-form";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
@@ -81,14 +82,19 @@ export default async function ContactPage({ params }: Props) {
         </section>
 
         <section className="bg-gray-50 py-16 px-4">
-          <div className="max-w-4xl mx-auto grid md:grid-cols-2 gap-8">
-            <div>
-              <h2 className="text-xl font-semibold text-gray-900 mb-2">{c.locationTitle}</h2>
-              <p className="text-gray-600">{c.location}</p>
+          <div className="max-w-6xl mx-auto grid md:grid-cols-3 gap-12">
+            <div className="md:col-span-2 bg-white border border-gray-200 rounded-xl p-8 shadow-sm">
+              <ContactForm locale={locale} />
             </div>
-            <div>
-              <h2 className="text-xl font-semibold text-gray-900 mb-2">{c.hoursTitle}</h2>
-              <p className="text-gray-600">{c.hours}</p>
+            <div className="space-y-6">
+              <div>
+                <h2 className="text-xl font-semibold text-gray-900 mb-2">{c.locationTitle}</h2>
+                <p className="text-gray-600">{c.location}</p>
+              </div>
+              <div>
+                <h2 className="text-xl font-semibold text-gray-900 mb-2">{c.hoursTitle}</h2>
+                <p className="text-gray-600">{c.hours}</p>
+              </div>
             </div>
           </div>
         </section>
