@@ -1,0 +1,217 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/270437cba3e5c91b.js","/_next/static/chunks/7c92e96509cd355e.js"],""]
+17:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+3:T4d0,Most Hong Kong restaurants buy sea urchin through local distributors or wet-market suppliers. It's convenient — they handle import, customs clearance, cold-chain, and delivery — but that convenience has a price.
+
+**Typical cost breakdown (per kg, sashimi-grade uni):**
+
+| Channel | Landed Cost | Your Price | Markup |
+|---|---|---|---|
+| Direct wholesale | $90–120 HKD | $90–120 HKD | 0% |
+| Importer/broker | $90–120 HKD | $130–160 HKD | 25–40% |
+| Local distributor | $90–120 HKD | $170–220 HKD | 50–80% |
+| Wet market | $90–120 HKD | $200–280 HKD | 80–130% |
+
+**The math for a restaurant buying 10 kg/week:**
+• Distributor: $2,000 HKD/week → $104,000/year
+• Direct wholesale: $1,200 HKD/week → $62,400/year
+• Annual saving: **$41,600 HKD**
+
+The trade-off: direct wholesale requires more planning (lead times, minimum orders, import documentation), but for restaurants ordering consistently above 8–10 kg/week, the economics are compelling.
+
+**When to stay with a distributor:**
+• Volume under 5 kg/week (wholesale minimums may not work)
+• No capacity for import paperwork
+• Highly variable demand (banquet-driven, not consistent)
+• Testing a new menu item before committing to volume0:{"buildId":"mOyGLxB6VTihJ9xlsAr0R","rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$L2",null,{"href":"/en","className":"text-xl font-bold text-gray-900","children":"Uni & Salmon"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$L2",null,{"href":"/en","className":"text-sm text-gray-700 hover:text-gray-900","children":"Home"}],["$","$L2",null,{"href":"/en/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"About Us"}],["$","$L2",null,{"href":"/en/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"Sea Urchin"}],["$","$L2",null,{"href":"/en/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"Salmon"}],["$","$L2",null,{"href":"/en/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"Blog"}],["$","$L2",null,{"href":"/en/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"Contact"}],["$","$L2",null,{"href":"/zh-HK","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"中文"}]]}]]}]}],["$","main",null,{"className":"min-h-screen bg-white","children":["$","article",null,{"className":"max-w-3xl mx-auto px-4 py-12 sm:px-6 lg:px-8","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"mb-4","children":["$","span",null,{"className":"inline-block px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm font-semibold mb-3","children":"Buying Guide"}]}],["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"Sea Urchin Wholesale Guide for Hong Kong Restaurants 2026"}],["$","p",null,{"className":"text-gray-600","children":"May 2026"}]]}],["$","div",null,{"className":"prose prose-lg max-w-none mb-12","children":["$","p",null,{"className":"text-lg text-gray-700 leading-relaxed","children":"Wholesale sea urchin buying in Hong Kong is a fundamentally different game from retail or distributor purchasing. Done right, it can cut your per-kg cost by 30–45% while giving you access to fresher product and stronger quality guarantees. Done wrong, it exposes you to supply inconsistency, quality failures, and import paperwork you weren't expecting. This guide walks through everything a Hong Kong restaurant buyer needs to know: pricing tiers, minimum orders, supplier evaluation, contract structure, and how to build a wholesale relationship that holds up through peak seasons."}]}],["$","div",null,{"className":"prose prose-lg max-w-none","children":[["$","div","0",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Wholesale vs. Distributor: Understanding the Cost Structure"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$3"}]]}],"$L4","$L5","$L6","$L7","$L8","$L9","$La"]}],"$Lb","$Lc"]}]}],"$Ld"],["$Le"],"$Lf"]}],"loading":null,"isPartial":false}
+10:T659,Hong Kong wholesale uni pricing varies significantly by origin, season, and grade. These are 2026 benchmark ranges based on direct-import pricing:
+
+**Hokkaido Bafun (Japanese sea urchin, peak quality)**
+• AA-grade: HKD $160–220/kg (June–August peak: $200–260)
+• A-grade: HKD $100–140/kg
+• Minimum order: typically 5–10 kg per delivery
+• Freshness guarantee: 48 hours post-harvest
+
+**Hokkaido Murasaki (Japanese sea urchin, volume variety)**
+• A-grade: HKD $70–100/kg
+• B-grade: HKD $40–60/kg
+• Minimum order: 10 kg per delivery
+• Wider availability, more consistent supply
+
+**Canadian Red Sea Urchin (British Columbia)**
+• AA-grade: HKD $110–150/kg
+• A-grade: HKD $75–105/kg
+• Minimum order: 5–10 kg per delivery
+• Peak quality: October–May (fills the Hokkaido winter gap perfectly)
+• MSC certified: meets ESG requirements
+
+**California Red Sea Urchin (Santa Barbara)**
+• AA-grade: HKD $120–160/kg
+• A-grade: HKD $80–110/kg
+• Minimum order: 5 kg per delivery
+• Best: December–April
+
+**Price modifiers to understand:**
+• Airfreight surcharge: $15–25/kg depending on origin and route
+• Minimum viable order: under 5 kg, airfreight cost makes wholesale uneconomical
+• Peak holiday premium: CNY, Christmas, and summer Hokkaido season add 20–35%
+• Currency fluctuation: JPY/HKD and CAD/HKD rates affect JPY and CAD-denominated product
+
+**Negotiation reality:** Suppliers discount for volume commitments. A restaurant committing to 15 kg/week vs. one ordering ad hoc can negotiate 8–12% lower base pricing plus better delivery priority during peak season.4:["$","div","1",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"2026 Wholesale Pricing: What to Expect"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$10"}]]}]
+11:T593,Minimum order requirements (MOQ) are driven by logistics economics, not supplier preference. Understanding them helps you structure orders efficiently.
+
+**Typical MOQs by supply structure:**
+
+**Direct from Japanese producers (via agent):**
+• Minimum: 10–20 kg per shipment
+• Frequency: weekly or bi-weekly
+• Lead time: 5–7 days from order to Hong Kong delivery
+• Best for: restaurants doing 15+ kg/week
+
+**Hong Kong-based specialist importers:**
+• Minimum: 5 kg per delivery
+• Frequency: twice-weekly or weekly
+• Lead time: 2–3 days
+• Best for: restaurants doing 5–15 kg/week
+
+**Consolidated wholesale (buying alongside other restaurants):**
+• Minimum: 2–3 kg per delivery
+• Frequency: twice-weekly
+• Slightly higher per-kg cost than direct import, but accessible
+• Best for: smaller restaurants that need flexibility
+
+**Practical thresholds for Hong Kong restaurants:**
+
+| Weekly Volume | Recommended Channel | Expected Saving vs. Retail |
+|---|---|---|
+| Under 3 kg | Wet market / distributor | N/A |
+| 3–7 kg | Consolidated wholesale | 20–30% |
+| 7–15 kg | Specialist importer | 30–40% |
+| 15+ kg | Direct producer (via agent) | 35–45% |
+
+**Combining orders:** Some restaurants form informal buying groups with nearby restaurants to collectively meet higher MOQs. This is common in the Wan Chai and Causeway Bay dining clusters — practical and legal, just requires coordination.5:["$","div","2",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Minimum Order Quantities: What's Actually Required"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$11"}]]}]
+12:T809,Not every supplier that claims to offer 'wholesale' pricing delivers genuine value. Ask these seven questions before signing any agreement:
+
+**1. Can you provide harvest certificates for each shipment?**
+Every shipment should include a document showing: harvest date, producer name/license number, harvest location, and species. Japanese shipments should have Hokkaido Prefecture traceability documentation. Canadian shipments should show BC fishery license number. If they can't provide this, walk away.
+
+**2. What is your cold-chain protocol?**
+The answer should include: harvest-to-packing temperature (2–4°C), icing standard during transport, and time-from-packing to delivery. Any gap in this chain degrades quality. Ask to see temperature logs from a recent shipment.
+
+**3. What is your rejection and replacement policy?**
+A credible wholesale supplier will offer credit or replacement within 24–48 hours if product doesn't meet the agreed grade. Vague answers like "we'll see" are a red flag. Get the policy in writing.
+
+**4. Can I visit your facility or meet your producer?**
+For high-volume relationships, reputable suppliers welcome this. Even a video call with the producer demonstrates transparency. A supplier who deflects this question is hiding something about their supply chain.
+
+**5. How do you handle peak-season allocation?**
+Hokkaido uni is constrained in June–August. Ask how they prioritise customers when supply is tight. Suppliers who commit volume to you in writing before the season are vastly preferable to those who say "we'll try our best."
+
+**6. What are your standard contract terms?**
+Look for: grade specification (not vague 'premium' language), pricing structure (fixed base + seasonal adjustment), delivery frequency, minimum order, and termination notice. 30-day notice termination is standard.
+
+**7. Who else do you supply in Hong Kong?**
+A supplier who serves other reputable restaurants (even if they don't name them directly) demonstrates market validation. A supplier with no verifiable references is a risk.6:["$","div","3",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Supplier Evaluation: 7 Questions to Ask Before Committing"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$12"}]]}]
+13:T778,Verbal agreements don't protect you when a shipment arrives wrong at 7am on a Friday before a fully-booked service. A written contract, even a simple one, creates accountability.
+
+**Essential contract elements:**
+
+**Grade specification**
+Never accept 'premium' or 'high quality.' Specify the Japanese grading standard: AA, A, or B, and define the proportion of each acceptable in a delivery (e.g., 'minimum 90% AA-grade lobes per tray, maximum 10% A-grade acceptable').
+
+**Pricing structure**
+Fixed base price per kg, plus documented seasonal adjustment mechanism. Example: 'Base price HKD $140/kg, adjusted quarterly by mutual agreement based on market conditions. Maximum quarterly change: 15%.'
+
+**Delivery schedule**
+Specify days, time windows, and delivery method (direct to kitchen, lobby pickup, etc.). Include what happens if they miss a delivery window — compensation or priority next-delivery is reasonable.
+
+**Freshness guarantee**
+Specify maximum harvest-to-delivery time: '48 hours for AA-grade, 96 hours for A-grade.' Any delivery exceeding this should trigger rejection rights.
+
+**Rejection protocol**
+Define clearly: (1) how to reject a delivery (written notice within 2 hours of receipt), (2) evidence required (photos), and (3) resolution timeline (replacement within 24 hours or credit note within 48 hours).
+
+**Minimum order commitment**
+Protects the supplier's logistics economics. Typical: weekly minimum of 8–10 kg. Include a force majeure clause for slow periods (seasonal menu change, renovation, etc.).
+
+**Term and notice period**
+Initial term of 3–6 months is common, with 30-day rolling renewal. 30-day written notice to terminate.
+
+**A simple starting point:** Before you have a lawyer draft a full contract, a clear email chain establishing the above terms — with acknowledgement from both sides — creates a useful paper trail and often suffices for smaller relationships.7:["$","div","4",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Structuring Your Wholesale Contract"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$13"}]]}]
+14:T5e7,Consistency is the primary advantage of wholesale over ad-hoc buying. Here's how to build a schedule that works:
+
+**Step 1: Calculate your actual weekly volume**
+Track your uni usage for 4 consecutive weeks. Include wastage (typically 8–12% for prep loss). This is your baseline volume.
+
+**Step 2: Build in safety stock**
+Add 15–20% above your baseline for: unexpected rush bookings, special events, or quality rejections that reduce usable product.
+
+**Step 3: Set your delivery schedule**
+For most Hong Kong restaurants:
+• 2 deliveries/week (e.g., Monday + Thursday) is the sweet spot
+• Avoids refrigerator stress from single large weekly deliveries
+• Allows you to adjust volume based on weekend performance
+• Keeps product fresh (never >3–4 days in your refrigerator)
+
+**Step 4: Plan around your busiest periods**
+• Pre-order for Chinese New Year 6–8 weeks in advance
+• Book Hokkaido allocation for June–August by March
+• For Macau-based restaurants: pre-order for major gaming events and Chinese public holidays
+
+**Step 5: Establish a communication rhythm**
+• Weekly: confirm order volume for the coming week by Wednesday
+• Monthly: review grade performance, pricing, and delivery consistency
+• Quarterly: renegotiate pricing, plan seasonal menu changes
+
+**Practical reorder trigger:** Set a simple rule — when your refrigerator stock drops to 2-day supply, trigger reorder. This prevents emergency purchases at retail prices and keeps your supplier relationship predictable.8:["$","div","5",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Building Your Wholesale Supply Schedule"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$14"}]]}]
+15:T6b9,For restaurants buying through a Hong Kong importer or specialist wholesaler, import documentation is handled for you. For restaurants buying directly from Japanese or Canadian producers, you or your freight agent handles it. Here's what's involved:
+
+**Key documents for Japanese sea urchin import:**
+• Commercial invoice (supplier-generated)
+• Packing list
+• Certificate of origin (Japanese export certificate)
+• Health/phytosanitary certificate from Japanese authority
+• Airway bill (from freight forwarder)
+• CITES is not required for sea urchin
+
+**Hong Kong customs:**
+• Sea urchin has zero import duty in Hong Kong under the Free Trade framework
+• Food import registration: importer must be registered with the Centre for Food Safety (CFS)
+• If buying directly, you may need to register as a food importer — a straightforward process
+
+**Canadian sea urchin import:**
+• Similar documentation: invoice, packing list, health certificate from Canadian Food Inspection Agency (CFIA)
+• MSC Chain of Custody documentation if MSC-certified product is specified
+• Airway bill and freight forwarder handling
+
+**Practical advice for first-time direct importers:**
+Partner with a Hong Kong freight forwarder experienced in live/chilled seafood. The cost (typically $1,500–3,000 HKD per shipment for admin + brokerage) is justified by avoiding customs delays that destroy freshness. Names of reputable seafood freight specialists are available through your producer's export agent — they typically work together regularly.
+
+**Simpler alternative:** Buy through a specialist HK importer for your first 3–6 months to learn the market, then evaluate direct import once you understand volume patterns.9:["$","div","6",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Import Documentation: What You Actually Need to Handle"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$15"}]]}]
+16:T77e,**Mistake #1: Ordering by price, not by grade**
+The cheapest per-kg price is meaningless if the grade doesn't match your menu. Always specify grade in writing, then compare prices within the same grade tier.
+
+**Mistake #2: Not tracking yield**
+Wholesale uni arrives by gross weight. After trimming damaged lobes, removing excess liquid, and portioning, your usable yield is typically 82–90% of gross weight. Factor this into your cost-per-portion calculation.
+
+**Mistake #3: Missing seasonal allocation windows**
+Hokkaido Bafun in June–August is constrained. Suppliers allocate their supply weeks in advance. If you haven't confirmed your June order by April, you will get what's left — which is often lower-grade product at peak-season prices.
+
+**Mistake #4: Single-supplier dependency**
+Even the best suppliers face disruptions: weather events affecting harvests, import delays, cold-chain failures. Maintain a relationship with at least one backup supplier. This doesn't require splitting your volume — a backup supplier on standby is enough.
+
+**Mistake #5: Accepting deliveries without inspection**
+Every delivery should be inspected before the driver leaves. Check: color, aroma, liquid level, and harvest date. A rejection made at delivery is clean. A rejection made 2 hours later creates a dispute.
+
+**Mistake #6: Not negotiating on delivery timing**
+Unless you negotiate otherwise, deliveries arrive when convenient for the supplier. For kitchen operations, morning deliveries (before 9am) are ideal. Negotiate your window upfront — most suppliers can accommodate this.
+
+**Mistake #7: Treating the relationship as purely transactional**
+Your best supplier relationships are partnerships, not vendor contracts. Communicate feedback regularly. Let them know when quality is excellent. Pre-book allocation before they offer it to others. This earns you preferential treatment during constrained seasons.a:["$","div","7",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Common Wholesale Mistakes and How to Avoid Them"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$16"}]]}]
+b:["$","div",null,{"className":"border-t border-gray-200 pt-8 mt-12 prose prose-lg max-w-none","children":["$","p",null,{"className":"text-gray-700 leading-relaxed","children":"Wholesale sea urchin buying in Hong Kong rewards preparation and relationship-building over short-term price hunting. Restaurants that establish direct supplier relationships, plan seasonal allocation in advance, and maintain clear quality standards consistently outperform those chasing the cheapest available product. The savings are real — $40,000+ HKD per year for a 10 kg/week buyer — but the real value is consistent access to quality product when you need it most: peak season, peak service, when your guests are counting on it."}]}]
+c:["$","div",null,{"className":"mt-12 p-8 bg-blue-50 rounded-lg border border-blue-200","children":[["$","h3",null,{"className":"text-xl font-bold text-gray-900 mb-3","children":"Start Your Wholesale Relationship with Inari Global Food"}],["$","p",null,{"className":"text-gray-700 mb-4","children":"We supply sashimi-grade sea urchin and salmon directly to Hong Kong and Macau restaurants, with flexible minimum orders starting from 5 kg per delivery. Contact us to discuss your volume, preferred origin, and delivery schedule — and we'll put together a wholesale pricing proposal within 24 hours."}],["$","a",null,{"href":"/en/contact","className":"inline-block px-6 py-3 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition","children":"Get in Touch"}]]}]
+d:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"Uni & Salmon"}],["$","p",null,{"className":"text-sm","children":"Your trusted partner for premium sea urchin and salmon in Hong Kong & Macau."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Home"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/en/about","className":"hover:text-white","children":"About Us"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/sea-urchin","className":"hover:text-white","children":"Sea Urchin"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/salmon","className":"hover:text-white","children":"Salmon"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/blog","className":"hover:text-white","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Contact Us"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","Uni & Salmon",". ","All rights reserved."]}]]}]
+e:["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true}]
+f:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+19:null
