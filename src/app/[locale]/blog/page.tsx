@@ -14,6 +14,13 @@ const content = {
     articlesTitle: "Latest Articles",
     articles: [
       {
+        slug: "sea-urchin-wholesale-guide-hk",
+        category: "Buying Guide",
+        date: "May 2026",
+        title: "Sea Urchin Wholesale Guide for Hong Kong Restaurants 2026",
+        summary: "Complete guide to buying sea urchin wholesale in Hong Kong. Pricing tiers, minimum orders, supplier evaluation, contract terms, and cost-savings analysis — including how to save HKD $40,000+ per year vs. distributor pricing.",
+      },
+      {
         slug: "sea-urchin-guide-2026",
         category: "Sourcing Guide",
         date: "March 2026",
@@ -170,6 +177,13 @@ const content = {
     intro: "香港及澳門海膽及三文魚行業的專業指南及市場洞察。",
     articlesTitle: "最新文章",
     articles: [
+      {
+        slug: "sea-urchin-wholesale-guide-hk",
+        category: "採購指南",
+        date: "2026年5月",
+        title: "香港餐廳海膽批發採購完全指南 2026",
+        summary: "香港海膽批發採購完整指南。定價層級、最低訂量、供應商評估、合約條款及成本節省分析——包括如何相比經銷商定價每年節省超過 $40,000 港幣。",
+      },
       {
         slug: "sea-urchin-guide-2026",
         category: "採購指南",

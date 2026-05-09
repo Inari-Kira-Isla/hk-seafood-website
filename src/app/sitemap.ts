@@ -6,6 +6,7 @@ export const dynamic = "force-static";
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://example.com";
 
 const blogSlugs = [
+  "sea-urchin-wholesale-guide-hk",
   "sea-urchin-guide-2026",
   "salmon-sourcing-guide-hk-macau",
   "salmon-sourcing-guide-comprehensive",
