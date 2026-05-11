@@ -15,6 +15,13 @@ const content = {
     articlesTitle: "Latest Articles",
     articles: [
       {
+        slug: "hk-wedding-banquet-seafood-sourcing",
+        category: "Banquet Operations",
+        date: "May 2026",
+        title: "Hong Kong Wedding Banquet Seafood Sourcing 2026: A Procurement Playbook for Hotels, Halls and Caterers",
+        summary: "Wedding banquet seafood procurement for HK hotels, banquet halls and caterers. Volume planning per table, auspicious-date allocation locking, course-level seafood specs, Friday-morning delivery scheduling, and supplier evaluation specific to wedding operations.",
+      },
+      {
         slug: "macau-seafood-sourcing-guide-2026",
         category: "Macau Guide",
         date: "May 2026",
@@ -185,6 +192,13 @@ const content = {
     intro: "香港及澳門海膽及三文魚行業的專業指南及市場洞察。",
     articlesTitle: "最新文章",
     articles: [
+      {
+        slug: "hk-wedding-banquet-seafood-sourcing",
+        category: "宴會運營",
+        date: "2026年5月",
+        title: "香港婚宴海鮮採購完全指南 2026：酒店、宴會廳及到會的採購攻略",
+        summary: "香港酒店、宴會廳及到會服務的婚宴海鮮採購。每圍量規劃、吉日配額鎖定、菜式級海鮮規格、星期五早上交付時間表，以及針對婚宴運營的供應商評估標準。",
+      },
       {
         slug: "macau-seafood-sourcing-guide-2026",
         category: "澳門指南",
