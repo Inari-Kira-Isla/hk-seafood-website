@@ -1,0 +1,301 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+6:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
+d:I[68027,[],"default"]
+:HL["/_next/static/chunks/33e52d8078f5befc.css","style"]
+0:{"P":null,"b":"f5du_txTN9-BKa6H2KKki","c":["","en","blog","hk-wedding-banquet-seafood-sourcing",""],"q":"","i":false,"f":[[["",{"children":[["locale","en","d"],{"children":["blog",{"children":["hk-wedding-banquet-seafood-sourcing",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/33e52d8078f5befc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/270437cba3e5c91b.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+e:I[68471,["/_next/static/chunks/270437cba3e5c91b.js"],"WhatsAppButton"]
+4:["$","html",null,{"lang":"en","children":["$","body",null,{"className":"antialiased","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":[\"Organization\",\"LocalBusiness\"],\"name\":\"Uni & Salmon\",\"description\":\"Hong Kong and Macau's leading supplier of premium sea urchin (uni) and salmon. Fresh from Japan, Canada, and worldwide sources.\",\"url\":\"https://inari-kira-isla.github.io/hk-seafood-website\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Hong Kong\",\"sameAs\":\"https://www.wikidata.org/wiki/Q8646\"},{\"@type\":\"City\",\"name\":\"Macau\",\"sameAs\":\"https://www.wikidata.org/wiki/Q14773\"}],\"knowsAbout\":[\"Sea urchin\",\"Uni\",\"海膽\",\"Salmon\",\"三文魚\",\"Seafood wholesale\",\"Seafood import\",\"Japanese uni\",\"Sashimi-grade salmon\"],\"makesOffer\":[{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Product\",\"name\":\"Premium Sea Urchin\",\"category\":\"Seafood\",\"description\":\"Premium uni sourced from Japan, Canada, and more. Ideal for sashimi and sushi.\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Product\",\"name\":\"Premium Salmon\",\"category\":\"Seafood\",\"description\":\"Sashimi-grade salmon, air-freighted fresh with guaranteed quality.\"}}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Uni & Salmon\",\"url\":\"https://inari-kira-isla.github.io/hk-seafood-website\",\"inLanguage\":[{\"@type\":\"Language\",\"name\":\"English\",\"alternateName\":\"en\"},{\"@type\":\"Language\",\"name\":\"Chinese (Traditional, Hong Kong)\",\"alternateName\":\"zh-HK\"}],\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://inari-kira-isla.github.io/hk-seafood-website/search?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Where can I buy fresh sea urchin in Hong Kong?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"We supply fresh sea urchin (uni) sourced from Japan, Canada, and more, delivered directly to Hong Kong and Macau. Available wholesale and retail.\"}},{\"@type\":\"Question\",\"name\":\"What grades of salmon do you offer?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Salmon is primarily graded as sashimi-grade and cooking-grade. We specialize in sashimi-grade salmon suitable for raw consumption and fine dining.\"}},{\"@type\":\"Question\",\"name\":\"What varieties of sea urchin do you supply?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"We supply various types of uni including Japanese Bafun uni, Murasaki uni, Canadian red sea urchin, and more, depending on season and origin.\"}}]}"}}],null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$Le",null,{"locale":"en"}]]}]}]
+f:I[22016,["/_next/static/chunks/270437cba3e5c91b.js","/_next/static/chunks/7c92e96509cd355e.js"],""]
+10:T9ae,HK wedding banquets cluster around four venue types, each with distinct seafood demand patterns:
+
+**5-star hotel ballrooms (Cotai-equivalent of HK)**
+• Properties: Four Seasons, Mandarin Oriental, Peninsula, Ritz-Carlton, Rosewood, Conrad, Grand Hyatt, JW Marriott, Shangri-La
+• Typical event size: 20–50 tables (240–600 guests)
+• Seafood-heavy courses: cold appetiser platter, abalone+sea cucumber, lobster sashimi (premium), uni course (super-premium)
+• Per-event uni requirement: 0.8–2.5 kg (premium add-on); 4–8 kg (uni-feature menus)
+• Per-event salmon requirement: 8–25 kg sashimi-grade
+• Premium upsell rate: 60–80% of bookings include some seafood premium upgrade
+
+**4-star and boutique hotel banquet halls**
+• Properties: dozens across Kowloon, HK Island, NT
+• Typical event size: 15–35 tables
+• Seafood courses: standard 9-course Cantonese with cold platter, scallop, fish course
+• Premium upsell rate: 30–50%
+
+**Dedicated Chinese banquet restaurants and halls**
+• Properties: Heichinrou, Yat Tung Heen, Lung King Heen-style operations, plus banquet-specialised halls in Kowloon Bay, Tsuen Wan, Sha Tin
+• Typical event size: 10–40 tables
+• Often run multiple events per evening (afternoon + evening seatings on Saturdays)
+• Seafood approach: traditional Cantonese expectations dominate; uni still niche but salmon cold cuts increasingly common
+
+**Outside catering operators (yacht weddings, private estates, garden venues)**
+• Smaller per-event volumes but higher per-kg cost tolerance
+• Logistics complexity: temperature management at non-kitchen venues
+• Premium pricing but unforgiving margins if supplier fails
+
+**The seasonality you must plan around:**
+
+• **Peak wedding months**: October, November, December, March, April, May (Lunar calendar auspicious dates concentrate within these)
+• **Auspicious-date Saturdays**: 6–10 dates per year carry 2–3x normal weekend volume across the city
+• **Off-peak**: July, August (hot/typhoon season), February (post-CNY lull)
+• **Suppressed dates**: 7th lunar month (鬼月, ghost month — minimal weddings)
+
+**Why this matters for sourcing:** Auspicious-date Saturdays are the hardest moments in HK seafood supply. Every 5-star hotel needs premium-grade uni and salmon on the same day. Suppliers without pre-locked allocation will turn you down or substitute downward. The banquet operations that win on these dates booked their supply 12–16 weeks earlier.5:[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$Lf",null,{"href":"/en","className":"text-xl font-bold text-gray-900","children":"Uni & Salmon"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$Lf",null,{"href":"/en","className":"text-sm text-gray-700 hover:text-gray-900","children":"Home"}],["$","$Lf",null,{"href":"/en/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"About Us"}],["$","$Lf",null,{"href":"/en/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"Sea Urchin"}],["$","$Lf",null,{"href":"/en/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"Salmon"}],["$","$Lf",null,{"href":"/en/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"Blog"}],["$","$Lf",null,{"href":"/en/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"Contact"}],["$","$Lf",null,{"href":"/zh-HK","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"中文"}]]}]]}]}],["$","main",null,{"className":"min-h-screen bg-white","children":["$","article",null,{"className":"max-w-3xl mx-auto px-4 py-12 sm:px-6 lg:px-8","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"mb-4","children":["$","span",null,{"className":"inline-block px-3 py-1 bg-rose-100 text-rose-800 rounded-full text-sm font-semibold mb-3","children":"Banquet Operations"}]}],["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"Hong Kong Wedding Banquet Seafood Sourcing 2026: A Procurement Playbook for Hotels, Halls and Caterers"}],["$","p",null,{"className":"text-gray-600","children":"May 2026"}]]}],["$","div",null,{"className":"prose prose-lg max-w-none mb-12","children":["$","p",null,{"className":"text-lg text-gray-700 leading-relaxed","children":"Hong Kong runs one of the densest wedding banquet calendars in Asia. Auspicious-date weekends concentrate 40–80 banquets across hotels, Chinese restaurants, and dedicated halls in a single Saturday night. Sea urchin and salmon increasingly anchor the cold-appetiser course on premium menus, and the supply chain that supports them looks nothing like routine restaurant ordering. A single weekend can require 200+ kg of salmon and 40+ kg of uni across a property's events. Allocation is locked weeks ahead. Cold-chain windows are tight. And one missed delivery puts a couple's once-in-a-lifetime night at risk. This guide is a procurement playbook for the people who actually source for HK wedding banquets — banquet managers, F&B directors, catering operators, and wedding planners — covering volume math, seasonality, course-level specs, delivery scheduling, and the supplier criteria that matter when stakes are non-negotiable."}]}],["$","div",null,{"className":"prose prose-lg max-w-none","children":[["$","div","0",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"The Hong Kong Wedding Banquet Landscape: Volume, Seasons, Course Role"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$10"}]]}],"$L11","$L12","$L13","$L14","$L15","$L16"]}],"$L17","$L18"]}]}],"$L19"]
+1a:T8b4,Standard HK Cantonese wedding menus run 8–10 courses. Sea urchin and salmon don't appear in every course — knowing exactly where they fit lets you size orders correctly.
+
+**Course 1: Cold Appetiser Platter (前菜拼盤)**
+Most common entry point for premium seafood. Standard composition: jellyfish, drunken chicken, marinated cucumber, century egg. Premium upgrades commonly add:
+• Salmon sashimi rosettes — 30–50g per table (8–12 guest table = ~3–4g per guest)
+• Smoked salmon canapés — 40–60g per table
+• Salmon tartare cups — 30–40g per table
+
+Volume math: 30 tables × 40g = 1.2 kg salmon for a single banquet just for this course
+
+**Course 2: Soup (羹/湯)**
+Rarely uses sea urchin or salmon. Skip for sourcing purposes.
+
+**Course 3–4: Hot Seafood (海鮮類)**
+Typically lobster, abalone, scallop, garoupa. Salmon as a hot course is uncommon in traditional Cantonese banquets but appears in fusion menus.
+
+**Premium Add-On: Uni Feature (海膽特色菜)**
+Increasingly common at 5-star properties as a 'special course' add-on charged at HKD $180–380 per guest:
+• Uni rice bowl mini (海膽飯) — 8–12g uni per guest = 100–150g per table
+• Uni & scallop sashimi pairing — 10–15g uni per guest = 120–180g per table
+• Uni custard (uni chawanmushi style) — 6–8g per guest = 80–100g per table
+
+Volume math: 30 tables × 130g uni = 3.9 kg for one banquet's uni course
+
+**Course 5–6: Poultry, Vegetable, Rice/Noodle**
+No seafood typically.
+
+**Course 7: Fish Course (魚)**
+Steamed fish — usually grouper, leopard coral grouper, or seasonal whole fish. Not a salmon/uni course.
+
+**Course 8: Dessert (甜品)**
+No seafood.
+
+**Practical sizing summary for a 30-table 5-star wedding with premium upsells:**
+
+| Item | Per table | 30 tables | Buffer (10%) | Order |
+|---|---|---|---|---|
+| Salmon sashimi (cold platter) | 40g | 1.2 kg | 0.12 kg | 1.4 kg |
+| Uni (feature course, if booked) | 130g | 3.9 kg | 0.4 kg | 4.3 kg |
+| Salmon (any hot/fusion course) | 80g | 2.4 kg | 0.24 kg | 2.7 kg |
+
+**Always order with 10–15% buffer.** Banquet kitchens can't substitute on event day. A single short shipment ruins the chef's mise en place and the couple's plated experience.11:["$","div","1",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Course-Level Specifications: Where Sea Urchin and Salmon Fit the 9-Course Banquet"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$1a"}]]}]
+1b:Ta0d,Wedding banquet sourcing happens on a different timeline than restaurant operations. The booking-to-event window is the planning horizon.
+
+**Standard HK wedding booking timeline:**
+
+• **12–18 months ahead**: Couple secures venue, signs deposit
+• **6–9 months ahead**: Menu tasting, course-level decisions confirmed
+• **3–4 months ahead**: Guest count locked, table count finalized, premium upsells confirmed
+• **8–12 weeks ahead**: F&B procurement should lock supplier allocation
+• **2–3 weeks ahead**: Final guest count tweaks (typically ±1–2 tables)
+• **Event week**: Delivery scheduling confirmed, contingency plans in place
+
+**The 8–12 week allocation window is non-negotiable for premium seafood.** This is when:
+• Hokkaido uni allocations are still flexible at the importer level
+• Salmon week-of-event spot pricing risk is low
+• Suppliers can confirm specific grades and origins
+
+**The forecasting calculation banquet F&B teams should run weekly:**
+
+```
+For each event in the next 12 weeks:
+  Tables × per-table seafood spec = base requirement
+  + 10–15% buffer for spoilage/yield
+  = order quantity
+
+Aggregate by week:
+  Week of [date]: total uni + total salmon required
+  Compare to supplier confirmed allocation
+  Flag gaps to procurement immediately
+```
+
+**Auspicious-date Saturday allocation: the special case**
+
+For weekends carrying 5+ events at one property (or 30+ events across HK), normal allocation falls apart. Practical responses:
+
+• **Lock supplier allocation 16–20 weeks ahead** with written commitment letters specifying volume, grade, and price ceiling
+• **Diversify across 2 suppliers** for these dates, splitting volume 70/30 to maintain backup capacity
+• **Pre-pay or deposit** for confirmed allocation when supplier requests — this is normal practice for top accounts
+• **Specify substitute protocols in writing**: if Hokkaido AA Bafun is unavailable on event day, what is the acceptable substitution path?
+
+**The 'forgotten' upsell tracking problem**
+
+A frequent gap in HK banquet operations: a couple confirms a uni upsell at the 6-month tasting, but the procurement team only sees the final BEO (banquet event order) at 4 weeks. By then, allocation is locked and supplier may not have inventory for the additional volume. Fix this by:
+
+• Building a uni/salmon upsell tracker that captures upsells immediately at booking
+• Sending procurement a weekly "new upsells" digest
+• Pre-allocating headroom in supplier orders for late-confirmed upsells (5–10% additional volume held in reserve)12:["$","div","2",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Volume Planning: From Booking Confirmation to Allocation Lock"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$1b"}]]}]
+1c:T92e,Banquet kitchens have narrow operational windows. Delivery timing is as important as product quality.
+
+**The Saturday-night banquet timeline (typical):**
+
+• **Friday morning–afternoon**: Mise en place begins for Saturday events
+• **Friday evening**: Cold appetisers prepped, sashimi-cut salmon stored
+• **Saturday morning**: Final mise en place, last delivery acceptable
+• **Saturday 16:00–18:00**: Setup and pre-banquet prep complete
+• **Saturday 18:30–22:30**: Banquet service
+
+**The implication for sourcing:** Salmon and uni for Saturday banquets should arrive Friday morning. This gives the kitchen 24–30 hours of controlled cold storage time before service — enough to allow inspection, rejection if needed, and re-supply if anything fails.
+
+**Delivery scheduling rules of thumb:**
+
+• **Saturday banquet**: deliver Friday 09:00–13:00
+• **Sunday banquet**: deliver Saturday 09:00–13:00 (or Friday with longer storage)
+• **Auspicious-date weekend (multiple events)**: stagger deliveries Thursday + Friday to spread cold-chain load and reduce rejection risk
+• **Mid-week banquet (corporate, smaller weddings)**: deliver day-before, before 12:00
+
+**Cold-chain checklist on receiving (banquet-specific):**
+
+• Temperature on arrival: ≤4°C for salmon, ≤2°C for uni
+• Visual inspection: salmon flesh colour, fat marbling, no blood pooling; uni colour vibrancy, no off-odour, no liquid in tray
+• Documentation: harvest date, supplier batch number, cold-chain log
+• Rejection protocol must be defined in writing in advance — banquet kitchens cannot make rejection decisions ad-hoc on event week
+
+**Backup delivery contingency:**
+
+For major events (50+ tables, auspicious-date Saturdays), the procurement team should pre-arrange:
+
+• Secondary supplier confirmed available with same-day or next-morning emergency delivery capability
+• On-property cold storage with verified backup capacity (in case primary cooler fails)
+• Clear escalation chain: who decides to invoke contingency, and within what time window
+
+**The expensive lesson learned by HK hotels:** A supplier delivering Friday afternoon for Saturday-night banquet leaves no recovery window. If product fails inspection, there is no time to source replacement. Friday morning delivery is the standard for properties that have been burned once.13:["$","div","3",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Cold-Chain Delivery Scheduling for Banquet Operations"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$1c"}]]}]
+1d:Tad9,Banquet F&B operates on visible per-guest pricing. Understanding the cost structure helps you price upsells correctly and protect margin.
+
+**Per-guest cost breakdown for premium seafood courses:**
+
+**Salmon sashimi cold platter add-on (40g per guest)**
+• Salmon cost (sashimi-grade Norwegian/Scottish): HKD $5.50–8.00 per guest at 40g
+• Plate-up labour: HKD $2.00 per guest
+• Garnish + accoutrements: HKD $1.50 per guest
+• Total food cost: HKD $9–11.50 per guest
+• Typical menu add-on price: HKD $48–88 per guest
+• Gross margin: 78–87%
+
+**Uni feature course (130g per table = 12g per guest at 11-guest table)**
+• Uni cost (Hokkaido Murasaki A grade): HKD $1.10–1.40 per gram = HKD $13.20–16.80 per guest
+• Premium uni (Bafun AA): HKD $2.20–2.90 per gram = HKD $26.40–34.80 per guest
+• Plate-up labour, accompaniments, plating: HKD $5–8 per guest
+• Total food cost (Murasaki version): HKD $18–25 per guest
+• Total food cost (Bafun version): HKD $32–43 per guest
+• Typical menu add-on price: HKD $180–380 per guest
+• Gross margin: 80–90%
+
+**Where margin leaks in banquet seafood operations:**
+
+• **Over-ordering**: 15% buffer is standard, 25%+ buffer wastes margin on high-cost items. Track yield-after-trim by supplier and use that data to right-size buffers.
+• **Wrong-grade procurement**: ordering Bafun AA when the menu specifies Murasaki A (or vice versa) is a 2x cost differential. Confirm grade specification at the F&B order step, not just verbally.
+• **Spot-buying for forgotten upsells**: spot uni purchases at 7-day lead time can run 30–60% above confirmed allocation prices. Build the upsell tracker mentioned earlier to prevent this.
+• **Substitution downgrades**: when supplier delivers B-grade or off-origin product because allocation wasn't locked, the kitchen still pays committed prices. Written commitment letters at allocation lock prevent this.
+• **Cold-chain failure write-offs**: a single cold-chain incident on a Saturday auspicious date can cost HKD $15,000–40,000 in product loss. Backup delivery and on-property cold storage redundancy are insurance.
+
+**The premium upsell economics for the banquet operator:**
+
+A 30-table wedding with 80% upsell take rate generates:
+• 264 guests × 80% = 211 upsell guests
+• Salmon platter upsell at HKD $68/guest × 211 = HKD $14,348 incremental revenue
+• Uni feature course at HKD $280/guest × 211 = HKD $59,080 incremental revenue
+• Combined incremental gross margin (~85%): ~HKD $62,400 from one event
+
+For a property running 80 weddings per year, this is HKD $5M+ in incremental margin from premium seafood upsells alone. The procurement reliability that enables this is the business case for investing in a strong supplier relationship.14:["$","div","4",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Cost Structure: Where Margin Lives in Banquet Seafood"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$1d"}]]}]
+1e:Tb50,Generic supplier criteria apply (grade, cold-chain, documentation). Banquet operations layer on three additional must-haves:
+
+**1. Volume scaling capability for auspicious-date weekends**
+
+A supplier servicing 3 hotels needs to scale 5x on a single Saturday. Most cannot. Ask:
+• What is the largest single-day delivery volume you have executed in the last 12 months?
+• How many wedding-banquet accounts do you serve, and what is your peak-Saturday combined volume?
+• If our property has a 50-table wedding on the same Saturday as 8 other properties' weddings, can you commit volume to all of us?
+• Show me the supplier-side allocation calendar for the next 4 auspicious-date Saturdays
+
+**2. Friday-morning delivery commitment**
+
+Late-Friday or Saturday-morning delivery is unacceptable for major banquet events. Ask:
+• Can you commit to delivery before 13:00 on the day before any banquet event?
+• What is your contingency if your normal Friday-morning truck fails?
+• Do you have a Macau-side or HK-side warehouse that can run emergency deliveries?
+• Show me your Friday-morning on-time delivery rate for the last 6 months
+
+**3. Written substitution protocol**
+
+When the planned product is unavailable, the substitution path must be defined in writing before the event. Ask:
+• If Hokkaido Bafun AA is unavailable, what specific product will you substitute, at what price?
+• Who decides on substitution — your team or ours, and within what time window?
+• Is the substitution price-protected to the original commitment, or does it float?
+• What is your refund policy if you cannot deliver the committed product or an acceptable substitute?
+
+**Red flags specific to banquet seafood sourcing:**
+
+• Supplier won't commit to specific Friday delivery window — vague "day-before delivery" is not enough
+• Supplier resists written allocation commitments for auspicious-date Saturdays
+• Supplier substitutes grades or origins without prior notice on regular orders (signal of how they will behave on event week)
+• Supplier cannot produce documented Friday-morning delivery rate data
+• No clear escalation contact for event-week emergencies (a single sales rep is not enough — there must be ops/dispatch contact)
+
+**The relationship pattern that works for HK banquet operations:**
+
+• Quarterly business reviews focused on the next 13 weeks of confirmed events
+• Monthly volume forecasting calls with the F&B team
+• Pre-locked allocation for all auspicious-date Saturdays 16+ weeks ahead
+• Joint contingency planning for the 8–10 highest-stakes events of the year
+• Open invoicing reconciliation and quality issue logging
+
+Suppliers willing to operate at this engagement level are the ones worth committing to. Suppliers who treat banquet accounts as transactional volume are the ones who fail you on the wedding the couple has been planning for two years.15:["$","div","5",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Supplier Evaluation: What Banquet Operations Should Specifically Demand"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$1e"}]]}]
+1f:T88d,**The procurement workflow for a single wedding event, end-to-end:**
+
+**At booking (12–18 months out)**
+• Capture intended event date, expected guest count, premium upsell intent
+• Flag auspicious-date Saturdays immediately — these need supplier-side awareness within the week
+
+**At menu tasting (6–9 months out)**
+• Lock course composition; confirm seafood premium upsells
+• Calculate provisional volume requirement: tables × per-table spec
+• Communicate provisional volume to procurement team
+
+**At guest count lock (3–4 months out)**
+• Refine volume calculation
+• Confirm allocation request to supplier in writing
+• Receive supplier allocation confirmation in writing (volume, grade, price ceiling, delivery window)
+
+**At allocation lock (8–12 weeks out)**
+• Final volume committed in writing both directions
+• Substitution protocol confirmed in writing
+• Backup supplier identified for contingency volume
+• Cold-chain delivery window confirmed (Friday morning for Saturday events)
+
+**Event week (final adjustments)**
+• Confirm any guest-count tweaks (≤±2 tables typical)
+• Reconfirm delivery scheduling 72 hours ahead
+• Verify on-property cold storage capacity
+• Final BEO (banquet event order) distributed to kitchen, procurement, dispatch
+
+**Event day (Friday delivery → Saturday service)**
+• Friday 09:00–13:00: receive delivery, inspect, reject if needed
+• Friday 13:00–18:00: kitchen mise en place
+• Saturday morning: final prep, last sashimi cuts
+• Saturday 18:30–22:30: service
+• Saturday post-event: yield-after-use logged for next forecast cycle
+
+**Post-event (within 7 days)**
+• Yield analysis: actual usage vs. ordered, by product
+• Quality feedback to supplier (positive AND negative)
+• Update sourcing parameters for next event of similar profile
+• Reconcile invoicing
+
+**One thing not to skip:** Maintain a per-event sourcing log capturing actual product received, grade, yield, and any quality issues. Over 12 months, this data tells you which supplier is reliable for banquet accounts and which is not. Banquet F&B operations that source by gut feel get burned. The ones that source by data don't.16:["$","div","6",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Practical Playbook: From Wedding Booking to Event Execution"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$1f"}]]}]
+17:["$","div",null,{"className":"border-t border-gray-200 pt-8 mt-12 prose prose-lg max-w-none","children":["$","p",null,{"className":"text-gray-700 leading-relaxed","children":"HK wedding banquet seafood sourcing rewards operations that treat it as a high-stakes, time-locked supply chain rather than a routine restaurant order. The economics are favourable — premium upsells generate exceptional margin — but the execution risk is unforgiving. A single failed delivery on an auspicious-date Saturday can cost six figures in product, reputation, and customer goodwill. Hotels, banquet halls, and catering operators that win at this game lock allocation 8–16 weeks ahead, demand Friday-morning delivery commitments in writing, build substitution protocols before they need them, and treat their seafood supplier as a strategic partner rather than a transactional vendor. The procurement discipline pays back in margin, reliability, and a reputation that books out the next year's auspicious-date Saturdays."}]}]
+18:["$","div",null,{"className":"mt-12 p-8 bg-rose-50 rounded-lg border border-rose-200","children":[["$","h3",null,{"className":"text-xl font-bold text-gray-900 mb-3","children":"Premium Seafood for HK Wedding Banquet Operations — Inari Global Food"}],["$","p",null,{"className":"text-gray-700 mb-4","children":"We supply sashimi-grade sea urchin and salmon to Hong Kong hotel banquet operations, dedicated wedding halls, and outside catering operators — with auspicious-date allocation locking, Friday-morning delivery commitments, written substitution protocols, and event-volume scaling capability. Contact us to discuss your wedding event calendar, premium upsell expectations, and supplier evaluation criteria, and we'll put together a banquet sourcing proposal within 24 hours."}],["$","a",null,{"href":"/en/contact","className":"inline-block px-6 py-3 bg-rose-600 text-white rounded-lg font-semibold hover:bg-rose-700 transition","children":"Get in Touch"}]]}]
+19:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"Uni & Salmon"}],["$","p",null,{"className":"text-sm","children":"Your trusted partner for premium sea urchin and salmon in Hong Kong & Macau."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Home"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$Lf",null,{"href":"/en/about","className":"hover:text-white","children":"About Us"}]}],["$","li",null,{"children":["$","$Lf",null,{"href":"/en/sea-urchin","className":"hover:text-white","children":"Sea Urchin"}]}],["$","li",null,{"children":["$","$Lf",null,{"href":"/en/salmon","className":"hover:text-white","children":"Salmon"}]}],["$","li",null,{"children":["$","$Lf",null,{"href":"/en/blog","className":"hover:text-white","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Contact Us"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","Uni & Salmon",". ","All rights reserved."]}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+20:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"IconMark"]
+8:null
+c:[["$","title","0",{"children":"Hong Kong Wedding Banquet Seafood Sourcing 2026: A Procurement Playbook for Hotels, Halls and Caterers | Premium Sea Urchin & Salmon | Hong Kong & Macau"}],["$","meta","1",{"name":"description","content":"Wedding banquet seafood sourcing for Hong Kong hotels, banquet halls and caterers. Volume planning per table, peak-season allocation, course-level seafood specs, cold-chain delivery scheduling, and supplier evaluation specific to wedding operations."}],["$","meta","2",{"name":"keywords","content":"sea urchin, uni, salmon, Hong Kong, Macau, seafood, Japanese uni, premium seafood, wholesale seafood, fresh salmon"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://inari-kira-isla.github.io/hk-seafood-website/en/blog/hk-wedding-banquet-seafood-sourcing/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://inari-kira-isla.github.io/hk-seafood-website/en/blog/hk-wedding-banquet-seafood-sourcing/"}],["$","link","6",{"rel":"alternate","hrefLang":"zh-HK","href":"https://inari-kira-isla.github.io/hk-seafood-website/zh-HK/blog/hk-wedding-banquet-seafood-sourcing/"}],["$","meta","7",{"property":"og:title","content":"Hong Kong Wedding Banquet Seafood Sourcing 2026: A Procurement Playbook for Hotels, Halls and Caterers"}],["$","meta","8",{"property":"og:description","content":"Wedding banquet seafood sourcing for Hong Kong hotels, banquet halls and caterers. Volume planning per table, peak-season allocation, course-level seafood specs, cold-chain delivery scheduling, and supplier evaluation specific to wedding operations."}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Premium Sea Urchin & Salmon | Hong Kong & Macau"}],["$","meta","12",{"name":"twitter:description","content":"Hong Kong and Macau's leading supplier of premium sea urchin (uni) and salmon. Fresh from Japan, Canada, and worldwide sources. Wholesale and retail."}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L20","14",{}]]
