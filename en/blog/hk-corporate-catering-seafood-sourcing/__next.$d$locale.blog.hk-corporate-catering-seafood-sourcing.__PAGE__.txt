@@ -1,0 +1,389 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/270437cba3e5c91b.js","/_next/static/chunks/7c92e96509cd355e.js"],""]
+16:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+17:"$Sreact.suspense"
+3:T498,Hong Kong runs one of Asia's densest corporate event calendars. Year-end gala dinners, product launches, AGM cocktails, conference luncheons, and association banquets concentrate from October through January and again from March through May. Premium seafood — particularly sea urchin and salmon — increasingly anchors the premium course or canapé station at these events. But corporate catering procurement looks nothing like restaurant operations and only superficially resembles wedding banquet sourcing. Lead times are shorter. Headcount swings late. Venues are often non-kitchen ballrooms or outdoor settings with no chef-controlled cold storage. And the corporate buyer — usually a marketing manager, HR business partner, or event agency — is not a trained F&B professional. This guide is a procurement playbook for the people who actually source seafood for HK corporate events: catering operations directors, event agencies, hotel banquet F&B managers, and corporate procurement leads, covering RFP specs, last-mile logistics, headcount-change protocols, and the supplier criteria that protect the brand impression a company is paying premium prices to create.4:Teaf,HK corporate catering breaks into five event archetypes, each with distinct seafood demand and procurement constraints:
+
+**Year-end gala dinners (尾牙 / annual dinner)**
+• Peak window: mid-November to mid-January
+• Typical event size: 200–800 guests (industry associations and corporates), 30–200 (departmental)
+• Venues: 5-star hotel ballrooms, Convention & Exhibition Centre, AsiaWorld-Expo, banquet halls
+• Seafood role: premium cold appetiser course is standard; uni feature add-on growing
+• Per-event uni: 1–6 kg (premium add-on); 8–15 kg (uni-feature menus, less common)
+• Per-event salmon: 15–60 kg sashimi-grade
+• Booking lead time: 6–12 weeks ahead (much shorter than weddings)
+
+**Product launch events**
+• Peak windows: March–May (spring launches), September–November (fall/holiday launches)
+• Typical event size: 80–400 guests (canapé/cocktail format dominant)
+• Venues: hotel ballrooms, art galleries, retail spaces, yacht charters, private venues
+• Seafood role: canapé stations with salmon (gravlax, tartare, cured) and uni canapés (uni-on-spoon, uni croquette)
+• Per-event uni: 0.5–3 kg (canapé portions are 4–8g per piece, ~1.5 pieces per guest)
+• Per-event salmon: 8–30 kg (canapé-format yields 2–3x portions per kg vs. plated)
+• Booking lead time: 4–10 weeks ahead
+
+**Annual general meetings (AGM) + investor events**
+• Peak windows: March–May (calendar-year-end Hong Kong listed companies), September–November (interim results season)
+• Typical event size: 50–300 (shareholders/investors), 20–80 (analyst lunches)
+• Venues: hotel meeting rooms, private dining, exchange-side venues, financial district hotels
+• Seafood role: premium plated lunch or seated dinner; sashimi platters increasingly served at lunch
+• Per-event uni: 0.3–1.5 kg
+• Per-event salmon: 5–18 kg
+• Booking lead time: 4–8 weeks ahead
+
+**Conference luncheons + summit dinners**
+• Peak windows: industry-dependent (finance: November, March; tech: May, October; retail: August)
+• Typical event size: 100–1,200 guests (large conferences), 200–500 (typical summit)
+• Venues: HKCEC, AsiaWorld-Expo, hotel ballrooms
+• Seafood role: buffet station seafood (poached salmon, salmon sushi), occasional premium cold platter
+• Per-event uni: rare (cost barrier at scale)
+• Per-event salmon: 30–120 kg (buffet) — significantly larger than plated formats
+• Booking lead time: 8–16 weeks ahead
+
+**Association banquets + chamber events**
+• Peak windows: chapter-specific, but commonly Q4 and Q1
+• Typical event size: 150–500 guests
+• Venues: hotel ballrooms, member-owned halls
+• Seafood role: similar to gala dinner pattern; often a more formal Chinese banquet format with premium upsells
+• Per-event uni: 1–4 kg
+• Per-event salmon: 12–40 kg
+• Booking lead time: 6–10 weeks ahead
+
+**The seasonality compression in HK corporate calendar:**
+
+• **Mid-November to mid-January**: year-end gala dinner peak; 5x normal volume on the busiest Friday/Saturday weeks
+• **March–April**: spring product launches + AGM season
+• **August–September**: industry summit + autumn pre-launch events
+• **October–November**: pre-year-end launch season + association banquets
+• **Suppressed periods**: late January (CNY lead-up), July (school holidays + typhoon)
+
+**Why this matters for sourcing:** Corporate event bookings often arrive with shorter lead times than wedding banquets but with similar volume demands during peak weeks. Suppliers who treat corporate catering as overflow capacity will fail you. Suppliers who plan corporate-specific allocation alongside wedding banquet capacity are the ones who can deliver during the November–January peak.0:{"buildId":"dFJRyrHJDC2RQSM5DKHei","rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$L2",null,{"href":"/en","className":"text-xl font-bold text-gray-900","children":"Uni & Salmon"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$L2",null,{"href":"/en","className":"text-sm text-gray-700 hover:text-gray-900","children":"Home"}],["$","$L2",null,{"href":"/en/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"About Us"}],["$","$L2",null,{"href":"/en/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"Sea Urchin"}],["$","$L2",null,{"href":"/en/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"Salmon"}],["$","$L2",null,{"href":"/en/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"Blog"}],["$","$L2",null,{"href":"/en/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"Contact"}],["$","$L2",null,{"href":"/zh-HK","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"中文"}]]}]]}]}],["$","main",null,{"className":"min-h-screen bg-white","children":["$","article",null,{"className":"max-w-3xl mx-auto px-4 py-12 sm:px-6 lg:px-8","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"mb-4","children":["$","span",null,{"className":"inline-block px-3 py-1 bg-indigo-100 text-indigo-800 rounded-full text-sm font-semibold mb-3","children":"Corporate Catering"}]}],["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"Hong Kong Corporate Catering Seafood Sourcing 2026: A Procurement Playbook for Event Caterers, Conference Halls and Gala Dinners"}],["$","p",null,{"className":"text-gray-600","children":"May 2026"}]]}],["$","div",null,{"className":"prose prose-lg max-w-none mb-12","children":["$","p",null,{"className":"text-lg text-gray-700 leading-relaxed","children":"$3"}]}],["$","div",null,{"className":"prose prose-lg max-w-none","children":[["$","div","0",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"The Hong Kong Corporate Event Landscape: Volume, Seasons, Course Role"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$4"}]]}],"$L5","$L6","$L7","$L8","$L9","$La"]}],"$Lb","$Lc"]}]}],"$Ld"],["$Le"],"$Lf"]}],"loading":null,"isPartial":false}
+10:Td4b,Corporate events use different food service formats than weddings. The format dictates portion size, prep timing, and order math.
+
+**Format 1: Seated plated dinner (5- to 7-course)**
+Most similar to wedding banquet sourcing math. Premium seafood appears in:
+• Course 1 (amuse-bouche or canapé course): salmon tartare spoon (15–25g per guest) or uni-on-toast (5–10g per guest)
+• Course 2 (cold appetiser): salmon sashimi rosettes (30–50g per guest) or seafood medley with uni accent (10–15g uni per guest)
+• Occasionally a dedicated uni course: 8–15g uni per guest as a feature plate
+
+Volume math for 300-guest gala dinner with salmon + uni amuse:
+• Salmon tartare: 20g × 300 × 1.1 buffer = 6.6 kg
+• Uni accent: 8g × 300 × 1.15 buffer = 2.8 kg
+
+**Format 2: Canapé + cocktail reception (no seated meal)**
+Dominant for product launches and networking-focused events. Different math:
+• Canapés are sized at 4–10g of premium ingredient per piece
+• Standard pacing: 6–10 canapés per guest across 90–120 minutes
+• Of which 30–40% are seafood (3–4 pieces per guest)
+• Of which premium uni canapés are typically 0.5–1 piece per guest, salmon canapés 1.5–2.5 pieces per guest
+
+Volume math for 200-guest product launch cocktail (90 min):
+• Salmon canapés: 2 pieces × 200 × 8g = 3.2 kg + 15% canapé waste/breakage = 3.7 kg
+• Uni canapés: 1 piece × 200 × 6g = 1.2 kg + 15% buffer = 1.4 kg
+
+**Format 3: Buffet station + carving station**
+Common for large conferences (HKCEC events). Different again:
+• Buffet portions size larger (60–100g per pass on average)
+• But not every guest visits every station; sashimi stations typically attract 40–60% of guests at a given pass
+• Multiple service passes: lunch buffet often pulses (12:00 / 13:00 / 13:30)
+• Replenishment timing is critical — fresh sashimi can sit on ice no longer than 30 minutes on station
+
+Volume math for 600-guest conference buffet with sashimi station (90 min lunch):
+• Salmon sashimi: 60g × 600 × 50% (visit rate) × 1.2 (replenishment buffer) = 21.6 kg
+• Multiple replenishment cycles: 4 × 5.4 kg trays, prepped and held in chiller
+
+**Format 4: VIP/executive side rooms (within larger event)**
+A hidden ops complexity: many corporate events have a separate VIP room with elevated menu (uni feature, A5 wagyu, etc.). Volumes are small (10–40 guests) but cost-per-guest is 2–4x main floor and lead time is the same.
+• Always sized separately — never roll into main floor allocation
+• Confirm 4 weeks ahead and lock supplier allocation specifically for this micro-volume
+
+**Plate-up labour and timing implications:**
+
+• Plated dinner: kitchen needs salmon delivered Friday morning, prepped Friday afternoon, cut Saturday morning
+• Canapé event: needs prep day-of (Friday for Friday-evening events) for maximum freshness; longer-storage canapés can prep day-before
+• Buffet: needs prep morning-of with held replenishment trays
+• VIP room: prep same as main format but with extra portion control
+
+**Always order with format-appropriate buffer:**
+
+| Format | Volume buffer | Reason |
+|---|---|---|
+| Plated dinner | 10–12% | Predictable plate count |
+| Canapé/cocktail | 15–20% | Breakage + variable consumption rate |
+| Buffet | 20–30% | Visit rate variance + station replenishment |
+| VIP room | 15% | Smaller batch = larger relative buffer |5:["$","div","1",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Corporate Format Differences: Where Sea Urchin and Salmon Actually Fit"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$10"}]]}]
+11:Td6d,Corporate event procurement runs on different rhythms than wedding banquets. Understanding the actual lead time available is the difference between locked allocation and last-minute scrambling.
+
+**Typical corporate event procurement timeline:**
+
+• **8–16 weeks ahead**: Event agency or in-house planner sends out venue RFP, gets initial budgets approved
+• **6–10 weeks ahead**: Venue + caterer selected; menu shortlist circulated for tasting
+• **4–6 weeks ahead**: Final menu selected; preliminary headcount given (subject to ±20% movement)
+• **2–4 weeks ahead**: Headcount narrows to ±10%; F&B procurement should lock supplier allocation
+• **1 week ahead**: Final headcount with +5/-5% expected variance
+• **48 hours ahead**: Final headcount locked, kitchen prep begins
+• **Event day**: Service
+
+**The 2–4 week allocation window is the critical procurement moment.** This is when:
+• Headcount is reliable enough to commit volume
+• Supplier can still confirm allocation for the event week
+• Premium grades (uni AA Bafun) are still available rather than spot-bought
+
+**The forecasting calculation corporate catering teams should run weekly:**
+
+```
+For each confirmed event in the next 6 weeks:
+  Format-adjusted volume × headcount = base requirement
+  + format-appropriate buffer (10–30%)
+  = order quantity
+
+Aggregate by week:
+  Week of [date]: total uni + total salmon required across all events
+  Compare to supplier confirmed allocation
+  Flag gaps to procurement at 4-week mark, not 1-week mark
+```
+
+**The headcount-swing problem specific to corporate events:**
+
+Unlike weddings where ±2 tables is the upper limit, corporate events frequently see ±20% headcount swings 2–3 weeks before event date, driven by:
+
+• Executive registration deadlines that slip
+• Final RSVP push to junior staff in the last 2 weeks
+• Late VIP additions (board, investors, key clients)
+• Travel disruptions (typhoon season, regional flights)
+
+Procurement protocols that handle this well:
+
+• **Tier allocation**: Lock 90% of expected volume firm at 4 weeks; hold 10–15% headroom with supplier for late additions
+• **Substitution-up policy**: If final headcount exceeds order, supplier commits to upgrade alternative (e.g., A-grade Murasaki instead of B-grade if more volume required at last minute)
+• **Stable downside**: Define minimum guaranteed pay even if headcount comes in lower than ordered — protects supplier and incentivizes them to hold capacity for you
+
+**Last-minute event lead-time scenarios:**
+
+Not all corporate events have 6+ weeks of notice. Common short-lead scenarios:
+
+• **Crisis comms or PR-driven event** (e.g., reputational response, M&A announcement): 1–2 weeks lead, modest volume
+• **Executive visit / dignitary** (e.g., regional president visit): 2–4 weeks, small but high-stakes
+• **Re-scheduled events** (e.g., weather displacement): same volume, half the lead time
+• **Last-minute addition to existing series** (e.g., extra investor lunch added during AGM week): 1–3 weeks
+
+Procurement playbook for short-lead events:
+• Verify supplier inventory immediately — written confirmation within 24 hours
+• Accept grade flexibility if needed (A vs. AA) — disclose substitution to event lead
+• Use established supplier relationship rather than spot-buying — protects margin
+• Document the short-lead pattern in supplier QBR (quarterly business review)6:["$","div","2",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Lead Times: From RFP to Allocation Lock for Corporate Events"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$11"}]]}]
+12:Tf60,The defining operational challenge of corporate catering: many venues are not chef-controlled kitchens. Conference centres, art galleries, yachts, outdoor venues, retail spaces, and private estates have variable cold-storage capability and unpredictable temperature control.
+
+**Venue-type cold-chain risk profile:**
+
+• **5-star hotel ballrooms**: Full kitchen support, walk-in chillers, controlled cold-chain. **Low risk.**
+• **HKCEC + AsiaWorld-Expo**: On-site kitchens for caterers + dedicated cold storage. **Low-medium risk.** Confirm specific bay assignment 1 week ahead.
+• **Hotel meeting rooms with off-property F&B**: Cooler trucks + small holding chillers. **Medium risk.** Need backup capacity plan.
+• **Art galleries + retail spaces**: Limited or no on-site cold storage. **High risk.** Must use insulated transport with continuous temperature logging.
+• **Yacht charters**: Galley refrigeration is small, often shared with operating provisions. **High risk.** Need pre-event prep approach with minimal on-vessel holding.
+• **Outdoor venues + private estates**: No infrastructure assumed. **Highest risk.** Refrigerated truck stays on-site as cold-chain anchor.
+
+**The cold-chain protocol for non-kitchen venues:**
+
+**Step 1 — Pre-event venue assessment (2 weeks before)**
+• Walk venue with caterer + supplier
+• Identify cold storage available, capacity, temperature settings
+• Map refrigerated truck access and parking
+• Identify ice supply (ice sculpture station can double as ice supply for stations)
+• Document gaps in writing
+
+**Step 2 — Day-of cold-chain plan**
+• Salmon and uni arrive at venue ≤ 2 hours before service start
+• If venue has no cold storage: refrigerated truck stays on-site as cold storage; product transferred to stations in 20-min batches
+• Temperature loggers attached to product crates during transport (≤4°C target for salmon, ≤2°C target for uni)
+• Pre-event temperature check documented; rejection threshold defined in writing
+
+**Step 3 — Service-period replenishment**
+• Uni canapé stations: replenish every 20 minutes max; never let trays sit longer
+• Salmon sashimi stations: replenish every 30 minutes; rotate platters from chiller-held backup
+• Buffet salmon stations: longer hold acceptable (up to 90 min with proper ice) but quality degrades
+• Floating ice underneath display platters refreshed every 30 min
+
+**Step 4 — Post-event documentation**
+• Temperature log retained for 30 days minimum
+• Any food safety incident escalated within 24 hours
+• Yield-vs-order documented for forecast refinement
+
+**The expensive lesson learned by HK event caterers:** An outdoor product launch in late September with a sashimi station — no refrigerated truck, expectation that 'a few coolers would be enough.' Within 90 minutes the salmon was hitting 8–10°C. The brand impression was damaged when guests visibly hesitated at the station; one media attendee photographed the temperature display. The caterer lost the renewal contract worth HKD $2.4M over 24 months. The marginal cost of the refrigerated truck would have been HKD $4,500.
+
+**Backup contingency for high-stakes events:**
+
+• Secondary supplier confirmed available with same-day emergency delivery to venue location
+• On-venue backup chiller (rental cost ~HKD $1,500/day for portable unit) for non-kitchen sites
+• Pre-arranged escalation chain: who decides to invoke contingency, in what time window
+• For yacht events: shadow refrigerated cooler at marina pier as backup
+
+**Refrigerated transport criteria specific to corporate venues:**
+
+When evaluating supplier delivery capability, ask:
+• Is the delivery vehicle GPS-tracked with temperature telemetry?
+• Can you provide a temperature log printout on delivery?
+• What is your max time-window for last-mile delivery once the truck is loaded?
+• Do you have backup vehicle capacity within HK on event days?7:["$","div","3",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Cold-Chain Logistics for Non-Kitchen Venues"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$12"}]]}]
+13:T10d4,Corporate catering operates on bid-and-quote pricing. Understanding the seafood cost structure helps caterers protect margin and helps corporate buyers spot pricing red flags.
+
+**Per-guest cost breakdown for premium seafood courses (corporate format):**
+
+**Salmon canapés station (3 pieces × 8g per guest = 24g)**
+• Salmon cost (sashimi-grade Norwegian/Scottish): HKD $3.30–4.80 per guest at 24g
+• Plate-up labour (canapé assembly): HKD $3.50 per guest
+• Accoutrements (cucumber, dill, capers, blini): HKD $2.50 per guest
+• Station labour (uniformed attendant): HKD $4.00 per guest amortized
+• Total food + labour cost: HKD $13.30–14.80 per guest
+• Typical caterer bid price: HKD $48–88 per guest
+• Gross margin (food + labour): 72–83%
+
+**Uni canapés station (1 piece × 6g per guest)**
+• Uni cost (Hokkaido Murasaki A grade): HKD $6.60–8.40 per guest at 6g
+• Premium uni (Bafun AA): HKD $13.20–17.40 per guest at 6g
+• Plate-up labour (delicate assembly): HKD $5.00 per guest
+• Accoutrements (spoon, garnish, micro herbs): HKD $1.50 per guest
+• Total food + labour cost: HKD $13.10–24.40 per guest
+• Typical caterer bid price: HKD $48–148 per guest
+• Gross margin: 72–85%
+
+**Sashimi buffet station (estimated 50% guest visit, 60g per visit)**
+• Salmon cost: per-guest blended cost = (60g × HKD $0.14/g) × 50% = HKD $4.20 per guest
+• Station labour (carver + attendant): HKD $5.00 per guest amortized
+• Setup + display infrastructure: HKD $3.00 per guest amortized
+• Total cost: HKD $12.20 per guest blended
+• Typical caterer station bid: HKD $35–60 per guest
+• Gross margin: 65–80%
+
+**Where margin leaks in corporate catering seafood operations:**
+
+• **Headcount over-ordering**: ±20% headcount swing means caterers often over-order by 15–20% as a 'safety' buffer. Over a year, this compounds to 5–8% of seafood spend in waste. Use tier-allocation discipline instead.
+• **Last-minute spot purchases**: When supplier allocation falls short, spot purchases can cost 25–40% above committed prices. Direct cause: lead-time discipline failures.
+• **Format-mismatch sizing**: Sizing a canapé event with plated-dinner volumes (40g salmon per guest) wastes 50% of product. Build format-specific calculation templates.
+• **Cold-chain failure write-offs**: Non-kitchen-venue cold-chain failures destroy product within 2 hours. Backup cold-storage rental at HKD $1,500/day pays for itself with the first prevented incident.
+• **Unbilled venue + transport surcharges**: Many caterers absorb refrigerated transport and venue cold-chain rental rather than pricing them into client quotes. Itemize these in proposals.
+• **VIP-room undersized orders**: Forgetting to size separately for VIP rooms is the second most common margin leak (after format-mismatch sizing).
+
+**Corporate buyer perspective: red flags in catering bids**
+
+For corporate buyers (marketing, HR, event agency) evaluating catering bids:
+
+• **Unrealistic premium-seafood pricing**: If a bid lists Hokkaido Bafun AA at HKD $30/guest for a canapé station, the caterer either doesn't have allocation locked or is going to substitute downward at the event. Ask for grade specification in writing.
+• **No cold-chain plan for non-kitchen venues**: Bid should include refrigerated transport, on-site backup chiller, temperature logging. Absence is a cost-cutting signal that creates incident risk.
+• **Vague delivery windows**: 'Day-of delivery' is not enough for non-kitchen venues. Specific 2-hour delivery window should appear in the proposal.
+• **No headcount-change protocol**: Bids that don't specify how ±20% headcount swings are priced create surprises. Ask for the swing protocol in writing.
+
+**The economics for the corporate buyer:**
+
+A 300-guest gala dinner with premium seafood canapé station generates the following brand impression cost:
+• Salmon + uni canapé station: HKD $130/guest × 300 = HKD $39,000 (mid-tier pricing)
+• Allocation-locked, cold-chain-protected version: same HKD $39,000, but delivered reliably
+• Spot-buy, no-cold-chain version: same HKD $39,000, but with 30%+ incident risk
+
+The procurement quality is the brand-experience quality. Corporate buyers who treat seafood as a line-item are leaving brand value on the table.8:["$","div","4",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Cost Structure: Where Margin Lives in Corporate Catering Seafood"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$13"}]]}]
+14:Td55,Generic supplier criteria apply. Corporate catering operations layer on four additional must-haves:
+
+**1. Format-flexibility and short-lead capacity**
+
+Corporate events span plated, canapé, buffet, and VIP-room formats often within the same event. Suppliers need to support all four. Ask:
+• Can you supply canapé-portion-sized salmon (vs. sashimi blocks) without 4-week notice?
+• Do you have grade variety in inventory at any given time (A, AA, Bafun, Murasaki) for short-lead allocations?
+• What is your typical 1-week response time on a confirmed 5kg uni order?
+• What is the maximum 1-week emergency volume you can deliver during November–January peak?
+
+**2. Headcount-swing accommodation policy**
+
+Unlike wedding banquets where ±2 tables is the practical limit, corporate caterers need supplier policies for ±20% swings. Ask:
+• Can you commit to + ___% upside flexibility (typically 15–20%) without spot-market pricing?
+• What is the downside protection (minimum pay guarantee) you require?
+• How do you handle order quantity changes 7 days out, 3 days out, 24 hours out?
+• What is the substitution path if upside flexibility is exceeded?
+
+**3. Non-kitchen-venue delivery capability**
+
+Venue diversity is the corporate-specific complexity. Ask:
+• Can you deliver direct to non-hotel venues (HKCEC, AsiaWorld-Expo, art galleries, outdoor sites)?
+• Do you provide temperature logging for last-mile transport?
+• What is your backup vehicle capacity within HK on event days?
+• Have you delivered to [specific venue] before? Can you reference the catering operations director?
+
+**4. Quarterly volume forecasting + business reviews**
+
+Corporate catering volume is lumpy — November/December can carry 30–40% of annual seafood spend. Suppliers need to plan inventory cycles around your event calendar. Ask:
+• Will you join a quarterly business review covering the next 13 weeks of confirmed events?
+• Can you allocate against my forward calendar 4–8 weeks in advance?
+• Will you protect price for confirmed events even if market prices spike?
+• Do you have a named account-management contact (not a rotating sales rep)?
+
+**Red flags specific to corporate catering supplier evaluation:**
+
+• Supplier resists non-hotel venue deliveries
+• Supplier insists on standard week-by-week ordering vs. forward calendar allocation
+• Supplier substitutes grades without prior notice on regular orders (signal of how they'll behave during peak weeks)
+• Supplier cannot provide temperature-log documentation
+• No named account contact (single sales rep is not enough for an account doing 30+ events/year)
+• Cannot speak to specific venue or event experience by name
+
+**The relationship pattern that works for HK corporate catering operations:**
+
+• Quarterly business reviews focused on next 13 weeks of confirmed events
+• Standing weekly volume forecasting call during peak season (Nov–Jan, March–May)
+• Forward-calendar allocation 4–8 weeks ahead with written commitments
+• Pre-locked allocation for the 5–10 highest-stakes events of the year (year-end gala for the largest client, executive retreats, etc.)
+• Joint contingency planning for events at non-kitchen venues
+• Transparent invoice reconciliation and quality issue logging
+
+Suppliers who operate at this engagement level deliver during the November–January peak when ordinary suppliers fail.9:["$","div","5",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Supplier Evaluation: What Corporate Catering Operations Should Demand"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$14"}]]}]
+15:Tb0e,**The procurement workflow for a single corporate event, end-to-end:**
+
+**At RFP / agency brief (8–16 weeks out)**
+• Capture intended event date, target headcount, venue type, format (plated/canapé/buffet)
+• Flag whether event falls in Nov–Jan or March–May peak
+• Surface VIP-room / executive component if relevant
+
+**At venue + caterer selection (6–10 weeks out)**
+• Confirm venue assessment for non-kitchen complications
+• Caterer to confirm seafood spec, format, premium components
+• Provisional volume request communicated to seafood supplier
+• Supplier to confirm capacity within 5 business days
+
+**At menu tasting + preliminary headcount (4–6 weeks out)**
+• Final menu confirmed; format-adjusted volume calculated
+• Preliminary supplier allocation requested in writing
+• Supplier confirms allocation in writing (volume, grade, price ceiling, delivery window)
+• Cold-chain plan for non-kitchen venue documented
+
+**At allocation lock (2–4 weeks out)**
+• Headcount refined to ±10%; volume committed in writing both directions
+• Backup supplier identified for contingency volume
+• Cold-chain delivery window confirmed (2-hour pre-event window for non-kitchen venues)
+• Substitution protocol documented (especially for grade-flexible peak weeks)
+• On-venue cold storage capacity verified
+
+**Event week (final adjustments)**
+• Final headcount confirmed (±5% expected)
+• Cold-chain plan reconfirmed; refrigerated truck booking confirmed
+• Venue access timing confirmed with venue ops
+• Pre-event briefing with caterer floor team — who decides on rejection if cold-chain fails
+
+**Event day**
+• T-2h: delivery to venue, temperature inspection, written documentation
+• T-90m: setup begins; refrigerated truck stays on-site for non-kitchen venues
+• T-30m: station setup complete; backup product in cold storage
+• Service: replenishment cycles per protocol (every 20–30 minutes for sashimi/uni)
+• Post-service: yield documentation, quality feedback log
+
+**Post-event (within 5 business days)**
+• Yield analysis: ordered vs. actual served, by product
+• Quality feedback to supplier (positive AND negative)
+• Update format-specific calculation templates if portion sizing was off
+• Reconcile invoicing
+• Schedule supplier QBR if event was peak-season
+
+**One discipline not to skip:** Maintain a per-event sourcing log capturing actual headcount delivered, actual product received, grade, format, yield, and any quality or cold-chain incidents. Over 12 months, this data is what differentiates corporate caterers who consistently deliver during peak season from those who scramble. The data also gives you negotiating leverage in supplier QBRs — actual volume delivered is the strongest possible case for allocation protection during November–January peak.a:["$","div","6",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Practical Playbook: From Corporate Event RFP to Day-of Execution"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$15"}]]}]
+b:["$","div",null,{"className":"border-t border-gray-200 pt-8 mt-12 prose prose-lg max-w-none","children":["$","p",null,{"className":"text-gray-700 leading-relaxed","children":"HK corporate catering seafood sourcing differs from wedding banquet sourcing in three structural ways: shorter lead times, larger headcount swings, and more frequent non-kitchen venues. The procurement teams who win at this game build format-specific calculation templates, treat the 2–4 week allocation window as non-negotiable, build cold-chain plans for non-kitchen venues into their bids rather than absorbing those costs invisibly, and maintain forward-calendar allocation relationships with suppliers who can scale during the November–January peak. The economics are favourable — premium-seafood corporate components generate 70%+ margin — but the execution risk is asymmetric. A failed cold-chain incident at a 300-guest product launch can cost a caterer the renewal contract, and cost the client brand more than the event was worth. Corporate caterers and corporate buyers who source for reliability — not just price — protect the brand impression their clients are paying premium prices to create."}]}]
+c:["$","div",null,{"className":"mt-12 p-8 bg-indigo-50 rounded-lg border border-indigo-200","children":[["$","h3",null,{"className":"text-xl font-bold text-gray-900 mb-3","children":"Premium Seafood for HK Corporate Catering Operations — Inari Global Food"}],["$","p",null,{"className":"text-gray-700 mb-4","children":"We supply sashimi-grade sea urchin and salmon to Hong Kong corporate catering operations, event agencies, and hotel banquet teams — with forward-calendar allocation locking, ±20% headcount-swing accommodation, refrigerated last-mile delivery to non-kitchen venues, and dedicated account management for the November–January peak. Contact us to discuss your corporate event calendar, venue profile, and supplier evaluation criteria, and we'll put together a corporate catering sourcing proposal within 24 hours."}],["$","a",null,{"href":"/en/contact","className":"inline-block px-6 py-3 bg-indigo-600 text-white rounded-lg font-semibold hover:bg-indigo-700 transition","children":"Get in Touch"}]]}]
+d:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"Uni & Salmon"}],["$","p",null,{"className":"text-sm","children":"Your trusted partner for premium sea urchin and salmon in Hong Kong & Macau."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Home"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/en/about","className":"hover:text-white","children":"About Us"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/sea-urchin","className":"hover:text-white","children":"Sea Urchin"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/salmon","className":"hover:text-white","children":"Salmon"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/blog","className":"hover:text-white","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Contact Us"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","Uni & Salmon",". ","All rights reserved."]}]]}]
+e:["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true}]
+f:["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]
+18:null

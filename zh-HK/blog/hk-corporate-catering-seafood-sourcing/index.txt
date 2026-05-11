@@ -1,0 +1,353 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+6:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
+d:I[68027,[],"default"]
+:HL["/_next/static/chunks/77a76d60b8e76c26.css","style"]
+0:{"P":null,"b":"dFJRyrHJDC2RQSM5DKHei","c":["","zh-HK","blog","hk-corporate-catering-seafood-sourcing",""],"q":"","i":false,"f":[[["",{"children":[["locale","zh-HK","d"],{"children":["blog",{"children":["hk-corporate-catering-seafood-sourcing",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/77a76d60b8e76c26.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/270437cba3e5c91b.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+e:I[68471,["/_next/static/chunks/270437cba3e5c91b.js"],"WhatsAppButton"]
+4:["$","html",null,{"lang":"zh-Hant-HK","children":["$","body",null,{"className":"antialiased","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":[\"Organization\",\"LocalBusiness\"],\"name\":\"海膽三文魚\",\"description\":\"香港及澳門領先的優質海膽及三文魚供應商。新鮮來自日本、加拿大及全球優質產地。\",\"url\":\"https://inari-kira-isla.github.io/hk-seafood-website\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Hong Kong\",\"sameAs\":\"https://www.wikidata.org/wiki/Q8646\"},{\"@type\":\"City\",\"name\":\"Macau\",\"sameAs\":\"https://www.wikidata.org/wiki/Q14773\"}],\"knowsAbout\":[\"Sea urchin\",\"Uni\",\"海膽\",\"Salmon\",\"三文魚\",\"Seafood wholesale\",\"Seafood import\",\"Japanese uni\",\"Sashimi-grade salmon\"],\"makesOffer\":[{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Product\",\"name\":\"優質海膽\",\"category\":\"Seafood\",\"description\":\"來自日本、加拿大等地的頂級海膽，適用於刺身及壽司\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Product\",\"name\":\"優質三文魚\",\"category\":\"Seafood\",\"description\":\"刺身級三文魚，新鮮空運到港，品質保證\"}}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"海膽三文魚\",\"url\":\"https://inari-kira-isla.github.io/hk-seafood-website\",\"inLanguage\":[{\"@type\":\"Language\",\"name\":\"English\",\"alternateName\":\"en\"},{\"@type\":\"Language\",\"name\":\"Chinese (Traditional, Hong Kong)\",\"alternateName\":\"zh-HK\"}],\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://inari-kira-isla.github.io/hk-seafood-website/search?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"香港邊度買到新鮮海膽？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"我們提供來自日本、加拿大等地的新鮮海膽，直送香港及澳門。批發及零售均有供應。\"}},{\"@type\":\"Question\",\"name\":\"三文魚有咩等級？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"三文魚主要分為刺身級及烹調級。我們專營刺身級三文魚，適合生食及高級料理。\"}},{\"@type\":\"Question\",\"name\":\"你哋供應邊啲種類嘅海膽？\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"我們供應多種海膽，包括日本馬糞海膽、紫海膽、加拿大紅海膽等，按季節及產地供應。\"}}]}"}}],null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$Le",null,{"locale":"zh-HK"}]]}]}]
+f:I[22016,["/_next/static/chunks/270437cba3e5c91b.js","/_next/static/chunks/7c92e96509cd355e.js"],""]
+10:Td53,香港企業到會分為五種活動類型，各有不同的海鮮需求和採購限制：
+
+**年終週年晚宴（尾牙 / annual dinner）**
+• 旺季：11 月中至 1 月中
+• 典型活動規模：200–800 位賓客（行業協會和企業）、30–200 位（部門級）
+• 場地：5 星級酒店宴會廳、會議展覽中心、亞洲國際博覽館、宴會廳
+• 海鮮角色：高端冷盤前菜是標準；海膽特色加菜增長中
+• 每場海膽：1–6 公斤（高端加菜）；8–15 公斤（海膽特色菜單，較少見）
+• 每場三文魚：15–60 公斤刺身級
+• 預訂提前期：提前 6–12 週（比婚宴短得多）
+
+**產品發布會**
+• 旺季：3–5 月（春季發布）、9–11 月（秋季/節日發布）
+• 典型活動規模：80–400 位賓客（小食/雞尾酒形式為主）
+• 場地：酒店宴會廳、藝廊、零售空間、遊艇租賃、私人場地
+• 海鮮角色：小食站含三文魚（漬鮭、他他、煙）和海膽小食（海膽匙、海膽炸丸）
+• 每場海膽：0.5–3 公斤（小食份量每件 4–8 克，每位約 1.5 件）
+• 每場三文魚：8–30 公斤（小食格式每公斤產量為平擺式的 2–3 倍）
+• 預訂提前期：提前 4–10 週
+
+**週年股東大會（AGM）+ 投資者活動**
+• 旺季：3–5 月（曆年制港股上市公司）、9–11 月（中期業績季）
+• 典型活動規模：50–300（股東/投資者）、20–80（分析師午宴）
+• 場地：酒店會議廳、私人宴會、交易所旁場地、金融區酒店
+• 海鮮角色：高端平擺午宴或座位晚宴；午宴日益供應刺身拼盤
+• 每場海膽：0.3–1.5 公斤
+• 每場三文魚：5–18 公斤
+• 預訂提前期：提前 4–8 週
+
+**會議午宴 + 峰會晚宴**
+• 旺季：行業相關（金融：11 月、3 月；科技：5 月、10 月；零售：8 月）
+• 典型活動規模：100–1,200 位賓客（大型會議）、200–500 位（典型峰會）
+• 場地：HKCEC、亞洲國際博覽館、酒店宴會廳
+• 海鮮角色：自助站海鮮（水煮三文魚、三文魚壽司）、偶有高端冷盤
+• 每場海膽：罕見（規模成本障礙）
+• 每場三文魚：30–120 公斤（自助）——比平擺式大得多
+• 預訂提前期：提前 8–16 週
+
+**商會宴會 + 會所活動**
+• 旺季：分會特定，但通常 Q4 和 Q1
+• 典型活動規模：150–500 位賓客
+• 場地：酒店宴會廳、會員擁有的會所
+• 海鮮角色：類似週年晚宴模式；通常更正式的中式宴會格式含高端加價
+• 每場海膽：1–4 公斤
+• 每場三文魚：12–40 公斤
+• 預訂提前期：提前 6–10 週
+
+**香港企業日曆的季節性壓縮：**
+
+• **11 月中至 1 月中**：年終週年晚宴旺季；最繁忙的星期五/六週量達正常 5 倍
+• **3–4 月**：春季產品發布 + AGM 季
+• **8–9 月**：行業峰會 + 秋季發布前活動
+• **10–11 月**：年終前發布季 + 商會宴會
+• **抑制期**：1 月底（農曆新年前）、7 月（學校假期+颱風）
+
+**為什麼這對採購重要：** 企業活動預訂常以比婚宴更短的提前期到達，但旺季週的量需求類似。將企業到會視為剩餘產能的供應商會讓您失敗。將企業特定配額與婚宴產能並行規劃的供應商，才是能在 11 月–1 月旺季交付的供應商。5:[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$Lf",null,{"href":"/zh-HK","className":"text-xl font-bold text-gray-900","children":"海膽三文魚"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$Lf",null,{"href":"/zh-HK","className":"text-sm text-gray-700 hover:text-gray-900","children":"首頁"}],["$","$Lf",null,{"href":"/zh-HK/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"關於我們"}],["$","$Lf",null,{"href":"/zh-HK/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"海膽"}],["$","$Lf",null,{"href":"/zh-HK/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"三文魚"}],["$","$Lf",null,{"href":"/zh-HK/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"資訊"}],["$","$Lf",null,{"href":"/zh-HK/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"聯絡我們"}],["$","$Lf",null,{"href":"/en","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"English"}]]}]]}]}],["$","main",null,{"className":"min-h-screen bg-white","children":["$","article",null,{"className":"max-w-3xl mx-auto px-4 py-12 sm:px-6 lg:px-8","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"mb-4","children":["$","span",null,{"className":"inline-block px-3 py-1 bg-indigo-100 text-indigo-800 rounded-full text-sm font-semibold mb-3","children":"企業活動"}]}],["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"香港企業活動海鮮採購完全指南 2026：到會商、會議廳及週年晚宴的採購攻略"}],["$","p",null,{"className":"text-gray-600","children":"2026年5月"}]]}],["$","div",null,{"className":"prose prose-lg max-w-none mb-12","children":["$","p",null,{"className":"text-lg text-gray-700 leading-relaxed","children":"香港擁有亞洲最密集的企業活動日曆之一。年終週年晚宴、產品發布會、AGM 雞尾酒會、會議午宴和商會宴會集中於 10 月至 1 月，以及 3 月至 5 月。高端海鮮——尤其是海膽和三文魚——日益成為這些活動高端菜式或小食站的核心。但企業到會採購與餐廳運營完全不同，且只是表面上類似婚宴採購。提前期更短。賓客人數變動更晚。場地往往是非廚房宴會廳或戶外場地，沒有主廚控制的冷藏。而企業買家——通常是市場經理、HR 業務夥伴或活動代理——並非受過訓練的 F&B 專業人員。本指南是為實際採購香港企業活動海鮮的人士——到會運營總監、活動代理、酒店宴會 F&B 經理和企業採購主管——準備的採購攻略，涵蓋 RFP 規格、末端物流、人數變動協議，以及保護公司以高端價格購買的品牌印象的供應商標準。"}]}],["$","div",null,{"className":"prose prose-lg max-w-none","children":[["$","div","0",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"香港企業活動版圖：量、季節、菜式角色"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$10"}]]}],"$L11","$L12","$L13","$L14","$L15","$L16"]}],"$L17","$L18"]}]}],"$L19"]
+1a:Tbf1,企業活動使用與婚宴不同的餐飲服務格式。格式決定份量、準備時機和訂單計算。
+
+**格式 1：座位平擺晚宴（5 至 7 道菜）**
+採購計算最類似婚宴。高端海鮮出現在：
+• 菜式 1（前菜或小食課程）：三文魚他他匙（每位 15–25 克）或海膽多士（每位 5–10 克）
+• 菜式 2（冷盤前菜）：三文魚刺身玫瑰（每位 30–50 克）或海鮮拼盤含海膽點綴（每位 10–15 克海膽）
+• 偶爾專門海膽課程：每位 8–15 克海膽作為特色菜式
+
+300 位賓客週年晚宴含三文魚 + 海膽前菜的量計算：
+• 三文魚他他：20 克 × 300 × 1.1 緩衝 = 6.6 公斤
+• 海膽點綴：8 克 × 300 × 1.15 緩衝 = 2.8 公斤
+
+**格式 2：小食 + 雞尾酒招待會（無座位餐）**
+為產品發布和重視交流的活動主流。計算不同：
+• 小食每件含 4–10 克高端食材
+• 標準節奏：每位賓客 6–10 件小食，於 90–120 分鐘內
+• 其中 30–40% 是海鮮（每位 3–4 件）
+• 其中高端海膽小食通常每位 0.5–1 件，三文魚小食每位 1.5–2.5 件
+
+200 位賓客產品發布雞尾酒（90 分鐘）量計算：
+• 三文魚小食：2 件 × 200 × 8 克 = 3.2 公斤 + 15% 小食損耗 = 3.7 公斤
+• 海膽小食：1 件 × 200 × 6 克 = 1.2 公斤 + 15% 緩衝 = 1.4 公斤
+
+**格式 3：自助站 + 切片站**
+大型會議常見（HKCEC 活動）。又不同：
+• 自助份量更大（每次平均 60–100 克）
+• 但並非每位賓客都訪每個站；刺身站通常吸引單次 40–60% 賓客
+• 多次服務時段：午宴自助常呈脈衝（12:00 / 13:00 / 13:30）
+• 補貨時機關鍵——新鮮刺身在站上冰凍不可超過 30 分鐘
+
+600 位賓客會議自助含刺身站（90 分鐘午宴）量計算：
+• 三文魚刺身：60 克 × 600 × 50%（訪問率）× 1.2（補貨緩衝）= 21.6 公斤
+• 多個補貨週期：4 × 5.4 公斤托盤，準備並在冷藏保留
+
+**格式 4：VIP/行政側室（在較大活動內）**
+隱藏運營複雜性：許多企業活動有獨立 VIP 室，菜單升級（海膽特色、A5 和牛等）。量小（10–40 位賓客），但每位成本是主場 2–4 倍，提前期相同。
+• 永遠單獨計算——絕不併入主場配額
+• 提前 4 週確認並專門為此微量鎖定供應商配額
+
+**擺盤人工和時機含義：**
+
+• 平擺晚宴：廚房需星期五早上交付三文魚，星期五下午準備，星期六早上切片
+• 小食活動：需當日準備（星期五為星期五晚活動）以求最大新鮮；較長儲存的小食可前一日準備
+• 自助：需當日早上準備並保留補貨托盤
+• VIP 室：準備同主格式但需額外份量控制
+
+**永遠以格式適當的緩衝訂購：**
+
+| 格式 | 量緩衝 | 原因 |
+|---|---|---|
+| 平擺晚宴 | 10–12% | 可預測的份數 |
+| 小食/雞尾酒 | 15–20% | 損耗 + 消費率變化 |
+| 自助 | 20–30% | 訪問率變化 + 站補貨 |
+| VIP 室 | 15% | 較小批次 = 較大相對緩衝 |11:["$","div","1",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"企業格式差異：海膽和三文魚的實際位置"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$1a"}]]}]
+1b:Tb5c,企業活動採購節奏與婚宴不同。理解實際可用提前期是鎖定配額與最後一刻搶購的分別。
+
+**典型企業活動採購時間表：**
+
+• **8–16 週前**：活動代理或內部策劃發送場地 RFP、獲得初步預算批准
+• **6–10 週前**：場地+到會選定；菜單候選列表流通供試菜
+• **4–6 週前**：最終菜單選定；初步賓客人數提供（受 ±20% 變動）
+• **2–4 週前**：賓客人數收窄至 ±10%；F&B 採購應鎖定供應商配額
+• **1 週前**：最終賓客人數預期 +5/-5% 變化
+• **48 小時前**：最終賓客人數鎖定，廚房準備開始
+• **活動日**：服務
+
+**2–4 週配額窗口是關鍵採購時刻。** 此時：
+• 賓客人數足夠可靠以承諾量
+• 供應商仍可確認活動週配額
+• 高端等級（海膽 AA 馬糞）仍可訂購而非現貨購買
+
+**企業到會團隊應每週運行的預測計算：**
+
+```
+對於未來 6 週的每個確認活動：
+  格式調整量 × 賓客人數 = 基礎需求
+  + 格式適當緩衝（10–30%）
+  = 訂購量
+
+按週聚合：
+  [日期] 週：所有活動總海膽 + 總三文魚需求
+  與供應商確認配額比較
+  在 4 週標記時向採購標記缺口，而非 1 週標記
+```
+
+**企業活動特有的賓客人數變動問題：**
+
+與婚宴上限為 ±2 圍不同，企業活動常在活動前 2–3 週見 ±20% 賓客人數變動，由以下驅動：
+
+• 高管登記截止日延誤
+• 最後 2 週對初級員工的最終 RSVP 推動
+• 遲到 VIP 添加（董事、投資者、關鍵客戶）
+• 出行中斷（颱風季、地區航班）
+
+處理得當的採購協議：
+
+• **分層配額**：在 4 週鎖定 90% 預期量；與供應商保留 10–15% 空間以容納遲到添加
+• **向上替代政策**：如果最終賓客人數超過訂單，供應商承諾升級替代（例如，最後一刻需更多量時用 A 級紫海膽代替 B 級）
+• **下行穩定**：定義即使賓客人數低於訂購也最低保證支付——保護供應商並激勵其為您保留產能
+
+**最後一刻活動提前期情境：**
+
+並非所有企業活動有 6+ 週通知。常見短提前期情境：
+
+• **危機溝通或 PR 驅動活動**（例如，聲譽應對、M&A 公告）：1–2 週提前期，量適中
+• **行政訪問/貴賓**（例如，地區總裁訪問）：2–4 週，量小但風險高
+• **重新安排的活動**（例如，天氣置換）：相同量，一半提前期
+• **現有系列的最後一刻添加**（例如，AGM 週添加額外投資者午宴）：1–3 週
+
+短提前期活動的採購攻略：
+• 立即驗證供應商庫存——24 小時內書面確認
+• 如需接受等級彈性（A vs. AA）——向活動主管披露替代
+• 使用已建立的供應商關係而非現貨購買——保護利潤
+• 在供應商 QBR（季度業務檢視）記錄短提前期模式12:["$","div","2",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"提前期：從 RFP 到企業活動配額鎖定"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$1b"}]]}]
+1c:Tc77,企業到會的決定性運營挑戰：許多場地不是主廚控制的廚房。會議中心、藝廊、遊艇、戶外場地、零售空間和私人莊園的冷藏能力和溫度控制變化大。
+
+**場地類型冷鏈風險檔案：**
+
+• **5 星級酒店宴會廳**：全廚房支持、走入式冷藏、控制冷鏈。**低風險。**
+• **HKCEC + 亞洲國際博覽館**：到會用現場廚房+專用冷藏。**低-中風險。** 提前 1 週確認具體位置分配。
+• **酒店會議廳含場外 F&B**：冷藏車+小型保留冷藏。**中風險。** 需後備產能計劃。
+• **藝廊+零售空間**：有限或無現場冷藏。**高風險。** 必須使用持續溫度記錄的隔熱運輸。
+• **遊艇租賃**：船上冷藏小，常與運營物資共享。**高風險。** 需活動前準備方法，最少船上保留。
+• **戶外場地+私人莊園**：無基礎設施假設。**最高風險。** 冷藏車留現場作為冷鏈錨點。
+
+**非廚房場地的冷鏈協議：**
+
+**步驟 1——活動前場地評估（2 週前）**
+• 與到會+供應商走訪場地
+• 識別可用冷藏、容量、溫度設置
+• 規劃冷藏車進出和停車
+• 識別冰供應（冰雕站可兼作站冰供應）
+• 書面記錄缺口
+
+**步驟 2——當日冷鏈計劃**
+• 三文魚和海膽於服務開始前 ≤ 2 小時到達場地
+• 如果場地無冷藏：冷藏車留現場作為冷藏；產品以 20 分鐘批次轉移至站
+• 運輸期間在產品箱附溫度記錄器（三文魚目標 ≤4°C，海膽目標 ≤2°C）
+• 活動前溫度檢查書面記錄；拒收門檻書面定義
+
+**步驟 3——服務期補貨**
+• 海膽小食站：最多每 20 分鐘補貨；絕不讓托盤停留更久
+• 三文魚刺身站：每 30 分鐘補貨；從冷藏保留的後備輪換盤
+• 自助三文魚站：較長保留可接受（適當冰下最多 90 分鐘）但質量降低
+• 展示盤下浮動冰每 30 分鐘刷新
+
+**步驟 4——活動後文件**
+• 溫度日誌至少保留 30 天
+• 任何食品安全事件 24 小時內升級
+• 產出與訂購記錄供預測完善
+
+**香港活動到會商學到的昂貴教訓：** 9 月底戶外產品發布含刺身站——無冷藏車，期望「幾個冷藏箱就夠」。90 分鐘內三文魚已達 8–10°C。當賓客在站前明顯猶豫時品牌印象受損；一位媒體出席者拍攝了溫度顯示。到會商失去了 24 個月 HKD $2.4M 的續約合同。冷藏車邊際成本本應為 HKD $4,500。
+
+**高風險活動的後備應急：**
+
+• 確認可向場地位置同日緊急交付的次級供應商
+• 非廚房場地的場內後備冷藏（便攜式單元租金約 HKD $1,500/日）
+• 預先安排的升級鏈：誰決定啟用應急，在什麼時間窗口內
+• 對於遊艇活動：碼頭碼頭的影子冷藏作為後備
+
+**企業場地特定的冷藏運輸標準：**
+
+評估供應商交付能力時，詢問：
+• 交付車輛是否含 GPS 追蹤和溫度遙測？
+• 您能在交付時提供溫度日誌印本嗎？
+• 一旦卡車裝載後，您最後一英里交付的最大時間窗口是多少？
+• 您在活動日於香港境內有後備車輛產能嗎？13:["$","div","3",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"非廚房場地的冷鏈物流"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$1c"}]]}]
+1d:Tebd,企業到會以投標報價定價運營。理解海鮮成本結構有助到會商保護利潤，並幫助企業買家識別定價危險信號。
+
+**高端海鮮課程的每位賓客成本明細（企業格式）：**
+
+**三文魚小食站（每位 3 件 × 8 克 = 24 克）**
+• 三文魚成本（刺身級挪威/蘇格蘭）：每位 24 克 HKD $3.30–4.80
+• 擺盤人工（小食組裝）：每位 HKD $3.50
+• 配料（黃瓜、蒔蘿、刺山柑、blini）：每位 HKD $2.50
+• 站人工（制服侍應）：每位攤銷 HKD $4.00
+• 食材+人工總成本：每位 HKD $13.30–14.80
+• 典型到會商投標價：每位 HKD $48–88
+• 毛利率（食材+人工）：72–83%
+
+**海膽小食站（每位 1 件 × 6 克）**
+• 海膽成本（北海道紫海膽 A 級）：每位 6 克 HKD $6.60–8.40
+• 高端海膽（馬糞 AA 級）：每位 6 克 HKD $13.20–17.40
+• 擺盤人工（精細組裝）：每位 HKD $5.00
+• 配料（匙、飾物、微草本）：每位 HKD $1.50
+• 食材+人工總成本：每位 HKD $13.10–24.40
+• 典型到會商投標價：每位 HKD $48–148
+• 毛利率：72–85%
+
+**刺身自助站（估計 50% 賓客訪問，每次 60 克）**
+• 三文魚成本：每位混合成本 = (60 克 × HKD $0.14/克) × 50% = 每位 HKD $4.20
+• 站人工（切片+侍應）：每位攤銷 HKD $5.00
+• 設置+展示基礎設施：每位攤銷 HKD $3.00
+• 總成本：每位混合 HKD $12.20
+• 典型到會商站投標：每位 HKD $35–60
+• 毛利率：65–80%
+
+**企業到會海鮮運營利潤滲漏點：**
+
+• **賓客人數過量訂購**：±20% 賓客人數變動意味著到會商常超量訂購 15–20% 作為「安全」緩衝。一年下來，這累積到海鮮支出的 5–8% 浪費。改用分層配額紀律。
+• **最後一刻現貨購買**：當供應商配額不足時，現貨購買成本可比承諾價高 25–40%。直接原因：提前期紀律失敗。
+• **格式不匹配份量**：以平擺晚宴量（每位 40 克三文魚）為小食活動定份量浪費 50% 產品。建立格式特定計算範本。
+• **冷鏈失敗報廢**：非廚房場地冷鏈失敗在 2 小時內毀掉產品。HKD $1,500/日的後備冷藏租金在首次預防事件時就回本。
+• **未開帳的場地+運輸附加費**：許多到會商吸收冷藏運輸和場地冷藏租金而非定價進客戶報價。在提案中分列這些。
+• **VIP 室訂單偏少**：忘記為 VIP 室單獨計算份量是第二常見的利潤滲漏（在格式不匹配份量之後）。
+
+**企業買家視角：到會投標中的危險信號**
+
+對於評估到會投標的企業買家（市場、HR、活動代理）：
+
+• **不切實際的高端海鮮定價**：如果投標列出北海道馬糞 AA 在小食站每位 HKD $30，到會商要麼沒有鎖定配額，要麼將在活動時降級替代。書面要求等級規格。
+• **非廚房場地無冷鏈計劃**：投標應包括冷藏運輸、現場後備冷藏、溫度記錄。缺席是創造事件風險的成本削減信號。
+• **模糊交付窗口**：「當日交付」對非廚房場地不夠。提案應出現具體 2 小時交付窗口。
+• **無賓客人數變動協議**：未規定 ±20% 賓客人數變動如何定價的投標製造意外。書面要求變動協議。
+
+**企業買家的經濟學：**
+
+300 位賓客週年晚宴含高端海鮮小食站產生以下品牌印象成本：
+• 三文魚+海膽小食站：HKD $130/位 × 300 = HKD $39,000（中層定價）
+• 鎖定配額、冷鏈保護版本：相同 HKD $39,000，但可靠交付
+• 現貨購買、無冷鏈版本：相同 HKD $39,000，但有 30%+ 事件風險
+
+採購質量就是品牌體驗質量。將海鮮視為單項目的企業買家放棄了品牌價值。14:["$","div","4",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"成本結構：企業到會海鮮的利潤所在"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$1d"}]]}]
+1e:Tb0a,通用供應商標準適用。企業到會運營疊加四項額外必備：
+
+**1. 格式靈活性和短提前期產能**
+
+企業活動常在同一活動跨平擺、小食、自助和 VIP 室格式。供應商需支持全部四種。詢問：
+• 您能無 4 週通知供應小食份量三文魚（vs. 刺身塊）嗎？
+• 您在任何時間庫存中有等級多樣性（A、AA、馬糞、紫）供短提前期配額嗎？
+• 您對確認 5 公斤海膽訂單的典型 1 週響應時間是多少？
+• 11 月–1 月旺季您能交付的最大 1 週緊急量是多少？
+
+**2. 賓客人數變動容納政策**
+
+與婚宴 ±2 圍實際上限不同，企業到會商需供應商政策應對 ±20% 變動。詢問：
+• 您能承諾 + ___% 上行彈性（通常 15–20%）而無現貨市場定價嗎？
+• 您要求的下行保護（最低支付保證）是多少？
+• 您如何處理活動前 7 天、3 天、24 小時的訂單量變化？
+• 如果超過上行彈性，替代路徑是什麼？
+
+**3. 非廚房場地交付能力**
+
+場地多樣性是企業特有的複雜性。詢問：
+• 您能直接交付到非酒店場地（HKCEC、亞洲國際博覽館、藝廊、戶外場地）嗎？
+• 您為最後一英里運輸提供溫度記錄嗎？
+• 您在活動日於香港境內的後備車輛產能是多少？
+• 您之前交付過[具體場地]嗎？您能引用到會運營總監嗎？
+
+**4. 季度量預測 + 業務檢視**
+
+企業到會量呈塊狀——11 月/12 月可承擔年度海鮮支出的 30–40%。供應商需圍繞您的活動日曆規劃庫存週期。詢問：
+• 您會參加涵蓋下 13 週確認活動的季度業務檢視嗎？
+• 您能對我未來日曆提前 4–8 週配額嗎？
+• 即使市場價格飆升，您會為確認活動保護價格嗎？
+• 您有指定的客戶管理聯絡（非輪換銷售代表）嗎？
+
+**企業到會供應商評估的特定危險信號：**
+
+• 供應商抗拒非酒店場地交付
+• 供應商堅持標準逐週訂貨 vs. 未來日曆配額
+• 供應商在常規訂單上未事先通知就替代等級（旺季週行為信號）
+• 供應商無法提供溫度日誌文件
+• 無指定客戶聯絡（單一銷售代表對年做 30+ 活動的賬戶不夠）
+• 無法按名說具體場地或活動經驗
+
+**對香港企業到會運營有效的關係模式：**
+
+• 聚焦下 13 週確認活動的季度業務檢視
+• 旺季（11–1 月、3–5 月）的標準每週量預測通話
+• 提前 4–8 週的未來日曆配額含書面承諾
+• 為一年中 5–10 個最高風險活動預鎖配額（最大客戶的年終週年宴、行政退修等）
+• 非廚房場地活動的聯合應急規劃
+• 透明發票對賬和質量問題記錄
+
+以此參與級別運營的供應商在普通供應商失敗的 11 月–1 月旺季交付。15:["$","div","5",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"供應商評估：企業到會運營應要求什麼"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$1e"}]]}]
+16:["$","div","6",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"實用攻略：從企業活動 RFP 到當日執行"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"**單一企業活動的端到端採購工作流程：**\n\n**在 RFP/代理簡報（8–16 週前）**\n• 捕獲預期活動日期、目標賓客人數、場地類型、格式（平擺/小食/自助）\n• 標記活動是否落入 11 月–1 月或 3 月–5 月旺季\n• 浮現 VIP 室/行政組件（如相關）\n\n**在場地+到會選定（6–10 週前）**\n• 確認非廚房複雜性的場地評估\n• 到會確認海鮮規格、格式、高端組件\n• 暫定量請求傳達給海鮮供應商\n• 供應商在 5 個工作日內確認產能\n\n**在菜單試菜+初步賓客人數（4–6 週前）**\n• 最終菜單確認；計算格式調整量\n• 書面請求初步供應商配額\n• 供應商書面確認配額（量、等級、價格上限、交付窗口）\n• 非廚房場地冷鏈計劃書面記錄\n\n**在配額鎖定（2–4 週前）**\n• 賓客人數細化至 ±10%；雙向書面承諾量\n• 確定後備供應商以應急量\n• 確認冷鏈交付窗口（非廚房場地的活動前 2 小時窗口）\n• 替代協議書面記錄（尤其是等級靈活的旺季週）\n• 場內冷藏容量驗證\n\n**活動週（最終調整）**\n• 確認最終賓客人數（預期 ±5%）\n• 重新確認冷鏈計劃；冷藏車預訂確認\n• 與場地運營確認場地進入時機\n• 與到會樓層團隊活動前簡報——誰決定如果冷鏈失敗時拒收\n\n**活動日**\n• T-2h：到場交付、溫度檢查、書面記錄\n• T-90m：設置開始；非廚房場地冷藏車留現場\n• T-30m：站設置完成；後備產品在冷藏\n• 服務：按協議的補貨週期（刺身/海膽每 20–30 分鐘）\n• 服務後：產出記錄、質量反饋日誌\n\n**活動後（5 個工作日內）**\n• 產出分析：訂購 vs. 實際供應，按產品\n• 向供應商提供質量反饋（正面 AND 負面）\n• 如份量計算偏差，更新格式特定計算範本\n• 對賬發票\n• 如活動屬旺季，安排供應商 QBR\n\n**不可跳過的一項紀律：** 維護按活動的採購記錄，捕獲實際交付的賓客人數、實際收到的產品、等級、格式、產出和任何質量或冷鏈事件。12 個月下來，這些數據區分了在旺季持續交付的企業到會商和搶購的到會商。數據也在供應商 QBR 中給您談判槓桿——實際交付量是 11 月–1 月旺季配額保護的最強案例。"}]]}]
+17:["$","div",null,{"className":"border-t border-gray-200 pt-8 mt-12 prose prose-lg max-w-none","children":["$","p",null,{"className":"text-gray-700 leading-relaxed","children":"香港企業到會海鮮採購在三個結構性方面與婚宴採購不同：較短的提前期、較大的賓客人數變動和更頻繁的非廚房場地。在此遊戲中勝出的採購團隊建立格式特定計算範本，將 2–4 週配額窗口視為不容妥協，將非廚房場地的冷鏈計劃納入投標而非隱形吸收這些成本，並與能在 11 月–1 月旺季擴展的供應商維持未來日曆配額關係。經濟回報誘人——高端海鮮企業組件產生 70%+ 利潤——但執行風險是不對稱的。300 位賓客產品發布的冷鏈事件失敗可使到會商失去續約合同，並使客戶品牌損失超過活動本身價值。為可靠性而非僅價格採購的企業到會商和企業買家，保護其客戶以高端價格購買的品牌印象。"}]}]
+18:["$","div",null,{"className":"mt-12 p-8 bg-indigo-50 rounded-lg border border-indigo-200","children":[["$","h3",null,{"className":"text-xl font-bold text-gray-900 mb-3","children":"香港企業到會運營的高端海鮮——稻荷環球食品"}],["$","p",null,{"className":"text-gray-700 mb-4","children":"我們向香港企業到會運營、活動代理和酒店宴會團隊供應刺身級海膽和三文魚——具備未來日曆配額鎖定、±20% 賓客人數變動容納、向非廚房場地的冷藏最後一英里交付，以及 11 月–1 月旺季的專屬客戶管理。聯繫我們討論您的企業活動日曆、場地檔案和供應商評估標準，我們將在 24 小時內提供企業到會採購方案。"}],["$","a",null,{"href":"/zh-HK/contact","className":"inline-block px-6 py-3 bg-indigo-600 text-white rounded-lg font-semibold hover:bg-indigo-700 transition","children":"聯繫我們"}]]}]
+19:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"海膽三文魚"}],["$","p",null,{"className":"text-sm","children":"您在香港及澳門的優質海膽及三文魚信賴合作夥伴。"}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"首頁"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$Lf",null,{"href":"/zh-HK/about","className":"hover:text-white","children":"關於我們"}]}],["$","li",null,{"children":["$","$Lf",null,{"href":"/zh-HK/sea-urchin","className":"hover:text-white","children":"海膽"}]}],["$","li",null,{"children":["$","$Lf",null,{"href":"/zh-HK/salmon","className":"hover:text-white","children":"三文魚"}]}],["$","li",null,{"children":["$","$Lf",null,{"href":"/zh-HK/blog","className":"hover:text-white","children":"資訊"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"聯絡我們"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","海膽三文魚",". ","版權所有。"]}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1f:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"IconMark"]
+8:null
+c:[["$","title","0",{"children":"香港企業活動海鮮採購完全指南 2026：到會商、會議廳及週年晚宴的採購攻略 | 優質海膽及三文魚 | 香港及澳門"}],["$","meta","1",{"name":"description","content":"香港企業活動海鮮採購指南：週年晚宴、AGM、產品發布會、尾牙及會議到會。提前期計算、RFP 規格、賓客人數變動、非廚房場地冷鏈物流，以及針對企業運營的供應商評估標準。"}],["$","meta","2",{"name":"keywords","content":"海膽, 三文魚, 香港, 澳門, 海鮮, 日本海膽, 優質海鮮, 批發海鮮, 新鮮三文魚, uni, sea urchin, salmon"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://inari-kira-isla.github.io/hk-seafood-website/zh-HK/blog/hk-corporate-catering-seafood-sourcing/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://inari-kira-isla.github.io/hk-seafood-website/en/blog/hk-corporate-catering-seafood-sourcing/"}],["$","link","6",{"rel":"alternate","hrefLang":"zh-HK","href":"https://inari-kira-isla.github.io/hk-seafood-website/zh-HK/blog/hk-corporate-catering-seafood-sourcing/"}],["$","meta","7",{"property":"og:title","content":"香港企業活動海鮮採購完全指南 2026：到會商、會議廳及週年晚宴的採購攻略"}],["$","meta","8",{"property":"og:description","content":"香港企業活動海鮮採購指南：週年晚宴、AGM、產品發布會、尾牙及會議到會。提前期計算、RFP 規格、賓客人數變動、非廚房場地冷鏈物流，以及針對企業運營的供應商評估標準。"}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"優質海膽及三文魚 | 香港及澳門"}],["$","meta","12",{"name":"twitter:description","content":"香港及澳門領先的優質海膽及三文魚供應商。新鮮來自日本、加拿大及全球優質產地。批發及零售。"}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1f","14",{}]]
