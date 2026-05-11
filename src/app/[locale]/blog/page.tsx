@@ -15,6 +15,13 @@ const content = {
     articlesTitle: "Latest Articles",
     articles: [
       {
+        slug: "macau-seafood-sourcing-guide-2026",
+        category: "Macau Guide",
+        date: "May 2026",
+        title: "Macau Seafood Sourcing Guide 2026: Sea Urchin & Salmon for Casinos, Hotels and Restaurants",
+        summary: "Practical sourcing guide for Macau F&B operators. Cross-border HK-Macau logistics, IAM regulatory documentation, event-volume planning, pricing comparison vs Hong Kong, and supplier evaluation criteria specific to casino, hotel banquet, and fine dining operations.",
+      },
+      {
         slug: "sea-urchin-wholesale-guide-hk",
         category: "Buying Guide",
         date: "May 2026",
@@ -178,6 +185,13 @@ const content = {
     intro: "香港及澳門海膽及三文魚行業的專業指南及市場洞察。",
     articlesTitle: "最新文章",
     articles: [
+      {
+        slug: "macau-seafood-sourcing-guide-2026",
+        category: "澳門指南",
+        date: "2026年5月",
+        title: "澳門海鮮採購完全指南 2026：賭場、酒店及餐廳的海膽與三文魚採購",
+        summary: "澳門餐飲運營商的實用採購指南。跨境港澳物流、IAM 監管文件、活動量規劃、與香港比較的定價、以及針對賭場、酒店宴會及高級餐飲運營的供應商評估標準。",
+      },
       {
         slug: "sea-urchin-wholesale-guide-hk",
         category: "採購指南",
