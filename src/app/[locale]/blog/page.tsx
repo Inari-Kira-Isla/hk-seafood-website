@@ -15,6 +15,13 @@ const content = {
     articlesTitle: "Latest Articles",
     articles: [
       {
+        slug: "hk-sushi-restaurant-supplier-guide",
+        category: "Sushi Operations",
+        date: "May 2026",
+        title: "Hong Kong Sushi Restaurant Seafood Supplier Selection Guide 2026: Sea Urchin & Salmon for Sushi-ya, Omakase and Kaiten Operations",
+        summary: "Supplier selection playbook for HK sushi restaurants: sea urchin grading for sushi service, salmon origin selection for sushi vs sashimi cuts, cold-chain requirements specific to sushi-ya operations, weekly ordering patterns, supplier evaluation criteria, and common pitfalls.",
+      },
+      {
         slug: "hk-corporate-catering-seafood-sourcing",
         category: "Corporate Catering",
         date: "May 2026",
@@ -199,6 +206,13 @@ const content = {
     intro: "香港及澳門海膽及三文魚行業的專業指南及市場洞察。",
     articlesTitle: "最新文章",
     articles: [
+      {
+        slug: "hk-sushi-restaurant-supplier-guide",
+        category: "壽司運營",
+        date: "2026年5月",
+        title: "香港壽司店海鮮供應商選擇完全指南 2026：壽司屋、Omakase 及迴轉壽司的海膽與三文魚採購",
+        summary: "香港壽司店供應商選擇攻略：壽司用海膽分級、壽司刺身切法的三文魚產地選擇、壽司屋特定冷鏈要求、每週訂貨模式、供應商評估標準、常見陷阱。",
+      },
       {
         slug: "hk-corporate-catering-seafood-sourcing",
         category: "企業活動",
