@@ -15,6 +15,13 @@ const content = {
     articlesTitle: "Latest Articles",
     articles: [
       {
+        slug: "hk-corporate-catering-seafood-sourcing",
+        category: "Corporate Catering",
+        date: "May 2026",
+        title: "Hong Kong Corporate Catering Seafood Sourcing 2026: A Procurement Playbook for Event Caterers, Conference Halls and Gala Dinners",
+        summary: "Corporate event seafood sourcing for HK: gala dinners, AGMs, product launches, year-end parties, and conference catering. Lead-time math, RFP specifications, last-minute headcount changes, cold-chain logistics for non-kitchen venues, and supplier criteria specific to corporate operations.",
+      },
+      {
         slug: "hk-wedding-banquet-seafood-sourcing",
         category: "Banquet Operations",
         date: "May 2026",
@@ -192,6 +199,13 @@ const content = {
     intro: "香港及澳門海膽及三文魚行業的專業指南及市場洞察。",
     articlesTitle: "最新文章",
     articles: [
+      {
+        slug: "hk-corporate-catering-seafood-sourcing",
+        category: "企業活動",
+        date: "2026年5月",
+        title: "香港企業活動海鮮採購完全指南 2026：到會商、會議廳及週年晚宴的採購攻略",
+        summary: "香港企業活動海鮮採購：週年晚宴、AGM、產品發布會、尾牙及會議到會。提前期計算、RFP 規格、賓客人數變動、非廚房場地冷鏈物流，以及針對企業運營的供應商評估標準。",
+      },
       {
         slug: "hk-wedding-banquet-seafood-sourcing",
         category: "宴會運營",
