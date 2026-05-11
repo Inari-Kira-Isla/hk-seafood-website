@@ -21,7 +21,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!isValidLocale(locale)) return {};
 
   const dict = await getDictionary(locale);
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://example.com";
 
   const verificationGoogle = process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION;
   const verificationBing = process.env.NEXT_PUBLIC_BING_SITE_VERIFICATION;
@@ -33,13 +32,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     description: dict.metadata.description,
     keywords: dict.metadata.keywords,
-    alternates: {
-      canonical: `${baseUrl}/${locale}`,
-      languages: {
-        en: `${baseUrl}/en`,
-        "zh-HK": `${baseUrl}/zh-HK`,
-      },
-    },
     openGraph: {
       title: dict.metadata.title,
       description: dict.metadata.description,

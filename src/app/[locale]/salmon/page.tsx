@@ -3,6 +3,7 @@ import { getDictionary } from "@/i18n/dictionaries";
 import { Header, Footer } from "@/components/navigation";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import { alternatesFor } from "@/lib/seo";
 
 type Props = { params: Promise<{ locale: string }> };
 
@@ -101,7 +102,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   if (!isValidLocale(locale)) return {};
   const c = content[locale];
-  return { title: c.title, description: c.metaDesc };
+  return { alternates: alternatesFor(locale as Locale, "salmon"), title: c.title, description: c.metaDesc };
 }
 
 export default async function SalmonPage({ params }: Props) {

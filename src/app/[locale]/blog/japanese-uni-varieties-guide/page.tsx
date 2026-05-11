@@ -3,6 +3,7 @@ import { getDictionary } from "@/i18n/dictionaries";
 import { Header, Footer } from "@/components/navigation";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import { alternatesFor } from "@/lib/seo";
 
 type Props = { params: Promise<{ locale: string }> };
 
@@ -86,6 +87,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!isValidLocale(locale)) return {};
   const c = content[locale as keyof typeof content];
   return {
+    alternates: alternatesFor(locale as Locale, "blog/japanese-uni-varieties-guide"),
     title: c.title,
     description: c.metaDesc,
     openGraph: { title: c.title, description: c.metaDesc, type: "article" },

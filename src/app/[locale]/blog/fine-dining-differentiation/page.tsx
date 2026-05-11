@@ -3,6 +3,7 @@ import { getDictionary } from "@/i18n/dictionaries";
 import { Header, Footer } from "@/components/navigation";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import { alternatesFor } from "@/lib/seo";
 
 type Props = { params: Promise<{ locale: string }> };
 
@@ -91,6 +92,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const localeContent = content[locale as Locale];
 
   return {
+    alternates: alternatesFor(locale as Locale, "blog/fine-dining-differentiation"),
     title: localeContent.title,
     description: localeContent.metaDesc,
     openGraph: {

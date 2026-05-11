@@ -3,6 +3,7 @@ import { getDictionary } from "@/i18n/dictionaries";
 import { Header, Footer } from "@/components/navigation";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import { alternatesFor } from "@/lib/seo";
 
 type Props = { params: Promise<{ locale: string }> };
 
@@ -234,13 +235,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const isZh = locale === "zh-HK";
   return {
+    alternates: alternatesFor(locale as Locale, "faq"),
     title: isZh ? "常見問題 | 稻荷環球食品" : "FAQ | Inari Global Food",
     description: isZh
       ? "香港澳門海膽三文魚常見問題解答。採購、品質、保存、送貨及批發查詢。"
       : "Frequently asked questions about sea urchin (uni) and salmon supply in Hong Kong and Macau. Quality, sourcing, delivery and wholesale enquiries.",
-    alternates: {
-      canonical: `/${locale}/faq`,
-    },
   };
 }
 

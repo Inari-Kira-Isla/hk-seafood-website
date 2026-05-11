@@ -3,6 +3,7 @@ import { getDictionary } from "@/i18n/dictionaries";
 import { Header, Footer } from "@/components/navigation";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import { alternatesFor } from "@/lib/seo";
 
 type Props = { params: Promise<{ locale: string }> };
 
@@ -149,9 +150,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const isZh = locale === "zh-HK";
   const d = isZh ? content["zh-HK"] : content["en"];
   return {
+    alternates: alternatesFor(locale as Locale, "sea-urchin/varieties"),
     title: d.title + " | Inari Global Food",
     description: d.metaDesc,
-    alternates: { canonical: `/${locale}/sea-urchin/varieties` },
   };
 }
 
