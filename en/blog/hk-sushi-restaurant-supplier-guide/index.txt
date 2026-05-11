@@ -1,0 +1,221 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+6:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
+d:I[68027,[],"default"]
+:HL["/_next/static/chunks/77a76d60b8e76c26.css","style"]
+0:{"P":null,"b":"c-1bNgJ-7Qm1bZtBmCWte","c":["","en","blog","hk-sushi-restaurant-supplier-guide",""],"q":"","i":false,"f":[[["",{"children":[["locale","en","d"],{"children":["blog",{"children":["hk-sushi-restaurant-supplier-guide",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/77a76d60b8e76c26.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/270437cba3e5c91b.js","async":true,"nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+e:I[68471,["/_next/static/chunks/270437cba3e5c91b.js"],"WhatsAppButton"]
+4:["$","html",null,{"lang":"en","children":["$","body",null,{"className":"antialiased","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":[\"Organization\",\"LocalBusiness\"],\"name\":\"Uni & Salmon\",\"description\":\"Hong Kong and Macau's leading supplier of premium sea urchin (uni) and salmon. Fresh from Japan, Canada, and worldwide sources.\",\"url\":\"https://inari-kira-isla.github.io/hk-seafood-website\",\"areaServed\":[{\"@type\":\"City\",\"name\":\"Hong Kong\",\"sameAs\":\"https://www.wikidata.org/wiki/Q8646\"},{\"@type\":\"City\",\"name\":\"Macau\",\"sameAs\":\"https://www.wikidata.org/wiki/Q14773\"}],\"knowsAbout\":[\"Sea urchin\",\"Uni\",\"海膽\",\"Salmon\",\"三文魚\",\"Seafood wholesale\",\"Seafood import\",\"Japanese uni\",\"Sashimi-grade salmon\"],\"makesOffer\":[{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Product\",\"name\":\"Premium Sea Urchin\",\"category\":\"Seafood\",\"description\":\"Premium uni sourced from Japan, Canada, and more. Ideal for sashimi and sushi.\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Product\",\"name\":\"Premium Salmon\",\"category\":\"Seafood\",\"description\":\"Sashimi-grade salmon, air-freighted fresh with guaranteed quality.\"}}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Uni & Salmon\",\"url\":\"https://inari-kira-isla.github.io/hk-seafood-website\",\"inLanguage\":[{\"@type\":\"Language\",\"name\":\"English\",\"alternateName\":\"en\"},{\"@type\":\"Language\",\"name\":\"Chinese (Traditional, Hong Kong)\",\"alternateName\":\"zh-HK\"}],\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://inari-kira-isla.github.io/hk-seafood-website/search?q={search_term_string}\",\"query-input\":\"required name=search_term_string\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Where can I buy fresh sea urchin in Hong Kong?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"We supply fresh sea urchin (uni) sourced from Japan, Canada, and more, delivered directly to Hong Kong and Macau. Available wholesale and retail.\"}},{\"@type\":\"Question\",\"name\":\"What grades of salmon do you offer?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Salmon is primarily graded as sashimi-grade and cooking-grade. We specialize in sashimi-grade salmon suitable for raw consumption and fine dining.\"}},{\"@type\":\"Question\",\"name\":\"What varieties of sea urchin do you supply?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"We supply various types of uni including Japanese Bafun uni, Murasaki uni, Canadian red sea urchin, and more, depending on season and origin.\"}}]}"}}],null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}],["$","$Le",null,{"locale":"en"}]]}]}]
+f:I[22016,["/_next/static/chunks/270437cba3e5c91b.js","/_next/static/chunks/7c92e96509cd355e.js"],""]
+10:T46c,Hong Kong has one of Asia's densest sushi restaurant markets — more than 800 venues ranging from HKD $200 lunch sets to HKD $4,000+ omakase counters. For sushi operators, supplier selection is not a procurement back-office decision: it is a daily quality control function that determines whether the rice-to-fish ratio reads as professional craft or as bargain shortcut. Two ingredients carry disproportionate weight in that judgment — sea urchin and salmon. Uni signals premium positioning and shows up in 80%+ of HK sushi menus across price tiers. Salmon is the highest-volume single-species turn for most sushi-ya, accounting for 25–40% of nigiri and roll volume. Both products have origin, grade, and cold-chain sensitivity that punish supplier choices that look fine on paper. This guide is a procurement playbook for HK sushi restaurant owners, head chefs, and operations directors selecting seafood suppliers — covering grade selection, origin trade-offs, cold-chain specifics for sushi service, supplier evaluation criteria, and the pitfalls most often responsible for the gap between menu spec and counter delivery.11:Ta6f,Sushi restaurant procurement looks very different across HK's four main segments. Supplier evaluation begins with knowing which segment you operate in and which one your supplier was actually built for.
+
+**Segment 1: Premium omakase counters (HKD $1,800–$4,500+ per guest)**
+• Volume: 8–20 covers per service × 1–2 services per day = small daily volume
+• Sea urchin: 80–150g per service (3–6 guests × 25g feature use), AA Bafun or Murasaki grade required
+• Salmon: minimal — typically not on premium omakase counters, or only as fatty Norwegian belly cut in 1 piece per guest
+• Supplier needs: same-day delivery on small-batch premium grades, written grade certification, willingness to support 30–50 lined items annually
+
+**Segment 2: Mid-tier sushi-ya (HKD $400–$1,500 per guest, à la carte + omakase mix)**
+• Volume: 30–80 covers per service × 2 services per day = moderate daily volume
+• Sea urchin: 200–500g per day, A or AA grade, mix of Hokkaido + Maine origin acceptable
+• Salmon: 4–10 kg per day, sashimi-grade Norwegian or Tasmanian, full sides + portioned blocks
+• Supplier needs: reliable next-day delivery, multi-grade inventory, support for seasonal menu rotation, ability to handle 6-day-per-week operations
+
+**Segment 3: Kaiten and conveyor-belt sushi (HKD $150–$400 per guest)**
+• Volume: 200–500 covers per day, high-throughput
+• Sea urchin: 100–300g per day if served; often Maine or B-grade Hokkaido to control food cost
+• Salmon: 15–40 kg per day, sashimi-grade portioned blocks for consistency
+• Supplier needs: high-volume reliability, standardized portion sizing, predictable pricing across multi-month commitments, capacity to deliver 6–7 days per week
+
+**Segment 4: Hotel + department-store sushi counters (variable pricing, often within Japanese restaurant)**
+• Volume: 80–200 covers per day, peak at lunch and dinner
+• Sea urchin: 150–400g per day across counter + restaurant
+• Salmon: 8–25 kg per day across menu uses (nigiri, roll, donburi)
+• Supplier needs: alignment with corporate procurement standards, certifications and traceability documentation, ability to support multi-property accounts
+
+**Why segment-fit matters more than price:** Suppliers built for high-volume kaiten operations rarely have the small-batch flexibility for omakase counters. Suppliers serving omakase rarely have the volume capacity or cost structure to serve kaiten. The procurement mistake repeated across HK sushi-ya is matching to a supplier with the wrong segment-fit, then complaining about service issues that are actually mismatch issues. Confirm segment-fit first, price second.5:[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$Lf",null,{"href":"/en","className":"text-xl font-bold text-gray-900","children":"Uni & Salmon"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$Lf",null,{"href":"/en","className":"text-sm text-gray-700 hover:text-gray-900","children":"Home"}],["$","$Lf",null,{"href":"/en/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"About Us"}],["$","$Lf",null,{"href":"/en/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"Sea Urchin"}],["$","$Lf",null,{"href":"/en/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"Salmon"}],["$","$Lf",null,{"href":"/en/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"Blog"}],["$","$Lf",null,{"href":"/en/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"Contact"}],["$","$Lf",null,{"href":"/zh-HK","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"中文"}]]}]]}]}],["$","main",null,{"className":"min-h-screen bg-white","children":["$","article",null,{"className":"max-w-3xl mx-auto px-4 py-12 sm:px-6 lg:px-8","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"mb-4","children":["$","span",null,{"className":"inline-block px-3 py-1 bg-indigo-100 text-indigo-800 rounded-full text-sm font-semibold mb-3","children":"Sushi Operations"}]}],["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"Hong Kong Sushi Restaurant Seafood Supplier Selection Guide 2026: Sea Urchin & Salmon for Sushi-ya, Omakase and Kaiten Operations"}],["$","p",null,{"className":"text-gray-600","children":"May 2026"}]]}],["$","div",null,{"className":"prose prose-lg max-w-none mb-12","children":["$","p",null,{"className":"text-lg text-gray-700 leading-relaxed","children":"$10"}]}],["$","div",null,{"className":"prose prose-lg max-w-none","children":[["$","div","0",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"The HK Sushi Market in 2026: Segment, Volume, and What Suppliers Need to Match"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$11"}]]}],"$L12","$L13","$L14","$L15"]}],"$L16","$L17"]}]}],"$L18"]
+19:Tbe4,Uni at the sushi counter is judged on three properties the diner can see: color (golden, not muddy), texture (lobes intact, not melted), and shape (lobes hold up on rice during the 8–15 seconds between hand-formed piece and consumption).
+
+**Grade hierarchy for sushi use:**
+
+• **AA Bafun (Hokkaido)**: smallest, sweetest, most intense flavor; lobes are firm and hold shape on rice; standard for premium omakase. Wholesale HKD $850–$1,400 per 100g uni board (板). Service yield: 50–60g of plate-ready uni per board.
+
+• **AA Murasaki (Hokkaido)**: larger lobes, milder flavor, longer service window before texture degrades; very common at HKD $700–$1,500 nigiri-counters. Wholesale HKD $580–$950 per 100g board. Service yield: 60–75g per board.
+
+• **A Murasaki**: still board (板) presentation, slightly less uniform lobe size, occasional broken pieces; the workhorse of mid-tier sushi-ya. Wholesale HKD $420–$680 per 100g board. Service yield: 55–70g per board.
+
+• **B-grade or non-board pack (gunkan grade)**: pre-broken lobes, often sold by the gram in a tub rather than as a 100g board. Suitable for gunkan (battleship) maki where presentation tolerates imperfect lobes. Wholesale HKD $250–$420 per 100g. Service yield: ~90% (less trim waste).
+
+• **Maine (US East Coast)**: larger, paler, less sweet; lower cost and longer cold-chain reliability (different sea route). Common in kaiten and as a B-tier substitute. Wholesale HKD $180–$320 per 100g.
+
+**Board (板) vs tray (托) presentation:**
+
+Premium omakase requires uni delivered on the original wooden Hokkaido board (板) intact, with lobes visible and arranged. Mid-tier and kaiten can use tray-packed (托) presentations where lobes are placed individually after thaw or after pre-portioning. Confirm with your supplier whether the board comes intact and what the substitution policy is if a board arrives partially broken — this is the single most common quality dispute in HK sushi procurement.
+
+**Seasonal availability and supplier sourcing:**
+
+• **Hokkaido Bafun**: peak season June–September; reduced availability October–May (Maine substitution common)
+• **Hokkaido Murasaki**: more consistent year-round; small price spike November–February
+• **Maine**: year-round, with summer (June–August) tighter due to US domestic demand
+• **Russian Sakhalin / Chilean**: occasionally on HK market — disclose to omakase guests, never substitute silently for advertised Hokkaido
+
+**The supplier conversation that protects your menu:**
+
+• What is your typical lead time for AA Bafun in [target month]?
+• What is the substitution path if Hokkaido is unavailable — will you notify before delivery or substitute silently?
+• Do you provide board-level origin documentation (港) that I can show guests if asked?
+• What is your rejection policy if a board arrives with broken lobes exceeding 20% of the board area?
+• Can I receive same-day delivery on small-batch premium boards, or do I need to commit by Friday for Monday delivery?12:["$","div","1",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Sea Urchin for Sushi Service: Grade Selection, Origin Trade-offs, Board Presentation"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$19"}]]}]
+1a:Tee8,Salmon is the volume backbone of most HK sushi-ya. The procurement decisions that compound into menu quality are origin selection and cut specification — not price.
+
+**Origin profiles for sushi service:**
+
+• **Norwegian (Norway sea-farmed Atlantic salmon)**: highest fat content (typically 14–18% intramuscular), large fillet size, even fat distribution, mild flavor. Standard choice for HK sushi-ya across price tiers. Wholesale HKD $130–$180 per kg (full sides), HKD $160–$240 per kg (portioned sashimi blocks). Sushi-grade certification standard with most suppliers.
+
+• **Faroe Islands**: similar to Norwegian but slightly firmer texture and 12–16% fat. Increasingly preferred by sushi chefs who want texture (firmer bite) without losing fat-driven flavor. Wholesale HKD $145–$200 per kg. Less consistent supply chain than Norway.
+
+• **Tasmanian (Australian)**: very high fat content (16–20%), darker color, fuller flavor; some chefs prefer Tasmanian belly for fatty (toro) presentations. Wholesale HKD $170–$240 per kg. Shorter air-freight route to HK = slightly fresher arrival, but supply is more variable.
+
+• **Scottish**: similar fat profile to Norwegian (12–16%), slightly different flavor; ASC and RSPCA certifications often easier to obtain. Wholesale HKD $135–$190 per kg.
+
+• **Chilean (Atlantic salmon farmed in Chile)**: lower wholesale cost, but historically variable on sea-lice antibiotic regulations and freshness due to long air-freight route. Standard for kaiten and budget operations. Wholesale HKD $90–$140 per kg. Inspect each shipment carefully.
+
+• **Wild salmon (Pacific species: King, Coho, Sockeye)**: rarely used for sushi nigiri in HK due to lower fat content and tighter texture (better cooked); occasionally featured as a seasonal omakase piece. Not a routine procurement category for sushi-ya.
+
+**Cut specification matters as much as origin:**
+
+Most suppliers offer salmon in three cut formats. Your menu requirements drive which mix you need:
+
+• **Full sides (3–5 kg per side)**: best yield economics, but requires in-house breakdown skill; standard for omakase and full-service sushi-ya
+• **Pre-portioned blocks (saku, 200–500g)**: 15–25% cost premium, but eliminates breakdown labor and gives consistent portion control; standard for kaiten and high-volume operations
+• **Sliced sashimi (pre-cut nigiri-ready)**: 40–60% cost premium, used by smaller hotel counters and convenience-format operations; ages faster after cut so must be used within 24 hours of delivery
+
+**The cold-chain-specific concern for sushi salmon:**
+
+Salmon for sushi service must arrive at ≤4°C with no temperature deviation during transport. The cold-chain failure indicator most often missed by sushi-ya is the day-3-after-delivery test: salmon that was thermally abused during transport will start showing brown discoloration along the bloodline and lose firmness on the cutting board within 48–72 hours of arrival — by which time the supplier will deny responsibility. Document delivery temperature with a written log and reject any side that arrived above 5°C.
+
+**Sushi-grade certification — what to actually ask for:**
+
+The term 'sushi-grade' is unregulated globally and means different things to different suppliers. The conversation to have:
+
+• Has the salmon been frozen to -20°C or below for at least 24 hours (FDA parasite-kill standard) or sourced from sea-farmed operations with verified parasite-free certification?
+• What is the time elapsed between harvest and arrival at your HK warehouse?
+• What is the time elapsed between your warehouse and my back door?
+• Can you provide HACCP and lot-level traceability documentation?
+• What is your inspection-and-reject policy if I detect quality issues within 24 hours of delivery?13:["$","div","2",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Salmon for Sushi: Origin Selection for Sushi-Grade vs Sashimi-Grade Cuts"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$1a"}]]}]
+1b:Te21,Sushi service has cold-chain requirements that differ from restaurant operations broadly. The fish is consumed raw, sliced fresh-to-order or prepped within a 4–6 hour service window, and judged on micron-level visual quality at the counter. Cold-chain discipline is the difference between menu spec and reality.
+
+**Delivery window timing for sushi-ya:**
+
+• **Optimal**: delivery 2–4 hours before opening service, allowing temperature stabilization and pre-service prep
+• **Acceptable**: delivery night before with overnight controlled chiller storage (≤2°C for uni, ≤4°C for salmon)
+• **Suboptimal**: delivery during service hours (disrupts prep flow + inspection rushed)
+• **Unacceptable**: delivery at temperatures above protocol — reject and document
+
+**Inspection protocol on arrival (every shipment, no exceptions):**
+
+• **Uni boards**: check seal intact, board surface uniformly cold to touch (≤2°C), lobes intact and golden-colored (not dull or melted), no liquid pooling on board
+• **Salmon sides**: check core temperature with probe thermometer (≤4°C), color uniformity along bloodline (no brown patches), fat distribution visible and even, no sour/ammonia odor
+• **Pre-portioned salmon**: check vacuum-pack integrity, color, no liquid in pack
+
+Document every inspection with a written log (digital or paper). Suppliers who take quality seriously will support this; suppliers who push back are the ones who will dispute quality issues later.
+
+**Service-shift product handling:**
+
+• **Pre-service prep**: uni boards transferred to working chiller 30 minutes before service start; salmon broken down to portioned blocks 60–90 minutes before service
+• **During service**: uni held at ≤2°C in counter chiller, never on open counter; salmon held at ≤4°C, brought up to slicing in 200–400g portions
+• **Between services**: all product returned to walk-in chiller, never left at room temperature even briefly
+• **End of service**: yield documentation — actual portions served vs prep portions, with carryover to next service tracked
+
+**The 18-hour clock for uni:**
+
+Uni boards have a sharp quality cliff after 18 hours from the harvest-pack to the counter — texture starts to soften, lobes lose definition, and the visual signal of 'fresh uni' begins to degrade. The procurement implication: order frequency for premium omakase should ideally be daily; mid-tier sushi-ya can run on 3-times-per-week if cold-chain is disciplined; kaiten can run on 2-times-per-week with quality compromise accepted.
+
+**The 72-hour window for salmon nigiri:**
+
+Salmon retains nigiri-quality texture and color for approximately 72 hours after delivery at ≤4°C. Beyond 72 hours, color fades and texture softens. Procurement frequency for sushi-ya is typically twice-weekly (Monday + Thursday delivery, for example) to keep all served product within the 72-hour window.
+
+**Day-of-delivery service flow that protects quality:**
+
+A disciplined HK sushi-ya delivery day looks like this:
+
+• 09:00 — supplier delivers, head chef inspects, signs off or rejects
+• 09:30 — temperature documented; product transferred to walk-in chiller in original packaging
+• 11:00 — pre-service prep begins; uni boards moved to counter chiller; salmon sides broken down
+• 11:30 — lunch service
+• 14:30 — between-service reset; carryover yield documented
+• 17:30 — dinner service prep
+• 23:00 — end-of-day yield log; carryover items flagged for next-day priority
+
+Suppliers who consistently land at 09:00 (vs 'sometime in the morning') are the ones who enable this discipline.14:["$","div","3",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Cold-Chain and Service Timing Specific to Sushi Operations"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$1b"}]]}]
+1c:T11c4,Generic supplier criteria apply (transparency, traceability, certifications). Sushi operations layer on four sushi-specific evaluation criteria.
+
+**1. Grade-and-origin honesty**
+
+The single most common quality issue in HK sushi procurement is silent grade or origin substitution. The discipline:
+
+• Demand written grade and origin documentation on every shipment
+• Reject substitution without prior notice — even when the substitution is technically equivalent or upward
+• Track substitution frequency by supplier over a quarter; suppliers above 5% silent-substitution rate fail evaluation
+• For omakase operations: require lot-level traceability that you can reference if a guest asks 'where is this uni from'
+
+**2. Daily-to-three-times-weekly delivery cadence**
+
+Sushi operations need higher delivery frequency than restaurants more broadly. Suppliers who deliver only twice-weekly cannot serve premium sushi-ya at quality level. Confirm:
+
+• Is daily delivery available year-round, or only during your peak?
+• What is the minimum order quantity for daily delivery?
+• What is the delivery time window (e.g., 09:00–10:30) and how consistent is it month-over-month?
+• What is the protocol if a typhoon, public holiday, or supplier-side disruption affects scheduled delivery?
+
+**3. Cold-chain documentation and inspection-friendly culture**
+
+Suppliers who provide temperature logs and accept inspection-and-reject protocols build long-term trust. Suppliers who resist documentation are signaling they don't want their cold-chain examined.
+
+• Will the delivery driver wait while you probe-check core temperatures?
+• Will the supplier provide GPS+temperature transport telemetry on request?
+• What is the written reject-and-replace policy if a shipment fails inspection?
+• How fast can a replacement shipment arrive (same-day vs next-day) and at what cost?
+
+**4. Volume-flexibility for sushi-ya weekly patterns**
+
+Sushi-ya volume is lumpy in predictable ways — Friday/Saturday peaks 1.8–2.2x weekday baseline, lunch is generally 40–50% of dinner volume, special-occasion weeks (Mother's Day, Valentine's, year-end) can spike 2.5–3x normal. Suppliers need to handle this lumpiness without spot-pricing penalties or stockouts.
+
+• Can you handle weekly volume variance of ±50% without spot pricing?
+• What is the upside flexibility commitment for special-occasion weeks (need to know 2 weeks ahead)?
+• What is the downside protection (minimum pay) you require for committed weekly allocation?
+
+**Common pitfalls specific to HK sushi procurement:**
+
+• **Pitfall 1 — Choosing on price during quiet season, then discovering during peak that supplier cannot scale.** Run a stress test by asking 'show me how you handled Mother's Day weekend volume last year' before committing.
+
+• **Pitfall 2 — Accepting 'sushi-grade' as a meaningful designation.** It is not regulated. Always confirm the underlying freeze protocol or parasite-free certification.
+
+• **Pitfall 3 — Ignoring substitution patterns until they impact a guest review.** Track substitution frequency in writing from week 1 of any new supplier relationship.
+
+• **Pitfall 4 — Single-source procurement for premium grades.** Always maintain a secondary supplier with confirmed allocation, even at small volume, for AA Bafun and similar premium grades that have supply shocks.
+
+• **Pitfall 5 — Not measuring delivery-temperature on receipt.** A probe thermometer costs HKD $300 and is the single most valuable procurement tool in a sushi-ya kitchen.
+
+• **Pitfall 6 — Treating salmon as commodity.** Origin and cut specification matter as much as price; commodity-sourced salmon shows up as quality variance at the counter and as cost-of-quality complaints from chefs.
+
+**The supplier relationship pattern that works for HK sushi-ya:**
+
+• Weekly volume forecast call during peak periods (Friday for next week's commitment)
+• Daily inspection-and-document discipline on every shipment
+• Quarterly business review covering substitution rates, quality issues, special-occasion week performance, and forward outlook
+• Written allocation commitments for special-occasion weeks 2–4 weeks ahead
+• A named account contact who knows your menu, your peak patterns, and your quality tolerance — not a rotating sales rep
+
+Sushi-ya that operate at this relationship level deliver consistent counter quality across years; sushi-ya that procure transactionally show quality variance that compounds into review-site complaints over time.15:["$","div","4",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Supplier Evaluation and Common Pitfalls in HK Sushi Procurement"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$1c"}]]}]
+1d:T434,HK sushi restaurant supplier selection is a daily quality control function disguised as a procurement decision. The sushi-ya that win on consistency build supplier relationships oriented around segment-fit (not just price), grade-and-origin honesty enforced through written documentation, daily-to-three-times-weekly delivery cadence with reliable timing, cold-chain documentation and inspection discipline, and volume-flexibility for the lumpy weekly + seasonal patterns specific to HK sushi service. The economics favor disciplined procurement — premium sushi-ya operate at 65–75% gross margin on the seafood line — but the execution risk is asymmetric. Silent grade substitution, cold-chain failures, and supply gaps during peak weeks compound into guest-experience variance that is very expensive to recover in a market as review-sensitive as HK. Sushi operators who treat supplier selection as a craft discipline — not a sourcing back-office function — protect both daily counter quality and long-term reputation in one of Asia's most competitive sushi markets.16:["$","div",null,{"className":"border-t border-gray-200 pt-8 mt-12 prose prose-lg max-w-none","children":["$","p",null,{"className":"text-gray-700 leading-relaxed","children":"$1d"}]}]
+17:["$","div",null,{"className":"mt-12 p-8 bg-indigo-50 rounded-lg border border-indigo-200","children":[["$","h3",null,{"className":"text-xl font-bold text-gray-900 mb-3","children":"Premium Sea Urchin & Salmon for HK Sushi Restaurants — Inari Global Food"}],["$","p",null,{"className":"text-gray-700 mb-4","children":"We supply sashimi-grade sea urchin and salmon to Hong Kong sushi-ya, omakase counters, and kaiten operations — with daily-to-three-times-weekly delivery cadence, AA Bafun and Murasaki board availability, multiple salmon origins (Norwegian, Faroe, Tasmanian, Scottish), full cold-chain temperature documentation, and written grade-and-origin certification on every shipment. Contact us to discuss your sushi-ya segment, weekly volume patterns, and supplier evaluation criteria, and we'll put together a sushi procurement proposal within 24 hours."}],["$","a",null,{"href":"/en/contact","className":"inline-block px-6 py-3 bg-indigo-600 text-white rounded-lg font-semibold hover:bg-indigo-700 transition","children":"Get in Touch"}]]}]
+18:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"Uni & Salmon"}],["$","p",null,{"className":"text-sm","children":"Your trusted partner for premium sea urchin and salmon in Hong Kong & Macau."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Home"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$Lf",null,{"href":"/en/about","className":"hover:text-white","children":"About Us"}]}],["$","li",null,{"children":["$","$Lf",null,{"href":"/en/sea-urchin","className":"hover:text-white","children":"Sea Urchin"}]}],["$","li",null,{"children":["$","$Lf",null,{"href":"/en/salmon","className":"hover:text-white","children":"Salmon"}]}],["$","li",null,{"children":["$","$Lf",null,{"href":"/en/blog","className":"hover:text-white","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Contact Us"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","Uni & Salmon",". ","All rights reserved."]}]]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1e:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"IconMark"]
+8:null
+c:[["$","title","0",{"children":"Hong Kong Sushi Restaurant Seafood Supplier Selection Guide 2026: Sea Urchin & Salmon for Sushi-ya, Omakase and Kaiten Operations | Premium Sea Urchin & Salmon | Hong Kong & Macau"}],["$","meta","1",{"name":"description","content":"Supplier selection playbook for Hong Kong sushi restaurants: sea urchin grading for sushi service, salmon origin selection for sushi vs sashimi cuts, cold-chain requirements specific to sushi-ya operations, weekly ordering patterns, supplier evaluation criteria, and common pitfalls."}],["$","meta","2",{"name":"keywords","content":"sea urchin, uni, salmon, Hong Kong, Macau, seafood, Japanese uni, premium seafood, wholesale seafood, fresh salmon"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://inari-kira-isla.github.io/hk-seafood-website/en/blog/hk-sushi-restaurant-supplier-guide/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://inari-kira-isla.github.io/hk-seafood-website/en/blog/hk-sushi-restaurant-supplier-guide/"}],["$","link","6",{"rel":"alternate","hrefLang":"zh-HK","href":"https://inari-kira-isla.github.io/hk-seafood-website/zh-HK/blog/hk-sushi-restaurant-supplier-guide/"}],["$","meta","7",{"property":"og:title","content":"Hong Kong Sushi Restaurant Seafood Supplier Selection Guide 2026: Sea Urchin & Salmon for Sushi-ya, Omakase and Kaiten Operations"}],["$","meta","8",{"property":"og:description","content":"Supplier selection playbook for Hong Kong sushi restaurants: sea urchin grading for sushi service, salmon origin selection for sushi vs sashimi cuts, cold-chain requirements specific to sushi-ya operations, weekly ordering patterns, supplier evaluation criteria, and common pitfalls."}],["$","meta","9",{"property":"og:type","content":"article"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Premium Sea Urchin & Salmon | Hong Kong & Macau"}],["$","meta","12",{"name":"twitter:description","content":"Hong Kong and Macau's leading supplier of premium sea urchin (uni) and salmon. Fresh from Japan, Canada, and worldwide sources. Wholesale and retail."}],["$","link","13",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1e","14",{}]]
