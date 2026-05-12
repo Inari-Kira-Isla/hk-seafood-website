@@ -15,6 +15,13 @@ const content = {
     articlesTitle: "Latest Articles",
     articles: [
       {
+        slug: "hk-private-chef-omakase-supplier-guide",
+        category: "Private Chef Operations",
+        date: "May 2026",
+        title: "Hong Kong Private Chef & Home Omakase Supplier Guide 2026: Sea Urchin & Salmon Procurement for Independent Chefs, Yacht Dinners and Pop-Up Counters",
+        summary: "B2B procurement playbook for HK's 200-500+ private chefs and home omakase operators. Segment landscape, single-source liability, small-pack sea urchin selection, sashimi-grade salmon origins, and discreet cold-chain logistics for back-to-back private bookings.",
+      },
+      {
         slug: "hk-sushi-restaurant-supplier-guide",
         category: "Sushi Operations",
         date: "May 2026",
@@ -206,6 +213,13 @@ const content = {
     intro: "香港及澳門海膽及三文魚行業的專業指南及市場洞察。",
     articlesTitle: "最新文章",
     articles: [
+      {
+        slug: "hk-private-chef-omakase-supplier-guide",
+        category: "私人廚師運營",
+        date: "2026年5月",
+        title: "香港私人廚師及家庭 Omakase 供應商指南 2026：獨立廚師、遊艇晚宴及彈出式板前的海膽與三文魚採購",
+        summary: "香港 200-500+ 私人廚師及家庭 Omakase 運營者的 B2B 採購攻略。細分版圖、單一來源責任、小批量海膽選擇、刺身級三文魚產地，以及背靠背私人預訂的低調冷鏈物流。",
+      },
       {
         slug: "hk-sushi-restaurant-supplier-guide",
         category: "壽司運營",
