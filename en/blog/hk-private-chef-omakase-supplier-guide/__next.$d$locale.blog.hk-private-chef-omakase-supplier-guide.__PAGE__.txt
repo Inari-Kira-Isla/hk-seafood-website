@@ -1,0 +1,253 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/270437cba3e5c91b.js","/_next/static/chunks/7c92e96509cd355e.js"],""]
+13:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+3:T4e7,Hong Kong's private-chef and home-omakase segment has gone from a small post-pandemic curiosity to one of the fastest-growing F&B categories in the city. The community now numbers 200-500+ active operators — independent chefs running home dinners for private clients, yacht-charter pop-ups, brand-collaboration omakase nights, members-club takeovers, and HKD $1,800-$5,000-per-head intimate counters operated out of converted residential kitchens. They are a distinct buyer profile, but the existing seafood procurement playbook in HK is written for commercial-kitchen operators with walk-in chillers, multi-week purchase orders, and brigade staffing. None of that applies to a private chef preparing 8 covers in a client's penthouse kitchen on Wednesday, an 18-cover yacht charter on Friday, and a 12-cover home omakase on Saturday. This guide is the procurement playbook for that segment — covering the HK private-chef landscape, why supplier choice carries disproportionate single-source liability for independent chefs, sea urchin selection for small-pack premium settings, salmon origin selection for omakase and canapé use, and the logistics realities of back-to-back private bookings across HK's island, Kowloon, and New Territories addresses.4:Tf5c,The private-chef segment looks like one category from the outside but operates as five distinct service models, each with different procurement needs. Suppliers built for a restaurant brigade can rarely serve all five; private chefs evaluating suppliers need to know which model they primarily operate in.
+
+**Model 1: Home dinner private chefs (HKD $1,500-$3,500 per guest)**
+• Volume: 6-12 covers per booking, 2-4 bookings per week
+• Sea urchin: 100-200g per booking — typically AA Bafun or Murasaki, served as a single feature course (uni risotto, uni temaki, uni-topped chawanmushi)
+• Salmon: 1.5-3 kg per booking — sashimi-grade for crudo and tartare courses, often Norwegian or Tasmanian belly
+• Supplier needs: small-pack availability (100g/200g uni boards, half-side salmon), same-day delivery to residential addresses, willingness to send WhatsApp confirmation with delivery ETA
+
+**Model 2: Yacht-charter and outdoor pop-up chefs (HKD $2,200-$4,500 per guest)**
+• Volume: 12-24 covers per charter, weekend-skewed bookings
+• Sea urchin: 200-400g per charter — uni canapés, uni-topped tartare
+• Salmon: 3-6 kg per charter — cured/smoked applications hold better in marine settings than raw nigiri; sashimi-grade also used for amuse-bouches consumed at quay
+• Supplier needs: Friday morning delivery to Aberdeen Marina Club / Causeway Bay Typhoon Shelter / RHKYC, ice-pack-loaded transport boxes the chef can take to the boat, ability to deliver before 10:00 on weekend departure days
+
+**Model 3: Home omakase counters (HKD $1,800-$5,000 per guest)**
+• Volume: 6-10 covers per service, 3-5 services per week, residential or licensed serviced-apartment kitchens
+• Sea urchin: 80-160g per service — AA Bafun or Murasaki, board (板) presentation, 2-3 pieces per guest across multi-course progression
+• Salmon: minimal — premium home omakase often skips salmon entirely or uses 1 piece of Norwegian/Tasmanian belly
+• Supplier needs: daily delivery, board-intact uni guarantee, written grade documentation the chef can show guests, willingness to support 6-8 line items per delivery
+
+**Model 4: Brand collaboration and event omakase (HKD $2,800-$6,000 per guest)**
+• Volume: 15-30 covers per event, irregular bookings (1-3 per month), often paired with luxury brand activations, gallery openings, or private-club launches
+• Sea urchin: 300-600g per event — premium grades for brand-tier expectation, often with origin storytelling integrated into the menu narrative
+• Salmon: variable depending on event format (omakase course vs canapé station)
+• Supplier needs: 2-4 week lead-time on premium grade allocation, written origin and traceability documentation for brand-PR use, willingness to provide product photography rights or origin video assets
+
+**Model 5: Members-club takeover and residency chefs (HKD $1,800-$4,000 per guest)**
+• Volume: 12-20 covers per service, 2-week to 3-month residencies inside licensed members-club kitchens
+• Sea urchin: 200-500g per service depending on residency menu prominence
+• Salmon: 3-8 kg per service if salmon-featured residency menu
+• Supplier needs: short-term account setup (no long credit terms), residency-period billing, ability to deliver to members-club back-of-house with security clearance
+
+**Why segment-model fit matters for private chefs:** A supplier serving 800-cover hotel banquets cannot economically deliver 100g uni boards to a 12-floor walkup in Sai Ying Pun. A supplier serving home-dinner chefs may lack the volume capacity for a 30-cover yacht charter on 4-day notice. Private chefs procuring without confirming model-fit end up paying for service tiers they don't need (high MOQs, full-side salmon they have to break down themselves) or accepting service tiers below their menu requirement (B-grade uni when the menu spec is AA Bafun). Confirm service-model fit before volume fit, and volume fit before price.0:{"buildId":"ElQ72J3YPPlQAep61Vg9Z","rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"border-b border-gray-200 bg-white/80 backdrop-blur-sm sticky top-0 z-50","children":["$","nav",null,{"className":"max-w-6xl mx-auto px-4 py-4 flex items-center justify-between","children":[["$","$L2",null,{"href":"/en","className":"text-xl font-bold text-gray-900","children":"Uni & Salmon"}],["$","div",null,{"className":"flex items-center gap-6","children":[["$","$L2",null,{"href":"/en","className":"text-sm text-gray-700 hover:text-gray-900","children":"Home"}],["$","$L2",null,{"href":"/en/about","className":"text-sm text-gray-700 hover:text-gray-900","children":"About Us"}],["$","$L2",null,{"href":"/en/sea-urchin","className":"text-sm text-gray-700 hover:text-gray-900","children":"Sea Urchin"}],["$","$L2",null,{"href":"/en/salmon","className":"text-sm text-gray-700 hover:text-gray-900","children":"Salmon"}],["$","$L2",null,{"href":"/en/blog","className":"text-sm text-gray-700 hover:text-gray-900","children":"Blog"}],["$","$L2",null,{"href":"/en/contact","className":"text-sm text-gray-700 hover:text-gray-900","children":"Contact"}],["$","$L2",null,{"href":"/zh-HK","className":"text-sm px-3 py-1 border border-gray-300 rounded-md hover:bg-gray-50","children":"中文"}]]}]]}]}],["$","main",null,{"className":"min-h-screen bg-white","children":["$","article",null,{"className":"max-w-3xl mx-auto px-4 py-12 sm:px-6 lg:px-8","children":[["$","header",null,{"className":"mb-8","children":[["$","div",null,{"className":"mb-4","children":["$","span",null,{"className":"inline-block px-3 py-1 bg-indigo-100 text-indigo-800 rounded-full text-sm font-semibold mb-3","children":"Private Chef Operations"}]}],["$","h1",null,{"className":"text-4xl font-bold text-gray-900 mb-4","children":"Hong Kong Private Chef & Home Omakase Supplier Guide 2026: Sea Urchin & Salmon Procurement for Independent Chefs, Yacht Dinners and Pop-Up Counters"}],["$","p",null,{"className":"text-gray-600","children":"May 2026"}]]}],["$","div",null,{"className":"prose prose-lg max-w-none mb-12","children":["$","p",null,{"className":"text-lg text-gray-700 leading-relaxed","children":"$3"}]}],["$","div",null,{"className":"prose prose-lg max-w-none","children":[["$","div","0",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"The HK Private Chef Landscape in 2026: Segments, Service Models, and What Suppliers Need to Match"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$4"}]]}],"$L5","$L6","$L7","$L8"]}],"$L9","$La"]}]}],"$Lb"],["$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+e:T13c7,A restaurant kitchen has buffers: walk-in chiller backup, secondary supplier accounts, brigade staffing that can pivot to alternate courses, and a multi-day reservation book that distributes any single-shipment failure across many guests. Private chefs have none of those buffers. The procurement decisions that look the same on paper as a restaurant order carry materially different risk for an independent chef.
+
+**Risk 1: Single-shipment failure = service failure**
+
+When a sushi-ya receives a salmon side at 6°C instead of 4°C, the head chef rejects it and pulls salmon from existing chiller stock. When a private chef receives the same problem 4 hours before service, there is no chiller backup, no alternate supplier reachable on weekend hours, and the menu cannot be rebuilt without the client noticing. The implications:
+
+• Suppliers serving private chefs need to commit to written reject-and-replace policies that work on Saturday morning, not Monday-Friday only
+• Same-day replacement capability is a non-negotiable supplier criterion — confirm before committing
+• Private chefs should always maintain a backup supplier relationship even at low volume, just for emergency replacement capacity
+
+**Risk 2: Substitution invisible to chef, visible to client**
+
+In a restaurant, silent grade substitution often goes uncaught because the brigade is trusting the supplier and the volume masks individual variance. In a private-chef context, the chef is the only quality-control gate and the client is sitting 1.5 metres away from the cutting board. If a supplier silently swaps Hokkaido Bafun for Maine uni on a HKD $3,500-per-head menu, the chef gets blamed for the dropoff, not the supplier. The discipline:
+
+• Demand written grade-and-origin documentation on every delivery — not just an invoice line item
+• Track substitution events by supplier; one silent swap is enough reason to deprioritize
+• For brand-collaboration menus, require lot-level traceability the chef can reference in the menu printing
+
+**Risk 3: Volume mismatch = stockholding loss**
+
+Restaurants can carry uni and salmon inventory through 2-3 days because they have predictable cover counts and consistent menu structure. Private chefs operate booking-to-booking — what doesn't get used by Sunday is often loss. Suppliers built for restaurant volumes who push 500g uni minimums onto a chef serving 8 covers are forcing the chef into a 50%+ inventory loss every booking. The conversation to have:
+
+• What is the minimum order quantity for AA Bafun in 100g board format?
+• Can you split a 200g pack into two 100g boards if my booking is small?
+• What is the price difference between 100g and 200g packs (often 15-25% premium for smaller pack — usually worth it for private-chef economics)
+• Do you offer Friday-Sunday weekend-flex MOQs distinct from weekday volumes?
+
+**Risk 4: Cold-chain failure during chef's own transport**
+
+Unlike a restaurant, a private chef often picks up product from delivery point, transports it across HK (sometimes 40-60 minutes between residential addresses with no chiller), then uses it within the next 6-8 hours. The cold-chain handoff is not supplier → restaurant chiller → service. It is supplier → chef pickup → chef car/MTR → client kitchen → service. Suppliers who provide insulated transport boxes with gel packs sized for the chef's actual transit time eliminate one of the highest-failure modes in private-chef service.
+
+• Does the supplier provide ice-pack-loaded transport boxes appropriate for 2-4 hour transit?
+• What is the warranty period for product temperature post-handover? Most suppliers' liability ends at handover — but the best private-chef suppliers will provide written guidance on safe transit windows
+• Can the supplier deliver direct to the client kitchen if the chef is doing prep on-site (eliminating the chef-transit step entirely)?
+
+**Risk 5: Liability for sashimi-grade safety on residential service**
+
+A restaurant has commercial general liability insurance covering raw-fish service. A private chef may not — and even if they do, the burden of proof on sashimi-grade safety falls on the chef in a way it does not in licensed restaurant operation. Suppliers who can provide HACCP documentation, parasite-free certification, and lot-level traceability are providing the chef's primary liability defense if a client ever raises a food-safety concern.
+
+• Request HACCP and parasite-protocol documentation on file with the supplier
+• Request lot-level traceability available within 24 hours of any request
+• Build a written supplier-quality-record habit from day one — clients of HKD $3,000-per-head menus expect this level of professionalism
+
+Private chefs who treat procurement as a craft-discipline (not a back-office function) protect their reputation, their menu spec, and their liability position. The economics support this discipline — gross margins on private-chef menus are 55-70% on the food line — but the execution risk is asymmetric and concentrated.5:["$","div","1",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Why Supplier Choice Carries Disproportionate Single-Source Liability for Private Chefs"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$e"}]]}]
+f:T1343,Uni at a private-chef counter or home-dinner table is judged differently than at a restaurant. The client is close enough to see the lobe-by-lobe quality, the chef is presenting the board (板) to the table as a course-defining moment, and the value-per-gram is much higher than in a typical restaurant context. Procurement decisions follow.
+
+**Small-pack format options:**
+
+• **100g board (板) — AA Bafun or AA Murasaki**: the workhorse of home-omakase service. 5-7 plate-ready pieces per board after trim. Wholesale HKD $880-$1,500 per 100g for AA Bafun (small-pack premium ~12-18% above 200g pack price), HKD $620-$1,050 for AA Murasaki.
+
+• **200g board (板) — AA Bafun or AA Murasaki**: economical for 12-18 cover home dinners or yacht charters. 11-15 plate-ready pieces. Wholesale HKD $1,500-$2,700 per 200g for AA Bafun, HKD $1,050-$1,900 for AA Murasaki.
+
+• **Half-board split (50g) — by request from supplier**: rare but possible from suppliers serving the private-chef segment. Used for 4-6 cover intimate dinners where a full 100g board would be loss. Wholesale: typically 100g price + 20-30% split-pack premium.
+
+• **Tub format (gunkan grade or trim) — 100-200g**: useful for uni applications other than nigiri/board-presentation: uni butter for canapés, uni risotto, uni temaki where pre-broken lobes are acceptable. Wholesale HKD $280-$480 per 100g.
+
+• **Frozen Hokkaido uni (specialty)**: occasionally used by private chefs for menu courses where the uni is mixed into a sauce, custard, or risotto and texture preservation is secondary. Wholesale HKD $480-$780 per 100g. Disclose to clients — never substitute silently for fresh.
+
+**Grade-to-menu fit for private-chef use cases:**
+
+• **AA Bafun (Hokkaido) board (板)**: the answer for premium home omakase, brand-collab events, and any menu where uni is the named feature course. Sweet, intense, lobes hold shape on the spoon for the full course window.
+
+• **AA Murasaki (Hokkaido) board (板)**: the answer for home-dinner private chefs at HKD $1,800-$2,500 per head where uni is part of a multi-course progression but not the headline. Slightly milder flavor, longer texture-stability window — forgiving if service runs long.
+
+• **A Murasaki**: workable for yacht-charter canapé use, large-cover (20+) home dinners where economics matter. Some lobe imperfection acceptable in non-feature applications.
+
+• **Gunkan-grade tub**: ideal for uni risotto, uni butter, uni-topped chawanmushi, uni temaki — applications where pre-broken lobes are masked by composition. Common pitfall: ordering board-grade for these applications and over-paying.
+
+• **Maine (US East Coast)**: rarely a fit for premium private-chef menus. Disclose if used in canapé or composed-dish format; never silently substitute for advertised Hokkaido.
+
+• **Frozen Hokkaido**: acceptable for sauces, custards, risotto, butter. Never used for board presentation or as a standalone nigiri piece in private-chef context.
+
+**Single-origin storytelling for brand-collab and premium home-omakase menus:**
+
+HK clients at the HKD $2,500-$5,000-per-head tier expect origin transparency. Private chefs who can name the harvest region, the supplier, and the season-specific characteristics differentiate from chefs who can only say 'Hokkaido uni'. The supplier conversation that enables this:
+
+• Does the supplier provide port-of-origin documentation (e.g., Rebun Island, Rishiri Island, Hakodate, Esashi) on the 100g/200g board?
+• What is the harvest-date documentation available — same-day, week-of, or month-of harvest?
+• Can the supplier provide a 1-2 sentence origin-story note the chef can paraphrase tableside?
+• For brand-collab events, can the supplier provide product photography rights or origin video assets for client-facing menu materials?
+
+**Common procurement pitfalls private chefs make on uni:**
+
+• **Pitfall 1 — Ordering by gram instead of by board**: a 100g 'board' from a small-pack-friendly supplier is presentation-ready; 100g 'by weight' from a restaurant-volume supplier is a re-portioned tub the chef can't present. Confirm board (板) format on order.
+
+• **Pitfall 2 — Not asking about Friday delivery for Saturday service**: many premium uni suppliers run their Hokkaido import flights on Tue/Thu/Sat. A Saturday-service chef may get Wednesday product unless explicitly asking for Friday-arrival flights.
+
+• **Pitfall 3 — Single-source procurement for high-stake events**: a brand-collab event at HKD $4,000 per head with 24 covers cannot fail on uni supply. Confirm allocation 2-4 weeks ahead and maintain a backup supplier accept-or-decline on 24-hour notice for the same window.
+
+• **Pitfall 4 — Paying board-grade prices for applications that don't need board format**: uni butter for canapés does not need AA Bafun board. Right-size the grade to the application; save the premium spend for the headline course.6:["$","div","2",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Sea Urchin Selection for Private-Chef Settings: Small-Pack Economics, Grade-to-Menu Fit, and Origin Storytelling"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$f"}]]}]
+10:T1455,Salmon volume for private chefs is much lower than for sushi-ya — typically 1-6 kg per booking versus 4-40 kg per service in a restaurant — but the per-gram quality stakes are higher. A private-chef client paying HKD $2,500 per head expects the salmon course to be visually distinctive and texturally precise. Origin and cut decisions matter as much as for sushi-ya, with different format implications.
+
+**Origin options for private-chef sashimi-grade use:**
+
+• **Norwegian Atlantic salmon**: 14-18% fat, large fillet, even fat marbling, mild flavor. The default for HK private chefs across the price spectrum. Wholesale HKD $130-$180 per kg full side; HKD $160-$240 per kg portioned blocks. Sushi-grade certification standard.
+
+• **Faroe Islands**: 12-16% fat, firmer texture than Norwegian, slightly less fatty mouthfeel. Increasingly preferred by chefs wanting a firmer-bite salmon course (omakase nigiri or thick-cut crudo). Wholesale HKD $145-$200 per kg. Smaller supplier pool — confirm consistent availability.
+
+• **Tasmanian (Australian)**: 16-20% fat, deeper color, fuller flavor, shorter air-freight route to HK. Preferred for fatty-belly (toro-style) cuts on private-chef omakase. Wholesale HKD $170-$240 per kg. Supply is more variable; book ahead for events.
+
+• **Scottish**: 12-16% fat, Norwegian-similar profile with sometimes-easier ASC/RSPCA certification — relevant for sustainability-conscious clients (yacht events, luxury-brand collabs with sustainability narrative). Wholesale HKD $135-$190 per kg.
+
+• **Chilean Atlantic**: 10-14% fat, lower cost, longer air-freight route — supply quality is variable. Rare in premium private-chef use; occasionally suitable for cured/smoked applications where origin is less visible.
+
+• **Ocean Trout (Tasmanian) — adjacent category**: 14-18% fat, deeper coral color, milder than salmon. Useful as a salmon-alternative course for private menus where the chef wants visual distinction. Wholesale HKD $180-$260 per kg.
+
+**Format options for private-chef volume:**
+
+• **Half-side (1.5-2.5 kg)**: ideal for 8-15 cover home dinners and yacht charters. Chef breaks down on-site or in own kitchen the morning of service. Best yield economics; requires breakdown skill.
+
+• **Quarter-side (0.7-1.2 kg)**: useful for 6-10 cover intimate dinners. 8-15% cost premium versus full side, but eliminates over-purchase loss.
+
+• **Pre-portioned saku block (200-500g)**: 15-25% premium versus full side, but eliminates breakdown labor and gives consistent portion control. Useful for chefs without a fixed prep kitchen, or for events where prep is on-client-site.
+
+• **Pre-cut sashimi slices (vacuum-packed)**: 40-60% premium, used by chefs running multi-event days (yacht morning, home dinner evening) where breakdown time isn't available. Must be used within 24 hours of cut.
+
+**Cured and smoked salmon for canapé and brand-collab use:**
+
+Many private-chef menus use salmon in cured or smoked form rather than raw sashimi — particularly for canapé stations at brand-collaboration events, yacht-charter outdoor settings (raw salmon doesn't hold well in marine air for 30+ minutes), and amuse-bouche service. Procurement considerations:
+
+• **House-cured (chef-prepared from raw side)**: maximum control, 36-48 hour cure cycle in chef's prep schedule, suits residency and home-dinner formats with consistent prep windows
+• **Supplier-cured gravlax or cold-smoked**: faster turnaround, often whole-side format, suitable for last-minute brand-collab additions
+• **Sliced cold-smoked (vacuum-pack)**: highest-cost format, used for canapé stations where 100+ portion slices needed in 60-minute service window. Confirm origin (Norwegian, Scottish, etc.) is documented even on smoked product
+
+**The supplier conversation that protects private-chef salmon procurement:**
+
+• Can you provide half-side or quarter-side formats, not just full sides?
+• What origins are available next week, and which are confirmed allocation versus subject to substitution?
+• What is the temperature documentation provided on delivery (probe-check log, transport telemetry)?
+• Can you provide written sushi-grade documentation per shipment (parasite protocol, harvest date, supplier-to-warehouse transit time)?
+• Do you offer house-cured or supplier-cured options for chefs who don't have 36-hour prep windows?
+
+**Common procurement pitfalls private chefs make on salmon:**
+
+• **Pitfall 1 — Buying full-side when half-side meets the booking**: full-side wholesale is more economical per-kg but only if usage is within 4 days; otherwise the carry-over loss erases the saving. Right-size format to booking.
+
+• **Pitfall 2 — Treating 'sashimi-grade' as a meaningful supplier claim**: it's unregulated. Always confirm parasite protocol on file.
+
+• **Pitfall 3 — Ignoring origin disclosure on canapé and amuse-bouche use**: even when the salmon is cured or smoked and less visually identifiable, HK clients increasingly ask. Have an answer.
+
+• **Pitfall 4 — Not confirming Friday-delivery for Saturday yacht-charter use**: many salmon suppliers default to weekday delivery; yacht-charter chefs need explicit Friday-morning windows.7:["$","div","3",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Salmon Selection for Private-Chef Service: Sashimi-Grade Origins for Omakase, Cured & Smoked for Canapés"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$10"}]]}]
+11:T1747,Restaurant logistics are about delivery-window reliability into a single back-of-house. Private-chef logistics are about reaching residential addresses, marinas, members-clubs, and licensed pop-up venues across HK Island, Kowloon, and the New Territories — often with the chef as the cold-chain handler between supplier and service. The procurement playbook adapts accordingly.
+
+**Delivery-address realities in HK private-chef service:**
+
+• **Residential walkups (Sai Ying Pun, Sheung Wan, To Kwa Wan)**: 4-12 floor walkups with no service-lift. Suppliers need to confirm walkup capability and time-window expectation (a 12-floor walkup adds 8-15 minutes per delivery).
+
+• **Luxury residential towers (Mid-Levels, Repulse Bay, The Peak, Discovery Bay, Sai Kung)**: concierge intercept standard. Many buildings will not accept perishable deliveries without resident sign-on; suppliers need to coordinate timing with the chef who may not be on-site.
+
+• **Marinas (Aberdeen, Causeway Bay Typhoon Shelter, Hebe Haven, Clearwater Bay)**: car-park drop or pier-side handover. Saturday-morning marina deliveries are competitive — suppliers booked Friday afternoon often cannot accommodate Saturday-morning marina drops.
+
+• **Members-clubs (China Club, American Club, Foreign Correspondents' Club, Hong Kong Club, Pacific Club)**: back-of-house security clearance required. Suppliers may need to be pre-registered; allow 2-3 days for first-time clearance.
+
+• **Serviced apartments and licensed home-omakase venues**: ground-floor delivery only; chef-collect on-site at handover.
+
+• **Hotel-pop-up venues**: hotel banquet receiving dock; chef coordinates with hotel banquet manager for receiving handover.
+
+**Same-day delivery as a private-chef procurement criterion:**
+
+Unlike sushi-ya which run on next-day or twice-weekly delivery, private chefs frequently need same-day delivery for:
+
+• Booking confirmations made 36-48 hours before service (common in private-chef bookings, especially yacht and event work)
+• Menu changes driven by client dietary updates 24 hours before service
+• Replacement shipments for quality-rejected deliveries
+• Add-on requests when guest count increases close to service
+
+Suppliers serving the private-chef segment well offer same-day delivery within a defined cutoff window (e.g., orders placed by 10:00 deliver same-day before 16:00). Confirm:
+
+• What is your same-day cutoff window?
+• What is the surcharge for same-day delivery versus next-day?
+• What is your weekend (Friday-Sunday) delivery availability?
+• What is your contingency if a typhoon or public-holiday calendar disrupts the day-of cutoff?
+
+**Discreet labelling and presentation for client-facing handover:**
+
+A portion of private-chef bookings involve the chef receiving delivery directly at the client's residence, in front of the host. Trade-supplier branding on delivery boxes signals that the chef is using a wholesale supplier — which is fine professionally but breaks the intended hospitality experience the chef is curating. Suppliers serving private chefs well offer:
+
+• Unbranded or minimal-branding delivery boxes
+• Insulated transport boxes the chef can re-purpose into the client kitchen without supplier markings
+• Discreet handover protocols where the supplier driver does not interact with the client unless requested
+
+This is a small detail that signals supplier-service awareness for the private-chef segment. Confirm during initial account setup.
+
+**Back-to-back booking cold-chain math:**
+
+Many private chefs run Friday-Saturday-Sunday back-to-back, sometimes 3 bookings in 36 hours across different addresses. The cold-chain math:
+
+• Friday 09:00 supplier delivery to chef's prep kitchen → Friday 17:00 chef transports to Booking 1 address (8-hour walk-in chiller window)
+• Friday 23:00 chef returns home with carryover product → Friday 23:30 carryover into chef's home chiller (next-morning use only)
+• Saturday 08:00 chef transports carryover + supplemental delivery (received Friday or Saturday morning) to Booking 2 marina address
+• Sunday 09:00 chef transports remaining carryover or new delivery to Booking 3 address
+
+The cold-chain breaks if any of: (a) chef's home chiller is above 4°C, (b) transport boxes don't hold ≤4°C for 60-90 minutes of transit, (c) supplier delivery to Saturday morning is unreliable, or (d) carryover product is held longer than 36 hours from delivery.
+
+Suppliers serving private chefs well help model this math during account setup — recommending insulated box sizing, suggesting Friday-morning delivery for Friday-Saturday-Sunday booking sets, and providing written guidance on carryover windows. Suppliers who treat the chef's transport leg as 'not our problem' deliver lower long-term value than suppliers who engage with it.
+
+**The supplier evaluation checklist for HK private-chef logistics:**
+
+• Same-day delivery cutoff confirmed and surcharge known
+• Friday-Sunday weekend delivery availability confirmed for each address type (residential, marina, members-club)
+• Walkup capability confirmed for chef's most common residential delivery floors
+• Members-club back-of-house security clearance pre-registered if applicable
+• Discreet labelling and box-branding preference confirmed
+• Insulated transport box availability for chef-leg cold-chain
+• Reject-and-replace policy that operates Saturday-Sunday
+• Written carryover-window guidance (typically 36-48 hours from delivery at ≤4°C)
+• Public-holiday and typhoon contingency protocol documented
+• Named account contact reachable on WhatsApp during weekend service windows
+
+Private chefs who build supplier relationships against this checklist run smoother back-to-back booking weekends with measurably lower cold-chain failure rates. The economics favor disciplined supplier selection — and the per-booking value at HKD $1,500-$5,000 per head supports the procurement effort.8:["$","div","4",{"className":"mb-8","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"Logistics for Private-Chef Workflow: Same-Day Delivery, Discreet Labelling, Back-to-Back Booking Cold-Chain"}],["$","p",null,{"className":"text-gray-700 leading-relaxed whitespace-pre-line","children":"$11"}]]}]
+12:T608,Hong Kong's private-chef and home-omakase segment is the fastest-growing premium F&B category in the city in 2026, but the procurement playbook written for restaurants does not transfer cleanly. Private chefs operate without commercial-kitchen buffers, carry concentrated single-source liability, transport their own cold-chain across HK addresses, and stake their reputation on supplier choices that are scrutinized 1.5 metres away from the cutting board. The chefs who win on consistency build supplier relationships oriented around service-model fit (home dinner vs yacht vs home omakase vs brand-collab vs residency), small-pack format availability (100g uni boards, half-side salmon, supplier-cured options), same-day weekend delivery capability with discreet labelling, and cold-chain handover protocols that account for the chef's own transit leg. The economics support this discipline — 55-70% gross margins on HKD $1,800-$5,000 per-head menus — but the execution risk is asymmetric. A single silent substitution, a single Saturday-morning delivery failure, a single cold-chain breakdown during chef transit can compound into a client experience that ends a referral chain in a market where private-chef reputation is built on word-of-mouth across a small, well-connected HK client community. Private chefs who treat supplier selection as a craft discipline — not a sourcing back-office function — protect their menu spec, their reputation, and their long-term client base in one of Asia's most demanding private dining markets.9:["$","div",null,{"className":"border-t border-gray-200 pt-8 mt-12 prose prose-lg max-w-none","children":["$","p",null,{"className":"text-gray-700 leading-relaxed","children":"$12"}]}]
+a:["$","div",null,{"className":"mt-12 p-8 bg-indigo-50 rounded-lg border border-indigo-200","children":[["$","h3",null,{"className":"text-xl font-bold text-gray-900 mb-3","children":"Premium Small-Pack Sea Urchin & Salmon for HK Private Chefs — Inari Global Food"}],["$","p",null,{"className":"text-gray-700 mb-4","children":"We supply sashimi-grade sea urchin and salmon to Hong Kong's private-chef and home-omakase community — with small-pack formats (100g/200g uni boards, half-side and quarter-side salmon), same-day weekend delivery to residential, marina, and members-club addresses, discreet labelling, insulated transport boxes for chef-leg cold-chain, multiple origins (Hokkaido Bafun/Murasaki for uni; Norwegian/Faroe/Tasmanian/Scottish for salmon), and written grade-and-origin documentation on every shipment. Contact us to discuss your service model, booking patterns, and supplier evaluation criteria, and we'll put together a private-chef procurement proposal within 24 hours."}],["$","a",null,{"href":"/en/contact","className":"inline-block px-6 py-3 bg-indigo-600 text-white rounded-lg font-semibold hover:bg-indigo-700 transition","children":"Get in Touch"}]]}]
+b:["$","footer",null,{"className":"bg-gray-900 text-gray-300 py-12 px-4","children":[["$","div",null,{"className":"max-w-6xl mx-auto grid md:grid-cols-3 gap-8","children":[["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold text-lg mb-2","children":"Uni & Salmon"}],["$","p",null,{"className":"text-sm","children":"Your trusted partner for premium sea urchin and salmon in Hong Kong & Macau."}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Home"}],["$","ul",null,{"className":"space-y-1 text-sm","children":[["$","li",null,{"children":["$","$L2",null,{"href":"/en/about","className":"hover:text-white","children":"About Us"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/sea-urchin","className":"hover:text-white","children":"Sea Urchin"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/salmon","className":"hover:text-white","children":"Salmon"}]}],["$","li",null,{"children":["$","$L2",null,{"href":"/en/blog","className":"hover:text-white","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h4",null,{"className":"text-white font-semibold mb-2","children":"Contact Us"}],["$","p",null,{"className":"text-sm","children":"Hong Kong & Macau"}]]}]]}],["$","div",null,{"className":"max-w-6xl mx-auto mt-8 pt-8 border-t border-gray-800 text-sm text-center","children":["© ",2026," ","Uni & Salmon",". ","All rights reserved."]}]]}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true}]
+d:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null
